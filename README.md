@@ -3,7 +3,7 @@
     <img src="https://cdn.learnku.com/uploads/images/202009/27/38389/WFQxJ7qZ1k.png!large" height="80"> 
 </div>
 <br>
-
+<p> 因原作者不维护，自用fork </p>
 <p align="center">
     <a href="https://github.com/jqhph/dcat-admin/actions">
         <img src="https://github.com/jqhph/dcat-admin/workflows/Laravel%20Dusk/badge.svg" alt="Build Status">
