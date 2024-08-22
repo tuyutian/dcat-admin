@@ -3,13 +3,13 @@
 namespace Dcat\Admin\Console;
 
 use Dcat\Admin\Support\Helper;
-use Illuminate\Console\Command;
+use Illuminate\Console\GeneratorCommand as GCommand;
 use Illuminate\Console\Concerns\CreatesMatchingTest;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Str;
 use Symfony\Component\Console\Input\InputArgument;
 
-abstract class GeneratorCommand extends Command
+abstract class GeneratorCommand extends GCommand
 {
     protected $baseDirectory;
 

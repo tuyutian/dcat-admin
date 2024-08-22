@@ -2,7 +2,6 @@
 
 namespace Dcat\Admin\Repositories;
 
-use Dcat\Admin\Contracts\TreeRepository;
 use Dcat\Admin\Exception\RuntimeException;
 use Dcat\Admin\Form;
 use Dcat\Admin\Grid;
@@ -12,7 +11,7 @@ use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Str;
 
-class QueryBuilderRepository extends Repository implements TreeRepository
+class QueryBuilderRepository extends Repository
 {
     /**
      * @var string

@@ -14,7 +14,7 @@ class Extension extends Repository
     public function get(Grid\Model $model)
     {
         $data = [];
-        foreach (Admin::extension()->all() as $extension) {
+        foreach (Admin::extension()?->all() as $extension) {
             $data[] = $this->each($extension);
         }
 

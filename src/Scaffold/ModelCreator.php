@@ -192,7 +192,7 @@ class ModelCreator
      */
     protected function replacePrimaryKey(&$stub, $keyName)
     {
-        $modelKey = $keyName == 'id' ? '' : "protected \$primaryKey = '$keyName';\n";
+        $modelKey = $keyName === 'id' ? '' : "protected \$primaryKey = '$keyName';\n";
 
         $stub = str_replace('DummyModelKey', $modelKey, $stub);
 
