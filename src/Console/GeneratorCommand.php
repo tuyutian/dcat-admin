@@ -111,13 +111,7 @@ abstract class GeneratorCommand extends GCommand
      */
     public function __construct(Filesystem $files)
     {
-        parent::__construct();
-
-        if (in_array(CreatesMatchingTest::class, class_uses_recursive($this))) {
-            $this->addTestOptions();
-        }
-
-        $this->files = $files;
+        parent::__construct($files);
     }
 
     /**
