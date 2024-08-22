@@ -17,7 +17,6 @@ export default class SweetAlert2 {
         SwalPlugin.info = this.info.bind(this);
         SwalPlugin.warning = this.warning.bind(this);
         SwalPlugin.confirm = this.confirm.bind(this);
-        console.log(SwalPlugin)
         // Assign SweetAlert2 instance
         w.swal = w.Swal = Dcat.swal = SwalPlugin;
         // Optionally assign confirm method to Dcat
@@ -69,6 +68,6 @@ export default class SweetAlert2 {
             html: message,
         }, options);
 
-        return this.swal.fire(options);
+        return Dcat.swal.fire(options);
     }
 }
