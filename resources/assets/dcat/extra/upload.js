@@ -12,8 +12,9 @@ import AddUploadedFile from './Upload/AddUploadedFile'
  * @see http://fex.baidu.com/webuploader/
  */
 (function (w, $) {
-    let Dcat = w.Dcat;
-
+    if (!w.Dcat) {
+        w.Dcat = {};
+    }
     class Uploader {
         constructor(options) {
             this.options = options = $.extend({
@@ -434,7 +435,7 @@ import AddUploadedFile from './Upload/AddUploadedFile'
         }
     }
 
-    Dcat.Uploader = function (options) {
+    w.Dcat.Uploader = function (options) {
         return new Uploader(options)
     };
 

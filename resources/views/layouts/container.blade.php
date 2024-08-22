@@ -3,7 +3,8 @@
         {{ $configData['navbar_class'] === 'fixed-top' ? 'navbar-fixed-top' : '' }} " >
 
 <script>
-    var Dcat = CreateDcat({!! Dcat\Admin\Admin::jsVariables() !!});
+    window.Dcat = CreateDcat({!! Dcat\Admin\Admin::jsVariables() !!});
+    const Dcat = window.Dcat
 </script>
 
 {!! admin_section(Dcat\Admin\Admin::SECTION['BODY_INNER_BEFORE']) !!}

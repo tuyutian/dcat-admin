@@ -1,1 +1,4655 @@
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('!14(t,e){"4o"==1A ac&&"3d"!=1A a7?a7.ac=e():"14"==1A 83&&83.ep?83(e):t.7V=e()}(1d,14(){"8G eo";14 f(t){17(f="14"==1A 5i&&"ag"==1A 5i.en?14(t){17 1A t}:14(t){17 t&&"14"==1A 5i&&t.5Q===5i&&t!==5i.3b?"ag":1A t})(t)}14 o(t,e){1w(!(t 7P e))7K 2M 8i("ek 4A a 1j as a 14")}14 i(t,e){2g(18 n=0;n<e.23;n++){18 o=e[n];o.6x=o.6x||!1,o.7F=!0,"1K"2O o&&(o.6A=!0),2d.e1(t,o.3r,o)}}14 r(t,e,n){17 e&&i(t.3b,e),n&&i(t,n),t}14 a(){17(a=2d.dW||14(t){2g(18 e=1;e<3u.23;e++){18 n=3u[e];2g(18 o 2O n)2d.3b.6I.4A(n,o)&&(t[o]=n[o])}17 t}).4Z(1d,3u)}14 s(t){17(s=2d.94?2d.9f:14(t){17 t.9g||2d.9f(t)})(t)}14 u(t,e){17(u=2d.94||14(t,e){17 t.9g=e,t})(t,e)}14 c(t,e,n){17(c=14(){1w("3d"==1A 47||!47.6P)17!1;1w(47.6P.dV)17!1;1w("14"==1A dU)17!0;89{17 5S.3b.5x.4A(47.6P(5S,[],14(){})),!0}7k(t){17!1}}()?47.6P:14(t,e,n){18 o=[1B];o.4t.4Z(o,e);18 i=2M(dS.90.4Z(t,o));17 n&&u(i,n.3b),i}).4Z(1B,3u)}14 l(t,e){17!e||"4o"!=1A e&&"14"!=1A e?14(t){1w(3l 0===t)7K 2M dQ("1d 9p\'t 9N dP - dL() 9p\'t 9N dJ");17 t}(t):e}14 d(t,e,n){17(d="3d"!=1A 47&&47.2k?47.2k:14(t,e,n){18 o=14(t,e){2g(;!2d.3b.6I.4A(t,e)&&1B!==(t=s(t)););17 t}(t,e);1w(o){18 i=2d.dI(o,e);17 i.2k?i.2k.4A(n):i.1K}})(t,e,n||t)}14 p(e){17 2d.57(e).dH(14(t){17 e[t]})}14 m(t){17 76.3b.dF.4A(t)}14 g(t){8Q.2n("".1n(e," ").1n(t))}14 h(t,e){!14(t){-1===n.3t(t)&&(n.4t(t),y(t))}(\'"\'.1n(t,\'" 53 dD 6q dB be dz 2O dy dx dw dv. du 8G "\').1n(e,\'" ds.\'))}14 v(t){17 t&&36.4y(t)===t}14 t(t){18 e={};2g(18 n 2O t)e[t[n]]="13-"+t[n];17 e}14 b(e,t,n){m(e.3W).2S(14(t){-1===p(k).3t(t)&&-1===p(B).3t(t)&&e.3W.71(t)}),t&&t[n]&&1V(e,t[n])}18 e="6Y:",y=14(t){8Q.dr("".1n(e," ").1n(t))},n=[],w=14(t){17"14"==1A t?t():t},C=2d.5F({3N:"3N",1P:"1P",3e:"3e",6U:"6U",4H:"4H"}),k=t(["1h","1q","1E-1D","5L","1t","3M","26-1P","1b","1b-1q","1b-1R","6R","31","30","6Q","3e","2I","4O","1z","2F","4n","3N","3C","1r","4e","1i","2l","2s","2b","2v","2A","3E","2h","4N","4h-4l","25-3F","3V-25-2D","25-2D","25-2D-1o","2u","2J","19","19-1O","19-27","19-1g","19-1k","1l","1l-1O","1l-27","1l-1g","1l-1k","1v","1v-1O","1v-27","1v-1g","1v-1k","1Y-5M","1Y-1R","1Y-6S","6M"]),B=t(["1f","5J","5I","4q","2n"]),x={4B:1B},S=14(t,e){17 t.3W.3X(e)};14 P(t,e){1w(!e)17 1B;5H(e){3i"2b":3i"2h":3i"2l":17 2y(t,k[e]);3i"2A":17 t.2T(".".1n(k.2A," 1i"));3i"2v":17 t.2T(".".1n(k.2v," 1i:5G"))||t.2T(".".1n(k.2v," 1i:4P-4Q"));3i"2s":17 t.2T(".".1n(k.2s," 1i"));4r:17 2y(t,k.1i)}}14 A(t){1w(t.2c(),"2l"!==t.1U){18 e=t.1K;t.1K="",t.1K=e}}14 L(t,e,n){t&&e&&("3a"==1A e&&(e=e.9n(/\\s+/).6C(9z)),e.2S(14(e){t.2S?t.2S(14(t){n?t.3W.9F(e):t.3W.71(e)}):n?t.3W.9F(e):t.3W.71(e)}))}14 E(t,e,n){n||0===4C(n)?t.1I[e]="4d"==1A n?n+"6y":n:t.1I.aa(e)}14 T(t,e){18 n=1<3u.23&&3l 0!==e?e:"1C";t.1I.2z="",t.1I.2B=n}14 O(t){t.1I.2z="",t.1I.2B="1Z"}14 M(t,e,n){e?T(t,n):O(t)}14 V(t){17!(!t||!(t.8m||t.dp||t.do().23))}14 j(t){18 e=22.4U(t),n=74(e.4v("1L-91")||"0"),o=74(e.4v("6u-91")||"0");17 0<n||0<o}14 q(){17 1m.1e.2T("."+k.1h)}14 H(t){18 e=q();17 e?e.2T(t):1B}14 I(t){17 H("."+t)}14 R(){18 t=2K();17 m(t.4w("."+k.1r))}14 N(){18 t=R().6C(14(t){17 V(t)});17 t.23?t[0]:1B}14 D(){17 I(k.2I)}14 U(){17 I(k.1z)}14 4L(){17 I(k.4e)}14 z(){17 I(k["25-3F"])}14 W(){17 I(k["4h-4l"])}14 K(){17 H("."+k.2F+" ."+k.4n)}14 F(){17 H("."+k.2F+" ."+k.3N)}14 Z(){17 I(k.2F)}14 Q(){17 I(k.4O)}14 Y(){17 I(k.3C)}14 $(){17 I(k.3e)}14 J(){18 t=m(2K().4w(\'[40]:1M([40="-1"]):1M([40="0"])\')).dn(14(t,e){17 t=4C(t.4W("40")),(e=4C(e.4W("40")))<t?1:t<e?-1:0}),e=m(2K().4w(\'a[8n], dm[8n], 1i:1M([2Q]), 2b:1M([2Q]), 2h:1M([2Q]), 3y:1M([2Q]), dl, 4o, dk, [40="0"], [di], dg[8V], df[8V]\')).6C(14(t){17"-1"!==t.4W("40")});17 14(t){2g(18 e=[],n=0;n<t.23;n++)-1===e.3t(t[n])&&e.4t(t[n]);17 e}(t.1n(e)).6C(14(t){17 V(t)})}14 X(){17"3d"==1A 22||"3d"==1A 1m}14 G(t){bj.9d()&&ba!==t.29.1K&&bj.5Z(),ba=t.29.1K}14 5W(t,e){t 7P dd?e.37(t):"4o"===f(t)?9w(e,t):t&&(e.38=t)}18 ba,1V=14(t,e){L(t,e,!0)},3U=14(t,e){L(t,e,!1)},2y=14(t,e){2g(18 n=0;n<t.7x.23;n++)1w(S(t.7x[n],e))17 t.7x[n]},2K=14(){17 I(k.1t)},at=14(){17!5p()&&!1m.1e.3W.3X(k["26-1P"])},5p=14(){17 1m.1e.3W.3X(k["1b-1q"])},9T=\'\\n <1H 2o-dc="\'.1n(k.2I,\'" 2o-d8="\').1n(k.1z,\'" 1j="\').1n(k.1t,\'" 40="-1">\\n   <1H 1j="\').1n(k.4O,\'">\\n     <af 1j="\').1n(k["25-3F"],\'"></af>\\n     <1H 1j="\').1n(k.1r," ").1n(B.2n,\'">\\n       <34 1j="13-x-2V"><34 1j="13-x-2V-1o-1g"></34><34 1j="13-x-2V-1o-1k"></34></34>\\n     </1H>\\n     <1H 1j="\').1n(k.1r," ").1n(B.4q,\'"></1H>\\n     <1H 1j="\').1n(k.1r," ").1n(B.5J,\'"></1H>\\n     <1H 1j="\').1n(k.1r," ").1n(B.5I,\'"></1H>\\n     <1H 1j="\').1n(k.1r," ").1n(B.1f,\'">\\n       <1H 1j="13-1f-35-1o-1g"></1H>\\n       <34 1j="13-1f-1o-3h"></34> <34 1j="13-1f-1o-3c"></34>\\n       <1H 1j="13-1f-6G"></1H> <1H 1j="13-1f-6F"></1H>\\n       <1H 1j="13-1f-35-1o-1k"></1H>\\n     </1H>\\n     <d4 1j="\').1n(k.4e,\'" />\\n     <8k 1j="\').1n(k.2I,\'" 55="\').1n(k.2I,\'"></8k>\\n     <3y 1U="3y" 1j="\').1n(k.3e,\'">&d3;</3y>\\n   </1H>\\n   <1H 1j="\').1n(k.1z,\'">\\n     <1H 55="\').1n(k.1z,\'"></1H>\\n     <1i 1j="\').1n(k.1i,\'" />\\n     <1i 1U="2l" 1j="\').1n(k.2l,\'" />\\n     <1H 1j="\').1n(k.2s,\'">\\n       <1i 1U="2s" />\\n       <46></46>\\n     </1H>\\n     <2b 1j="\').1n(k.2b,\'"></2b>\\n     <1H 1j="\').1n(k.2v,\'"></1H>\\n     <3E 2g="\').1n(k.2A,\'" 1j="\').1n(k.2A,\'">\\n       <1i 1U="2A" />\\n       <34 1j="\').1n(k.3E,\'"></34>\\n     </3E>\\n     <2h 1j="\').1n(k.2h,\'"></2h>\\n     <1H 1j="\').1n(k["4h-4l"],\'" 55="\').1n(k["4h-4l"],\'"></1H>\\n   </1H>\\n   <1H 1j="\').1n(k.2F,\'">\\n     <3y 1U="3y" 1j="\').1n(k.4n,\'">8t</3y>\\n     <3y 1U="3y" 1j="\').1n(k.3N,\'">8x</3y>\\n   </1H>\\n   <1H 1j="\').1n(k.3C,\'">\\n   </1H>\\n </1H>\\n\').d2(/(^|\\n)\\s*/g,""),ct=14(t){1w(14(){18 t=q();t&&(t.3I.7D(t),3U([1m.5a,1m.1e],[k["26-1P"],k["1b-1q"],k["d1-1R"]]))}(),X())g("6Y 7H 1m 3S d0");3m{18 e=1m.3A("1H");e.4F=k.1h,e.38=9T;18 n=14(t){17"3a"==1A t?1m.2T(t):t}(t.29);n.37(e),14(t){18 e=2K();e.2P("cZ",t.1b?"cY":"9e"),e.2P("2o-cX",t.1b?"cW":"cV"),t.1b||e.2P("2o-3M","4M")}(t),14(t){"6M"===22.4U(t).4k&&1V(q(),k.6M)}(n),14(){18 t=U(),e=2y(t,k.1i),n=2y(t,k.2l),o=t.2T(".".1n(k.2s," 1i")),i=t.2T(".".1n(k.2s," 46")),r=2y(t,k.2b),a=t.2T(".".1n(k.2A," 1i")),s=2y(t,k.2h);e.7N=G,n.5R=G,r.5R=G,a.5R=G,s.7N=G,o.7N=14(t){G(t),i.1K=o.1K},o.5R=14(t){G(t),o.cU.1K=o.1K}}()}},9w=14(t,e){1w(t.38="",0 2O e)2g(18 n=0;n 2O e;n++)t.37(e[n].9B(!0));3m t.37(e.9B(!0))},dt=14(){1w(X())17!1;18 t=1m.3A("1H"),e={cT:"cS",cR:"cQ cP",1L:"cO"};2g(18 n 2O e)1w(e.6I(n)&&3l 0!==t.1I[n])17 e[n];17!1}();14 7R(t,e,n){M(t,n["cN"+e.cM(1)+"ad"],"6t-4b"),t.38=n[e+"cL"],t.2P("2o-3E",n[e+"cK"]),t.4F=k[e],b(t,n.2i,e+"ad"),1V(t,n[e+"cJ"])}14 8c(t,e){18 n=Z(),o=K(),i=F();e.5f||e.5e?T(n):O(n),b(n,e.2i,"2F"),7R(o,"4n",e),7R(i,"3N",e),e.7X?14(t,e,n){1V([t,e],k.2J),n.5N&&(t.1I.5E=n.5N),n.6N&&(e.1I.5E=n.6N);18 o=22.4U(t).4v("1J-1u");t.1I.82=o,t.1I.7Z=o}(o,i,e):(3U([o,i],k.2J),o.1I.5E=o.1I.82=o.1I.7Z="",i.1I.5E=i.1I.82=i.1I.7Z="")}14 8C(t,e){18 n=q();n&&(14(t,e){"3a"==1A e?t.1I.1J=e:e||1V([1m.5a,1m.1e],k["26-1P"])}(n,e.1P),!e.1P&&e.5y&&y(\'"5y" 42 7H `1P` 42 3S be 43 3S `4M`\'),14(t,e){e 2O k?1V(t,k[e]):(y(\'8H "2G" 42 53 1M 8K, 8L 3S "1l"\'),1V(t,k.1l))}(n,e.2G),14(t,e){1w(e&&"3a"==1A e){18 n="1Y-"+e;n 2O k&&1V(t,k[n])}}(n,e.1Y),b(n,e.2i,"1h"),e.6j&&1V(n,e.6j))}14 6m(t,e){t.2E&&!e.4Y||(t.2E=e.4Y)}18 bb={5g:2M 5h,3k:2M 5h,3R:2M 5h},96=14(t,e){18 n=P(U(),t);1w(n)2g(18 o 2O 14(t){2g(18 e=0;e<t.99.23;e++){18 n=t.99[e].9c;-1===["1U","1K","1I"].3t(n)&&t.3O(n)}}(n),e)"2s"===t&&"2E"===o||n.2P(o,e[o])},bt=14(t,e,n){t.4F=e,n.5T&&1V(t,n.5T),n.2i&&1V(t,n.2i.1i)},2Y={};2Y.3g=2Y.5j=2Y.9l=2Y.4d=2Y.7J=2Y.62=14(t){18 e=2y(U(),k.1i);17"3a"==1A t.2R||"4d"==1A t.2R?e.1K=t.2R:v(t.2R)||y(\'68 1U 6i 2R! 5k "3a", "4d" 5l "36", 5m "\'.1n(f(t.2R),\'"\')),6m(e,t),e.1U=t.1i,e},2Y.2l=14(t){18 e=2y(U(),k.2l);17 6m(e,t),e.1U=t.1i,e},2Y.2s=14(t){18 e=2y(U(),k.2s),n=e.2T("1i"),o=e.2T("46");17 n.1K=t.2R,n.1U=t.1i,o.1K=t.2R,e},2Y.2b=14(t){18 e=2y(U(),k.2b);1w(e.38="",t.4Y){18 n=1m.3A("9I");n.38=t.4Y,n.1K="",n.2Q=!0,n.9J=!0,e.37(n)}17 e},2Y.2v=14(){18 t=2y(U(),k.2v);17 t.38="",t},2Y.2A=14(t){18 e=2y(U(),k.2A),n=P(U(),"2A");17 n.1U="2A",n.1K=1,n.55=k.2A,n.5G=9z(t.2R),e.2T("34").38=t.4Y,e},2Y.2h=14(t){18 e=2y(U(),k.2h);17 e.1K=t.2R,6m(e,t),e};14 9K(t,e){18 n=U().2T("#"+k.1z);e.5n?(5W(e.5n,n),T(n,"4b")):e.3g?(n.cH=e.3g,T(n,"4b")):O(n),14(t,e){2g(18 n=bb.3k.2k(t),o=!n||e.1i!==n.1i,i=U(),r=["1i","2l","2s","2b","2v","2A","2h"],a=0;a<r.23;a++){18 s=k[r[a]],u=2y(i,s);96(r[a],e.9Q),bt(u,s,e),o&&O(u)}1w(e.1i){1w(!2Y[e.1i])17 g(\'68 1U 6i 1i! 5k "3g", "5j", "9l", "4d", "7J", "2b", "2v", "2A", "2h", "2l" 5l "62", 5m "\'.1n(e.1i,\'"\'));1w(o){18 c=2Y[e.1i](e);T(c)}}}(t,e),b(U(),e.2i,"1z")}14 7E(t,i){18 r=z();1w(!i.2W||0===i.2W.23)17 O(r);T(r),r.38="";18 a=4C(1B===i.56?bj.a5():i.56);a>=i.2W.23&&y("6E 56 42, 2y a9 be cG cF 2W.23 (56 cE cD cC cA 86 0)"),i.2W.2S(14(t,e){18 n=14(t){18 e=1m.3A("7z");17 1V(e,k["25-2D"]),e.38=t,e}(t);1w(r.37(n),e===a&&1V(n,k["3V-25-2D"]),e!==i.2W.23-1){18 o=14(t){18 e=1m.3A("7z");17 1V(e,k["25-2D-1o"]),t.7y&&(e.1I.1c=t.7y),e}(t);r.37(o)}})}14 8a(t,e){18 n=Q();b(n,e.2i,"4O"),7E(0,e),14(t,e){18 n=bb.3k.2k(t);1w(n&&e.1U===n.1U&&N())b(N(),e.2i,"1r");3m 1w(bc(),e.1U)1w(8b(),-1!==2d.57(B).3t(e.1U)){18 o=H(".".1n(k.1r,".").1n(B[e.1U]));T(o),b(o,e.2i,"1r"),L(o,"13-1Q-".1n(e.1U,"-1r"),e.1L)}3m g(\'8e 1U! 5k "1f", "2n", "5J", "5I" 5l "4q", 5m "\'.1n(e.1U,\'"\'))}(t,e),14(t,e){18 n=4L();1w(!e.5P)17 O(n);T(n),n.2P("8h",e.5P),n.2P("cz",e.7w),E(n,"1c",e.7u),E(n,"1E",e.8l),n.4F=k.4e,b(n,e.2i,"4e"),e.5u&&1V(n,e.5u)}(0,e),14(t,e){18 n=D();M(n,e.2I||e.5v),e.2I&&5W(e.2I,n),e.5v&&(n.8q=e.5v),b(n,e.2i,"2I")}(0,e),14(t,e){18 n=$();b(n,e.2i,"7s"),M(n,e.5U),n.2P("2o-3E",e.8u)}(0,e)}14 7r(t,e){!14(t,e){18 n=2K();E(n,"1c",e.1c),E(n,"2e",e.2e),e.1J&&(n.1I.1J=e.1J),n.4F=k.1t,e.1b?(1V([1m.5a,1m.1e],k["1b-1q"]),1V(n,k.1b)):1V(n,k.3M),b(n,e.2i,"1t"),"3a"==1A e.2i&&1V(n,e.2i),L(n,k.6Q,!e.1L)}(0,e),8C(0,e),8a(t,e),9K(t,e),8c(0,e),14(t,e){18 n=Y();M(n,e.3C),e.3C&&5W(e.3C,n),b(n,e.2i,"3C")}(0,e)}18 bc=14(){2g(18 t=R(),e=0;e<t.23;e++)O(t[e])},8b=14(){2g(18 t=2K(),e=22.4U(t).4v("1J-1u"),n=t.4w("[1j^=13-1f-35-1o], .13-1f-6F"),o=0;o<n.23;o++)n[o].1I.5E=e};14 5X(){18 t=2K();t||bj.5Y(""),t=2K();18 e=Z(),n=K(),o=F();T(e),T(n),1V([t,e],k.2u),n.2Q=!0,o.2Q=!0,t.2P("3D-2u",!0),t.2P("2o-8F",!0),t.2c()}14 7p(t){17 7o.6I(t)}14 61(t){17 8J[t]}18 bd=[],1y={},8N=14(){17 2M 36(14(t){18 e=22.cy,n=22.cx;1y.8P=59(14(){1y.58&&1y.58.2c?(1y.58.2c(),1y.58=1B):1m.1e&&1m.1e.2c(),t()},1F),3l 0!==e&&3l 0!==n&&22.cw(e,n)})},7o={2I:"",5v:"",3g:"",5n:"",3C:"",1U:1B,1b:!1,2i:"",6j:"",29:"1e",1P:!0,1L:!0,7h:!0,5y:!0,8R:!0,7f:!0,93:!0,41:!1,5f:!0,5e:!1,4T:1B,97:"8t",98:"",5N:1B,7e:"",9a:"8x",9b:"",6N:1B,7c:"",7X:!0,7b:!1,7a:!0,5C:!1,5U:!1,8u:"cv 1d 9e",6l:!1,5P:1B,7u:1B,8l:1B,7w:"",5u:"",4H:1B,1c:1B,2e:1B,1J:1B,1i:1B,4Y:"",2R:"",4z:{},9k:!0,5T:"",9Q:{},5D:1B,3j:1B,1Y:!1,2G:"1l",2W:[],56:1B,7y:1B,6o:1B,9o:1B,6p:1B,9q:1B,9r:!0},9s=["2I","5v","3g","5n","1U","2i","5f","5e","97","98","5N","7e","9a","9b","6N","7c","7X","7b","5P","7u","cu","7w","5u","2W","56"],8J={6j:"2i",7e:"2i",7c:"2i",5u:"2i",5T:"2i"},9u=["5y","7f","1P","7a","5C","7h","41"],9v=2d.5F({cs:7p,9x:14(t){17-1!==9s.3t(t)},ah:61,9A:14(n){18 o={};5H(f(n[0])){3i"4o":a(o,n[0]);4I;4r:["2I","5n","1U"].2S(14(t,e){5H(f(n[e])){3i"3a":o[t]=n[e];4I;3i"3d":4I;4r:g("68 1U 6i ".1n(t,\'! 5k "3a", 5m \').1n(f(n[e])))}})}17 o},9d:14(){17 V(2K())},9E:14(){17 K()&&K().75()},cq:14(){17 F()&&F().75()},cp:q,co:2K,cn:D,cm:U,cl:4L,ck:N,cj:R,ci:$,ch:Z,6X:K,cg:F,cf:Q,ce:Y,cd:J,cc:W,cb:14(){17 2K().6V("3D-2u")},5Y:14(){2g(18 t=3u.23,e=2M 76(t),n=0;n<t;n++)e[n]=3u[n];17 c(1d,e)},ca:14(n){17 14(t){14 e(){17 o(1d,e),l(1d,s(e).4Z(1d,3u))}17 14(t,e){1w("14"!=1A e&&1B!==e)7K 2M 8i("c9 c8 c7 c6 be 1B 5l a 14");t.3b=2d.c5(e&&e.3b,{5Q:{1K:t,6A:!0,7F:!0}}),e&&u(t,e)}(e,t),r(e,[{3r:"6K",1K:14(t){17 d(s(e.3b),"6K",1d).4A(1d,a({},n,t))}}]),e}(1d)},6L:14(t){18 r=1d;bd=t;14 a(t,e){bd=[],1m.1e.3O("3D-13-6L-2D"),t(e)}18 s=[];17 2M 36(14(i){!14 e(n,o){n<bd.23?(1m.1e.2P("3D-13-6L-2D",n),r.5Y(bd[n]).3G(14(t){3l 0!==t.1K?(s.4t(t.1K),e(n+1,o)):a(i,{6T:t.6T})})):a(i,{1K:s})}(0)})},a5:14(){17 1m.1e.4W("3D-13-6L-2D")},c4:14(t,e){17 e&&e<bd.23?bd.8d(e,0,t):bd.4t(t)},c3:14(t){3l 0!==bd[t]&&bd.8d(t,1)},8f:5X,c2:5X,7q:14(){17 1y.2U&&1y.2U.7q()},c1:14(){17 1y.2U&&1y.2U.4X()},c0:14(){17 1y.2U&&1y.2U.1O()},bZ:14(){18 t=1y.2U;17 t&&(t.3L?t.4X():t.1O())},bY:14(t){17 1y.2U&&1y.2U.8p(t)},bX:14(){17 1y.2U&&1y.2U.8r()}});14 6W(){18 t=bb.3k.2k(1d),e=bb.3R.2k(1d);t.5f||(O(e.2N),t.5e||O(e.2F)),3U([e.1t,e.2F],k.2u),e.1t.3O("2o-8F"),e.1t.3O("3D-2u"),e.2N.2Q=!1,e.3o.2Q=!1}14 8v(){1B===x.4B&&1m.1e.8w>22.bW&&(x.4B=4C(22.4U(1m.1e).4v("2e-1k")),1m.1e.1I.8y=x.4B+14(){1w("8z"2O 22||8A.bV)17 0;18 t=1m.3A("1H");t.1I.1c="8B",t.1I.1E="8B",t.1I.3T="8D",1m.1e.37(t);18 e=t.8m-t.bU;17 1m.1e.7D(t),e}()+"6y")}14 73(){17!!22.bT&&!!1m.bS}14 6r(){18 t=q(),e=2K();t.1I.aa("1S-2f"),e.bR<0&&(t.1I.bQ="1C-1O")}18 be=14(){1B!==x.4B&&(1m.1e.1I.8y=x.4B+"6y",x.4B=1B)},8M=14(){18 e,n=q();n.8z=14(t){e=t.29===n||!14(t){17!!(t.8w>t.bP)}(n)&&"bO"!==t.29.bN},n.bM=14(t){e&&(t.6h(),t.7d())}},8S=14(){1w(S(1m.1e,k.5L)){18 t=4C(1m.1e.1I.19,10);3U(1m.1e,k.5L),1m.1e.1I.19="",1m.1e.6g=-1*t}},8U=14(){"3d"!=1A 22&&73()&&22.6f("8W",6r)},8X=14(){m(1m.1e.8Y).2S(14(t){t.6V("3D-6e-2o-2L")?(t.2P("2o-2L",t.4W("3D-6e-2o-2L")),t.3O("3D-6e-2o-2L")):t.3O("2o-2L")})},6c={7i:2M 5h};14 7j(t,e,n){e?$t(n):(8N().3G(14(){17 $t(n)}),1y.4G.6f("7l",1y.5A,{7n:1y.41}),1y.64=!1),5z 1y.5A,5z 1y.4G,t.3I&&t.3I.7D(t),3U([1m.5a,1m.1e],[k.1q,k["1E-1D"],k["26-1P"],k["1b-1q"],k["1b-1R"]]),at()&&(be(),8S(),8U(),8X())}14 5c(t){18 e=q(),n=2K();1w(n&&!S(n,k.30)){18 o=bb.3k.2k(1d),i=6c.7i.2k(1d),r=o.9q,a=o.9o;3U(n,k.31),1V(n,k.30),dt&&j(n)?n.60(dt,14(t){t.29===n&&14(t,e,n,o){S(t,k.30)&&7j(e,n,o),bf(bb),bf(6c)}(n,e,5p(),a)}):7j(e,5p(),a),1B!==r&&"14"==1A r&&r(n),i(t||{}),5z 1d.49}}18 bf=14(t){2g(18 e 2O t)t[e]=2M 5h},$t=14(t){1B!==t&&"14"==1A t&&59(14(){t()})};14 5w(t,e,n){18 o=bb.3R.2k(t);e.2S(14(t){o[t].2Q=n})}14 7t(t,e){1w(!t)17!1;1w("2v"===t.1U)2g(18 n=t.3I.3I.4w("1i"),o=0;o<n.23;o++)n[o].2Q=e;3m t.2Q=e}18 bg=14(){14 n(t,e){o(1d,n),1d.9h=t,1d.48=e,1d.3L=!1,1d.1O()}17 r(n,[{3r:"1O",1K:14(){17 1d.3L||(1d.3L=!0,1d.9i=2M 5S,1d.55=59(1d.9h,1d.48)),1d.48}},{3r:"4X",1K:14(){17 1d.3L&&(1d.3L=!1,9j(1d.55),1d.48-=2M 5S-1d.9i),1d.48}},{3r:"8p",1K:14(t){18 e=1d.3L;17 e&&1d.4X(),1d.48+=t,e&&1d.1O(),1d.48}},{3r:"7q",1K:14(){17 1d.3L&&(1d.4X(),1d.1O()),1d.48}},{3r:"8r",1K:14(){17 1d.3L}}]),n}(),7v={5j:14(t,e){17/^[a-5t-5q-9.+4L-]+@[a-5t-5q-9.-]+\\.[a-5t-5q-9-]{2,24}$/.7A(t)?36.4y():36.4y(e||"6E 5j bL")},62:14(t,e){17/^7B?:\\/\\/(bK\\.)?[-a-5t-5q-9@:%.4L+~#=]{2,bJ}\\.[a-z]{2,63}\\b([-a-5t-5q-9@:%4L+.~#?&/=]*)$/.7A(t)?36.4y():36.4y(e||"6E bI")}};14 ee(t,e){t.6f(dt,ee),e.1I.7G="1D"}14 9y(t){18 e=q(),n=2K();1B!==t.6o&&"14"==1A t.6o&&t.6o(n),t.1L&&(1V(n,k.31),1V(e,k.6R)),T(n),dt&&j(n)?(e.1I.7G="2L",n.60(dt,ee.90(1B,n,e))):e.1I.7G="1D",1V([1m.5a,1m.1e,e],k.1q),t.7h&&t.1P&&!t.1b&&1V([1m.5a,1m.1e],k["1E-1D"]),at()&&(t.9r&&8v(),14(){1w(/bH|bD|by/.7A(8A.bw)&&!22.bu&&!S(1m.1e,k.5L)){18 t=1m.1e.6g;1m.1e.1I.19=-1*t+"6y",1V(1m.1e,k.5L),8M()}}(),"3d"!=1A 22&&73()&&(6r(),22.60("8W",6r)),m(1m.1e.8Y).2S(14(t){t===q()||14(t,e){1w("14"==1A t.3X)17 t.3X(e)}(t,q())||(t.6V("2o-2L")&&t.2P("3D-6e-2o-2L",t.4W("2o-2L")),t.2P("2o-2L","4M"))}),59(14(){e.6g=0})),5p()||1y.58||(1y.58=1m.4E),1B!==t.6p&&"14"==1A t.6p&&59(14(){t.6p(n)})}18 bh=3l 0,7L={2b:14(t,e,i){18 r=2y(t,k.2b);e.2S(14(t){18 e=t[0],n=t[1],o=1m.3A("9I");o.1K=e,o.38=n,i.2R.5x()===e.5x()&&(o.9J=!0),r.37(o)}),r.2c()},2v:14(t,e,a){18 s=2y(t,k.2v);e.2S(14(t){18 e=t[0],n=t[1],o=1m.3A("1i"),i=1m.3A("3E");o.1U="2v",o.9c=k.2v,o.1K=e,a.2R.5x()===e.5x()&&(o.5G=!0);18 r=1m.3A("34");r.38=n,r.4F=k.3E,i.37(o),i.37(r),s.37(i)});18 n=s.4w("1i");n.23&&n[0].2c()}},9G=14(e){18 n=[];17"3d"!=1A 7M&&e 7P 7M?e.2S(14(t,e){n.4t([e,t])}):2d.57(e).2S(14(t){n.4t([t,e[t]])}),n};18 bi,7O=2d.5F({4D:6W,b6:6W,3x:14(t){18 e=bb.3k.2k(t||1d);17 P(bb.3R.2k(t||1d).1z,e.1i)},3e:5c,7S:5c,b5:5c,b0:5c,6H:14(){5w(1d,["2N","3o"],!1)},7U:14(){5w(1d,["2N","3o"],!0)},9S:14(){h("3J.9U()","3J.6X().3O(\'2Q\')"),5w(1d,["2N"],!1)},9U:14(){h("3J.9S()","3J.6X().2P(\'2Q\', \'\')"),5w(1d,["2N"],!0)},9V:14(){17 7t(1d.3x(),!1)},9W:14(){17 7t(1d.3x(),!0)},7W:14(t){18 e=bb.3R.2k(1d);e.3j.38=t;18 n=22.4U(e.1t);e.3j.1I.aV="-".1n(n.4v("2e-1g")),e.3j.1I.aT="-".1n(n.4v("2e-1k")),T(e.3j);18 o=1d.3x();o&&(o.2P("2o-a0",!0),o.2P("2o-a1",k["4h-4l"]),A(o),1V(o,k.4N))},5Z:14(){18 t=bb.3R.2k(1d);t.3j&&O(t.3j);18 e=1d.3x();e&&(e.3O("2o-a0"),e.3O("2o-a1"),3U(e,k.4N))},a2:14(){17 h("3J.a2()","a3 a4 = 3J.5Y({2W: [\'1\', \'2\', \'3\']}); a3 2W = a4.49.2W"),bb.3k.2k(1d).2W},a6:14(t){h("3J.a6()","3J.7Y()");18 e=a({},bb.3k.2k(1d),{2W:t});7E(0,e),bb.3k.43(1d,e)},aE:14(){18 t=bb.3R.2k(1d);T(t.2W)},aD:14(){18 t=bb.3R.2k(1d);O(t.2W)},6K:14(t){18 c=1d;!14(t){2g(18 e 2O t)7p(i=e)||y(\'8e 42 "\'.1n(i,\'"\')),t.1b&&(o=e,-1!==9u.3t(o)&&y(\'8H 42 "\'.1n(o,\'" 53 aC ab az\'))),61(n=3l 0)&&h(n,61(n));18 n,o,i}(t);18 l=a({},7o,t);!14(e){e.5D||2d.57(7v).2S(14(t){e.1i===t&&(e.5D=7v[t])}),e.6l&&!e.4T&&y("6l 53 43 3S 4M, ay 4T 53 1M av.\\an a9 be am ai ab 4T, cr aj ak:\\al://5d.85.ao/#ap-aq"),e.1L=w(e.1L),e.29&&("3a"!=1A e.29||1m.2T(e.29))&&("3a"==1A e.29||e.29.37)||(y(\'ar 42 53 1M 8K, 8L 3S "1e"\'),e.29="1e"),"3a"==1A e.2I&&(e.2I=e.2I.9n("\\n").au("<br />"));18 t=2K(),n="3a"==1A e.29?1m.2T(e.29):e.29;(!t||t&&n&&t.3I!==n.3I)&&ct(e)}(l),2d.5F(l),1y.2U&&(1y.2U.4X(),5z 1y.2U),9j(1y.8P);18 d={1t:2K(),1h:q(),1z:U(),2F:Z(),2N:K(),3o:F(),7s:$(),3j:W(),2W:z()};bb.3R.43(1d,d),7r(1d,l),bb.3k.43(1d,l);18 p=1d.5Q;17 2M 36(14(t){14 n(t){c.7S({1K:t})}14 s(t){c.7S({6T:t})}6c.7i.43(c,t),l.4H&&(1y.2U=2M bg(14(){s("4H"),5z 1y.2U},l.4H));l.1i&&59(14(){18 t=c.3x();t&&A(t)},0);2g(18 u=14(e){(l.6l&&p.8f(),l.4T)?(c.5Z(),36.4y().3G(14(){17 l.4T(e,l.3j)}).3G(14(t){V(d.3j)||!1===t?c.4D():n(3l 0===t?e:t)})):n(e)},e=14(t){18 e=t.29,n=d.2N,o=d.3o,i=n&&(n===e||n.3X(e)),r=o&&(o===e||o.3X(e));5H(t.1U){3i"75":1w(i)1w(c.7U(),l.1i){18 a=14(){18 t=c.3x();1w(!t)17 1B;5H(l.1i){3i"2A":17 t.5G?1:0;3i"2v":17 t.5G?t.1K:1B;3i"2l":17 t.ae.23?t.ae[0]:1B;4r:17 l.9k?t.1K.aw():t.1K}}();1w(l.5D)c.9W(),36.4y().3G(14(){17 l.5D(a,l.3j)}).3G(14(t){c.6H(),c.9V(),t?c.7W(t):u(a)});3m c.3x().ax()?u(a):(c.6H(),c.7W(l.3j))}3m u(!0);3m r&&(c.7U(),s(p.4S.3N))}},o=d.1t.4w("3y"),i=0;i<o.23;i++)o[i].5V=e,o[i].aA=e,o[i].aB=e,o[i].81=e;1w(d.7s.5V=14(){s(p.4S.3e)},l.1b)d.1t.5V=14(){l.5f||l.5e||l.5U||l.1i||s(p.4S.3e)};3m{18 r=!1;d.1t.81=14(){d.1h.6n=14(t){d.1h.6n=3l 0,t.29===d.1h&&(r=!0)}},d.1h.81=14(){d.1t.6n=14(t){d.1t.6n=3l 0,t.29!==d.1t&&!d.1t.3X(t.29)||(r=!0)}},d.1h.5V=14(t){r?r=!1:t.29===d.1h&&w(l.5y)&&s(p.4S.1P)}}l.7b?d.2N.3I.a8(d.3o,d.2N):d.2N.3I.a8(d.2N,d.3o);14 a(t,e){2g(18 n=J(l.5C),o=0;o<n.23;o++)17(t+=e)===n.23?t=0:-1===t&&(t=n.23-1),n[t].2c();d.1t.2c()}1y.4G&&1y.64&&(1y.4G.6f("7l",1y.5A,{7n:1y.41}),1y.64=!1),l.1b||(1y.5A=14(t){17 14(t,e){e.93&&t.7d();1w("aF"!==t.3r||t.aG)1w("aH"===t.3r){2g(18 n=t.29,o=J(e.5C),i=-1,r=0;r<o.23;r++)1w(n===o[r]){i=r;4I}t.aI?a(i,-1):a(i,1),t.7d(),t.6h()}3m-1!==["aJ","aK","aL","aM","aN","aO","aP","aQ"].3t(t.3r)?1m.4E===d.2N&&V(d.3o)?d.3o.2c():1m.4E===d.3o&&V(d.2N)&&d.2N.2c():"aR"!==t.3r&&"aS"!==t.3r||!0!==w(e.8R)||(t.6h(),s(p.4S.6U));3m 1w(t.29&&c.3x()&&t.29.9Z===c.3x().9Z){1w(-1!==["2h","2l"].3t(e.1i))17;p.9E(),t.6h()}}(t,l)},1y.4G=l.41?22:d.1t,1y.41=l.41,1y.4G.60("7l",1y.5A,{7n:1y.41}),1y.64=!0),c.6H(),c.4D(),c.5Z(),l.1b&&(l.1i||l.3C||l.5U)?1V(1m.1e,k["1b-1R"]):3U(1m.1e,k["1b-1R"]),"2b"===l.1i||"2v"===l.1i?14(e,n){14 o(t){17 7L[n.1i](i,9G(t),n)}18 i=U();v(n.4z)?(5X(),n.4z.3G(14(t){e.4D(),o(t)})):"4o"===f(n.4z)?o(n.4z):g("68 1U 6i 4z! 5k 4o, 7M 5l 36, 5m ".1n(f(n.4z)))}(c,l):-1!==["3g","5j","4d","7J","2h"].3t(l.1i)&&v(l.2R)&&14(e,n){18 o=e.3x();O(o),n.2R.3G(14(t){o.1K="4d"===n.1i?74(t)||0:t+"",T(o),o.2c(),e.4D()}).7k(14(t){g("aU 2O 2R 5g: "+t),o.1K="",T(o),o.2c(),bh.4D()})}(c,l),9y(l),l.1b||(w(l.7f)?l.5C&&V(d.3o)?d.3o.2c():l.7a&&V(d.2N)?d.2N.2c():a(-1,1):1m.4E&&"14"==1A 1m.4E.9Y&&1m.4E.9Y()),d.1h.6g=0})},7Y:14(e){18 n={};2d.57(e).2S(14(t){bj.9x(t)?n[t]=e[t]:y(\'6E 42 3S 7Y: "\'.1n(t,\'". aW 49 aX aY aZ: 7B://85.9P/5d/5d/b1/b2/8h/b3/49.b4\'))});18 t=a({},bb.3k.2k(1d),n);7r(1d,t),bb.3k.43(1d,t),2d.9O(1d,{49:{1K:a({},1d.49,e),6A:!1,6x:!0}})}});14 3P(){1w("3d"!=1A 22){"3d"==1A 36&&g("b7 b8 7H a 36 b9, bk bl a bm 3S bn 2y 2O 1d bo (bp: 7B://85.9P/5d/5d/bq/bs-86-9D-3S-6Y#1-7L-bv)"),bi=1d;2g(18 t=3u.23,e=2M 76(t),n=0;n<t;n++)e[n]=3u[n];18 o=2d.5F(1d.5Q.9A(e));2d.9O(1d,{49:{1K:o,6A:!1,6x:!0,7F:!0}});18 i=1d.6K(1d.49);bb.5g.43(1d,i)}}3P.3b.3G=14(t){17 bb.5g.2k(1d).3G(t)},3P.3b.9C=14(t){17 bb.5g.2k(1d).9C(t)},a(3P.3b,7O),a(3P,9v),2d.57(7O).2S(14(e){3P[e]=14(){18 t;1w(bi)17(t=bi)[e].4Z(t,3u)}}),3P.4S=C,3P.bx="8.11.8";18 bj=3P;17 bj.4r=bj}),"3d"!=1A 22&&22.7V&&(22.bz=22.bA=22.3J=22.9D=22.7V);"3d"!=1A 1m&&14(e,t){18 n=e.3A("1I");1w(e.bB("bC")[0].37(n),n.7I)n.7I.2Q||(n.7I.bE=t);3m 89{n.38=t}7k(e){n.8q=t}}(1m,"@bF \\"bG-8\\";@-1a-2a 13-31{0%{-1a-16:1G(.7);16:1G(.7)}45%{-1a-16:1G(1.6O);16:1G(1.6O)}80%{-1a-16:1G(.95);16:1G(.95)}1F%{-1a-16:1G(1);16:1G(1)}}@2a 13-31{0%{-1a-16:1G(.7);16:1G(.7)}45%{-1a-16:1G(1.6O);16:1G(1.6O)}80%{-1a-16:1G(.95);16:1G(.95)}1F%{-1a-16:1G(1);16:1G(1)}}@-1a-2a 13-30{0%{-1a-16:1G(1);16:1G(1);2z:1}1F%{-1a-16:1G(.5);16:1G(.5);2z:0}}@2a 13-30{0%{-1a-16:1G(1);16:1G(1);2z:1}1F%{-1a-16:1G(.5);16:1G(.5);2z:0}}@-1a-2a 13-1Q-1f-1o-3h{0%{19:1.39;1g:.32;1c:0}54%{19:1.32;1g:.2m;1c:0}70%{19:2.39;1g:-.2H;1c:3.2m}84%{19:6Z;1g:1.2C;1c:1.32}1F%{19:2.8o;1g:.3p;1c:1.5K}}@2a 13-1Q-1f-1o-3h{0%{19:1.39;1g:.32;1c:0}54%{19:1.32;1g:.2m;1c:0}70%{19:2.39;1g:-.2H;1c:3.2m}84%{19:6Z;1g:1.2C;1c:1.32}1F%{19:2.8o;1g:.3p;1c:1.5K}}@-1a-2a 13-1Q-1f-1o-3c{0%{19:3.2H;1k:2.3p;1c:0}65%{19:3.2H;1k:2.3p;1c:0}84%{19:2.39;1k:0;1c:3.4J}1F%{19:2.2H;1k:.21;1c:2.3q}}@2a 13-1Q-1f-1o-3c{0%{19:3.2H;1k:2.3p;1c:0}65%{19:3.2H;1k:2.3p;1c:0}84%{19:2.39;1k:0;1c:3.4J}1F%{19:2.2H;1k:.21;1c:2.3q}}@-1a-2a 13-1p-1f-35-1o{0%{-1a-16:1p(-1X);16:1p(-1X)}5%{-1a-16:1p(-1X);16:1p(-1X)}12%{-1a-16:1p(-4i);16:1p(-4i)}1F%{-1a-16:1p(-4i);16:1p(-4i)}}@2a 13-1p-1f-35-1o{0%{-1a-16:1p(-1X);16:1p(-1X)}5%{-1a-16:1p(-1X);16:1p(-1X)}12%{-1a-16:1p(-4i);16:1p(-4i)}1F%{-1a-16:1p(-4i);16:1p(-4i)}}@-1a-2a 13-1Q-2n-x-2V{0%{1N-19:1.1W;-1a-16:1G(.4);16:1G(.4);2z:0}50%{1N-19:1.1W;-1a-16:1G(.4);16:1G(.4);2z:0}80%{1N-19:-.2H;-1a-16:1G(1.15);16:1G(1.15)}1F%{1N-19:0;-1a-16:1G(1);16:1G(1);2z:1}}@2a 13-1Q-2n-x-2V{0%{1N-19:1.1W;-1a-16:1G(.4);16:1G(.4);2z:0}50%{1N-19:1.1W;-1a-16:1G(.4);16:1G(.4);2z:0}80%{1N-19:-.2H;-1a-16:1G(1.15);16:1G(1.15)}1F%{1N-19:0;-1a-16:1G(1);16:1G(1);2z:1}}@-1a-2a 13-1Q-2n-1r{0%{-1a-16:4f(6B);16:4f(6B);2z:0}1F%{-1a-16:4f(0);16:4f(0);2z:1}}@2a 13-1Q-2n-1r{0%{-1a-16:4f(6B);16:4f(6B);2z:0}1F%{-1a-16:4f(0);16:4f(0);2z:1}}1e.13-1b-1q .13-1h{1J-1u:3v}1e.13-1b-1q .13-1h.13-1q{1J-1u:3v}1e.13-1b-1q .13-1h.13-19{19:0;1k:1D;1v:1D;1g:50%;-1a-16:4c(-50%);16:4c(-50%)}1e.13-1b-1q .13-1h.13-19-27,1e.13-1b-1q .13-1h.13-19-1k{19:0;1k:0;1v:1D;1g:1D}1e.13-1b-1q .13-1h.13-19-1g,1e.13-1b-1q .13-1h.13-19-1O{19:0;1k:1D;1v:1D;1g:0}1e.13-1b-1q .13-1h.13-1l-1g,1e.13-1b-1q .13-1h.13-1l-1O{19:50%;1k:1D;1v:1D;1g:0;-1a-16:28(-50%);16:28(-50%)}1e.13-1b-1q .13-1h.13-1l{19:50%;1k:1D;1v:1D;1g:50%;-1a-16:6w(-50%,-50%);16:6w(-50%,-50%)}1e.13-1b-1q .13-1h.13-1l-27,1e.13-1b-1q .13-1h.13-1l-1k{19:50%;1k:0;1v:1D;1g:1D;-1a-16:28(-50%);16:28(-50%)}1e.13-1b-1q .13-1h.13-1v-1g,1e.13-1b-1q .13-1h.13-1v-1O{19:1D;1k:1D;1v:0;1g:0}1e.13-1b-1q .13-1h.13-1v{19:1D;1k:1D;1v:0;1g:50%;-1a-16:4c(-50%);16:4c(-50%)}1e.13-1b-1q .13-1h.13-1v-27,1e.13-1b-1q .13-1h.13-1v-1k{19:1D;1k:0;1v:0;1g:1D}1e.13-1b-1R .13-1b{1C-4k:1R;1S-2f:72}1e.13-1b-1R .13-1b .13-2F{1C:1;1S-9M:72;1E:2.2q;1N-19:.2C}1e.13-1b-1R .13-1b .13-2u{2p-1z:1l}1e.13-1b-1R .13-1b .13-1i{1E:2q;1N:.2C 1D;1T-2j:3w}1e.13-1b-1R .13-1b .13-4h-4l{1T-2j:3w}.13-1t.13-1b{1C-4k:5M;1S-2f:1l;1c:1D;2e:.1W;3T-y:2L;2r-3H:0 0 .1W #9t}.13-1t.13-1b .13-4O{1C-4k:5M}.13-1t.13-1b .13-2I{1C-1Y:1;2p-1z:1C-1O;1N:0 .78;1T-2j:3w}.13-1t.13-1b .13-3C{1N:.21 0 0;2e:.21 0 0;1T-2j:.6b}.13-1t.13-1b .13-3e{2G:8O;1c:.6b;1E:.6b;1o-1E:.8}.13-1t.13-1b .13-1z{2p-1z:1C-1O;1T-2j:3w}.13-1t.13-1b .13-1r{1c:2q;7m-1c:2q;1E:2q;1N:0}.13-1t.13-1b .13-1r::4j{2B:1C;1S-2f:1l;1T-2j:2q;1T-3Y:cB}@6J 7C 6q (-2Z-51-52:1Z),(-2Z-51-52:3V){.13-1t.13-1b .13-1r::4j{1T-2j:.2x}}.13-1t.13-1b .13-1r.13-1f .13-1f-6G{1c:2q;1E:2q}.13-1t.13-1b .13-1r.13-2n [1j^=13-x-2V-1o]{19:.3p;1c:1.2H}.13-1t.13-1b .13-1r.13-2n [1j^=13-x-2V-1o][1j$=1g]{1g:.2C}.13-1t.13-1b .13-1r.13-2n [1j^=13-x-2V-1o][1j$=1k]{1k:.2C}.13-1t.13-1b .13-2F{1C-cI:1D!3f;1E:1D;1N:0 .2C}.13-1t.13-1b .13-2J{1N:0 .2C;2e:.2C .1W;1T-2j:3w}.13-1t.13-1b .13-2J:2c{2r-3H:0 0 0 .32 #3Q,0 0 0 .2m 3B(50,1F,7T,.4)}.13-1t.13-1b .13-1f{1x-1u:#7Q}.13-1t.13-1b .13-1f [1j^=13-1f-35-1o]{2G:4p;1c:1.78;1E:6Z;-1a-16:1p(1X);16:1p(1X);1x-2w:50%}.13-1t.13-1b .13-1f [1j^=13-1f-35-1o][1j$=1g]{19:-.6b;1g:-.21;-1a-16:1p(-1X);16:1p(-1X);-1a-16-4m:2q 2q;16-4m:2q 2q;1x-2w:4u 0 0 4u}.13-1t.13-1b .13-1f [1j^=13-1f-35-1o][1j$=1k]{19:-.2x;1g:.3q;-1a-16-4m:0 1.21;16-4m:0 1.21;1x-2w:0 4u 4u 0}.13-1t.13-1b .13-1f .13-1f-6G{1c:2q;1E:2q}.13-1t.13-1b .13-1f .13-1f-6F{19:0;1g:.4J;1c:.4J;1E:2.9H}.13-1t.13-1b .13-1f [1j^=13-1f-1o]{1E:.2C}.13-1t.13-1b .13-1f [1j^=13-1f-1o][1j$=3h]{19:1.2m;1g:.39;1c:.2X}.13-1t.13-1b .13-1f [1j^=13-1f-1o][1j$=3c]{19:.3q;1k:.39;1c:1.2H}.13-1t.13-1b.13-31{-1a-1L:13-1b-31 .5s;1L:13-1b-31 .5s}.13-1t.13-1b.13-30{-1a-1L:13-1b-30 .1s 67;1L:13-1b-30 .1s 67}.13-1t.13-1b .13-1Q-1f-1r .13-1f-1o-3h{-1a-1L:13-1b-1Q-1f-1o-3h .4g;1L:13-1b-1Q-1f-1o-3h .4g}.13-1t.13-1b .13-1Q-1f-1r .13-1f-1o-3c{-1a-1L:13-1b-1Q-1f-1o-3c .4g;1L:13-1b-1Q-1f-1o-3c .4g}@-1a-2a 13-1b-31{0%{-1a-16:28(-.1W) 2t(3n);16:28(-.1W) 2t(3n)}33%{-1a-16:28(0) 2t(-3n);16:28(0) 2t(-3n)}66%{-1a-16:28(.2C) 2t(3n);16:28(.2C) 2t(3n)}1F%{-1a-16:28(0) 2t(0);16:28(0) 2t(0)}}@2a 13-1b-31{0%{-1a-16:28(-.1W) 2t(3n);16:28(-.1W) 2t(3n)}33%{-1a-16:28(0) 2t(-3n);16:28(0) 2t(-3n)}66%{-1a-16:28(.2C) 2t(3n);16:28(.2C) 2t(3n)}1F%{-1a-16:28(0) 2t(0);16:28(0) 2t(0)}}@-1a-2a 13-1b-30{1F%{-1a-16:2t(6D);16:2t(6D);2z:0}}@2a 13-1b-30{1F%{-1a-16:2t(6D);16:2t(6D);2z:0}}@-1a-2a 13-1b-1Q-1f-1o-3h{0%{19:.5K;1g:.32;1c:0}54%{19:.2m;1g:.2m;1c:0}70%{19:.1W;1g:-.2x;1c:1.1W}84%{19:1.32;1g:.2X;1c:.21}1F%{19:1.2m;1g:.39;1c:.2X}}@2a 13-1b-1Q-1f-1o-3h{0%{19:.5K;1g:.32;1c:0}54%{19:.2m;1g:.2m;1c:0}70%{19:.1W;1g:-.2x;1c:1.1W}84%{19:1.32;1g:.2X;1c:.21}1F%{19:1.2m;1g:.39;1c:.2X}}@-1a-2a 13-1b-1Q-1f-1o-3c{0%{19:1.1W;1k:1.2H;1c:0}65%{19:1.2x;1k:.3q;1c:0}84%{19:.3q;1k:0;1c:1.2m}1F%{19:.3q;1k:.39;1c:1.2H}}@2a 13-1b-1Q-1f-1o-3c{0%{19:1.1W;1k:1.2H;1c:0}65%{19:1.2x;1k:.3q;1c:0}84%{19:.3q;1k:0;1c:1.2m}1F%{19:.3q;1k:.39;1c:1.2H}}1e.13-1q:1M(.13-26-1P):1M(.13-1b-1q){3T:2L}1e.13-1E-1D{1E:1D!3f}1e.13-26-1P .13-1q{19:1D;1k:1D;1v:1D;1g:1D;4K-1c:d5(1F% - .1W * 2);1J-1u:3v}1e.13-26-1P .13-1q>.13-3M{2r-3H:0 0 d6 3B(0,0,0,.4)}1e.13-26-1P .13-1q.13-19{19:0;1g:50%;-1a-16:4c(-50%);16:4c(-50%)}1e.13-26-1P .13-1q.13-19-1g,1e.13-26-1P .13-1q.13-19-1O{19:0;1g:0}1e.13-26-1P .13-1q.13-19-27,1e.13-26-1P .13-1q.13-19-1k{19:0;1k:0}1e.13-26-1P .13-1q.13-1l{19:50%;1g:50%;-1a-16:6w(-50%,-50%);16:6w(-50%,-50%)}1e.13-26-1P .13-1q.13-1l-1g,1e.13-26-1P .13-1q.13-1l-1O{19:50%;1g:0;-1a-16:28(-50%);16:28(-50%)}1e.13-26-1P .13-1q.13-1l-27,1e.13-26-1P .13-1q.13-1l-1k{19:50%;1k:0;-1a-16:28(-50%);16:28(-50%)}1e.13-26-1P .13-1q.13-1v{1v:0;1g:50%;-1a-16:4c(-50%);16:4c(-50%)}1e.13-26-1P .13-1q.13-1v-1g,1e.13-26-1P .13-1q.13-1v-1O{1v:0;1g:0}1e.13-26-1P .13-1q.13-1v-27,1e.13-26-1P .13-1q.13-1v-1k{1k:0;1v:0}.13-1h{2B:1C;2G:d7;z-3Z:d9;19:0;1k:0;1v:0;1g:0;1C-4k:5M;1S-2f:1l;2p-1z:1l;2e:.1W;3T-x:2L;1J-1u:3v;-1a-3T-da:db}.13-1h.13-19{1S-2f:1C-1O}.13-1h.13-19-1g,.13-1h.13-19-1O{1S-2f:1C-1O;2p-1z:1C-1O}.13-1h.13-19-27,.13-1h.13-19-1k{1S-2f:1C-1O;2p-1z:1C-27}.13-1h.13-1l{1S-2f:1l}.13-1h.13-1l-1g,.13-1h.13-1l-1O{1S-2f:1l;2p-1z:1C-1O}.13-1h.13-1l-27,.13-1h.13-1l-1k{1S-2f:1l;2p-1z:1C-27}.13-1h.13-1v{1S-2f:1C-27}.13-1h.13-1v-1g,.13-1h.13-1v-1O{1S-2f:1C-27;2p-1z:1C-1O}.13-1h.13-1v-27,.13-1h.13-1v-1k{1S-2f:1C-27;2p-1z:1C-27}.13-1h.13-1v-27>:4P-4Q,.13-1h.13-1v-1g>:4P-4Q,.13-1h.13-1v-1k>:4P-4Q,.13-1h.13-1v-1O>:4P-4Q,.13-1h.13-1v>:4P-4Q{1N-19:1D}.13-1h.13-1Y-6S>.13-3M{2B:1C!3f;1C:1;1S-9M:72;2p-1z:1l}.13-1h.13-1Y-5M>.13-3M{2B:1C!3f;1C:1;1S-1z:1l;2p-1z:1l}.13-1h.13-1Y-1R{1C:1;1C-4k:1R}.13-1h.13-1Y-1R.13-1v,.13-1h.13-1Y-1R.13-1l,.13-1h.13-1Y-1R.13-19{1S-2f:1l}.13-1h.13-1Y-1R.13-1v-1g,.13-1h.13-1Y-1R.13-1v-1O,.13-1h.13-1Y-1R.13-1l-1g,.13-1h.13-1Y-1R.13-1l-1O,.13-1h.13-1Y-1R.13-19-1g,.13-1h.13-1Y-1R.13-19-1O{1S-2f:1C-1O}.13-1h.13-1Y-1R.13-1v-27,.13-1h.13-1Y-1R.13-1v-1k,.13-1h.13-1Y-1R.13-1l-27,.13-1h.13-1Y-1R.13-1l-1k,.13-1h.13-1Y-1R.13-19-27,.13-1h.13-1Y-1R.13-19-1k{1S-2f:1C-27}.13-1h.13-1Y-1R>.13-3M{2B:1C!3f;1C:1;1S-1z:1l;2p-1z:1l}.13-1h:1M(.13-19):1M(.13-19-1O):1M(.13-19-27):1M(.13-19-1g):1M(.13-19-1k):1M(.13-1l-1O):1M(.13-1l-27):1M(.13-1l-1g):1M(.13-1l-1k):1M(.13-1v):1M(.13-1v-1O):1M(.13-1v-27):1M(.13-1v-1g):1M(.13-1v-1k):1M(.13-1Y-6S)>.13-3M{1N:1D}@6J 7C 6q (-2Z-51-52:1Z),(-2Z-51-52:3V){.13-1h .13-3M{1N:0!3f}}.13-1h.13-6R{6u:1J-1u .1s}.13-1h.13-1q{1J-1u:3B(0,0,0,.4)}.13-1t{2B:1Z;2G:5o;2r-5r:1x-2r;1C-4k:1R;2p-1z:1l;1c:de;4K-1c:1F%;2e:1.2x;1x:1Z;1x-2w:.2C;1J:#3Q;1T-8Z:3z;1T-2j:dh}.13-1t:2c{5B:0}.13-1t.13-2u{3T-y:2L}.13-4O{2B:1C;1C-4k:1R;1S-2f:1l}.13-2I{2G:5o;4K-1c:1F%;1N:0 0 .4u;2e:0;1u:#dj;1T-2j:1.3p;1T-3Y:69;3g-1S:1l;3g-16:1Z;6a-6d:4I-6a}.13-2F{z-3Z:1;1C-6d:6d;1S-2f:1l;2p-1z:1l;1c:1F%;1N:1.2x 1D 0}.13-2F:1M(.13-2u) .13-2J[2Q]{2z:.4}.13-2F:1M(.13-2u) .13-2J:8j{1J-4e:4R-8s(3B(0,0,0,.1),3B(0,0,0,.1))}.13-2F:1M(.13-2u) .13-2J:3V{1J-4e:4R-8s(3B(0,0,0,.2),3B(0,0,0,.2))}.13-2F.13-2u .13-2J.13-4n{2r-5r:1x-2r;1c:2.21;1E:2.21;1N:.dq;2e:0;-1a-1L:13-1p-2u 1.5s 4R 6z 6v 4x;1L:13-1p-2u 1.5s 4R 6z 6v 4x;1x:.2x 44 3v;1x-2w:1F%;1x-1u:3v;1J-1u:3v!3f;1u:3v;6s:4r;-1a-4a-2b:1Z;-4s-4a-2b:1Z;-2Z-4a-2b:1Z;4a-2b:1Z}.13-2F.13-2u .13-2J.13-3N{1N-1k:9R;1N-1g:9R}.13-2F.13-2u :1M(.13-2J).13-4n::dA{1z:\\"\\";2B:6t-4b;1c:9L;1E:9L;1N-1g:dC;-1a-1L:13-1p-2u 1.5s 4R 6z 6v 4x;1L:13-1p-2u 1.5s 4R 6z 6v 4x;1x:9m 44 #dE;1x-2w:50%;1x-1k-1u:3v;2r-3H:3K 3K 3K #3Q}.13-2J{1N:.2C;2e:.1W 2q;2r-3H:1Z;1T-3Y:dG}.13-2J:1M([2Q]){6s:8g}.13-2J.13-4n{1x:0;1x-2w:.2x;1J:77;1J-1u:#6k;1u:#3Q;1T-2j:1.32}.13-2J.13-3N{1x:0;1x-2w:.2x;1J:77;1J-1u:#dK;1u:#3Q;1T-2j:1.32}.13-2J:2c{5B:0;2r-3H:0 0 0 79 #3Q,0 0 0 dM 3B(50,1F,7T,.4)}.13-2J::-4s-2c-dN{1x:0}.13-3C{2p-1z:1l;1N:1.2x 0 0;2e:3w 0 0;1x-19:3K 44 #dO;1u:#9X;1T-2j:3w}.13-4e{4K-1c:1F%;1N:1.2x 1D}.13-3e{2G:4p;19:0;1k:0;2p-1z:1l;1c:1.2q;1E:1.2q;2e:0;3T:2L;6u:1u .1s 7g-dR;1x:1Z;1x-2w:0;5B:77;1J:0 0;1u:#4V;1T-8Z:dT;1T-2j:2.21;1o-1E:1.2;6s:8g}.13-3e:8j{-1a-16:1Z;16:1Z;1J:0 0;1u:#5b}.13-1z{z-3Z:1;2p-1z:1l;1N:0;2e:0;1u:#9X;1T-2j:1.2m;1T-3Y:87;1o-1E:4x;6a-6d:4I-6a}#13-1z{3g-1S:1l}.13-2A,.13-2l,.13-1i,.13-2v,.13-2b,.13-2h{1N:3w 1D}.13-2l,.13-1i,.13-2h{2r-5r:1x-2r;1c:1F%;6u:1x-1u .3s,2r-3H .3s;1x:3K 44 #9t;1x-2w:.39;1J:3z;2r-3H:dX 0 3K 3K 3B(0,0,0,.dY);1u:3z;1T-2j:1.2m}.13-2l.13-4N,.13-1i.13-4N,.13-2h.13-4N{1x-1u:#5b!3f;2r-3H:0 0 79 #5b!3f}.13-2l:2c,.13-1i:2c,.13-2h:2c{1x:3K 44 #dZ;5B:0;2r-3H:0 0 9m #e0}.13-2l::-1a-1i-2E,.13-1i::-1a-1i-2E,.13-2h::-1a-1i-2E{1u:#4V}.13-2l::-4s-2E,.13-1i::-4s-2E,.13-2h::-4s-2E{1u:#4V}.13-2l:-2Z-1i-2E,.13-1i:-2Z-1i-2E,.13-2h:-2Z-1i-2E{1u:#4V}.13-2l::-2Z-1i-2E,.13-1i::-2Z-1i-2E,.13-2h::-2Z-1i-2E{1u:#4V}.13-2l::2E,.13-1i::2E,.13-2h::2E{1u:#4V}.13-2s{1N:3w 1D;1J:3z}.13-2s 1i{1c:80%}.13-2s 46{1c:20%;1u:3z;1T-3Y:69;3g-1S:1l}.13-2s 1i,.13-2s 46{1E:2.1W;2e:0;1T-2j:1.2m;1o-1E:2.1W}.13-1i{1E:2.1W;2e:0 .2X}.13-1i[1U=4d]{4K-1c:e2}.13-2l{1J:3z;1T-2j:1.2m}.13-2h{1E:6.2X;2e:.2X}.13-2b{7m-1c:50%;4K-1c:1F%;2e:.2H .1W;1J:3z;1u:3z;1T-2j:1.2m}.13-2A,.13-2v{1S-2f:1l;2p-1z:1l;1J:3z;1u:3z}.13-2A 3E,.13-2v 3E{1N:0 .78;1T-2j:1.2m}.13-2A 1i,.13-2v 1i{1N:0 .4u}.13-4h-4l{2B:1Z;1S-2f:1l;2p-1z:1l;2e:.1W;3T:2L;1J:#e3;1u:#e4;1T-2j:3w;1T-3Y:87}.13-4h-4l::4j{1z:\\"!\\";2B:6t-4b;1c:1.21;7m-1c:1.21;1E:1.21;1N:0 .1W;8T:4x;1x-2w:50%;1J-1u:#5b;1u:#3Q;1T-3Y:69;1o-1E:1.21;3g-1S:1l}@e5 (-2Z-e6:4M){.13-2s 1i{1c:1F%!3f}.13-2s 46{2B:1Z}}@6J 7C 6q (-2Z-51-52:1Z),(-2Z-51-52:3V){.13-2s 1i{1c:1F%!3f}.13-2s 46{2B:1Z}}@-4s-1m 62-e7(){.13-3e:2c{5B:79 44 3B(50,1F,7T,.4)}}.13-1r{2G:5o;2r-5r:1z-2r;2p-1z:1l;1c:21;1E:21;1N:1.2x 1D 1.3p;8T:4x;1x:.2x 44 3v;1x-2w:50%;1o-1E:21;6s:4r;-1a-4a-2b:1Z;-4s-4a-2b:1Z;-2Z-4a-2b:1Z;4a-2b:1Z}.13-1r::4j{2B:1C;1S-2f:1l;1E:92%;1T-2j:3.2X}.13-1r.13-2n{1x-1u:#5b}.13-1r.13-2n .13-x-2V{2G:5o;1C-1Y:1}.13-1r.13-2n [1j^=13-x-2V-1o]{2B:4b;2G:4p;19:2.2C;1c:2.3q;1E:.2C;1x-2w:.2m;1J-1u:#5b}.13-1r.13-2n [1j^=13-x-2V-1o][1j$=1g]{1g:1.32;-1a-16:1p(1X);16:1p(1X)}.13-1r.13-2n [1j^=13-x-2V-1o][1j$=1k]{1k:3w;-1a-16:1p(-1X);16:1p(-1X)}.13-1r.13-5J{1x-1u:#e8;1u:#e9}.13-1r.13-5J::4j{1z:\\"!\\"}.13-1r.13-5I{1x-1u:#ea;1u:#eb}.13-1r.13-5I::4j{1z:\\"i\\"}.13-1r.13-4q{1x-1u:#ec;1u:#ed}.13-1r.13-4q::4j{1z:\\"?\\"}.13-1r.13-4q.13-ef-4q-2V::4j{1z:\\"؟\\"}.13-1r.13-1f{1x-1u:#7Q}.13-1r.13-1f [1j^=13-1f-35-1o]{2G:4p;1c:3.2X;1E:7.21;-1a-16:1p(1X);16:1p(1X);1x-2w:50%}.13-1r.13-1f [1j^=13-1f-35-1o][1j$=1g]{19:-.4J;1g:-2.eg;-1a-16:1p(-1X);16:1p(-1X);-1a-16-4m:3.2X 3.2X;16-4m:3.2X 3.2X;1x-2w:7.21 0 0 7.21}.13-1r.13-1f [1j^=13-1f-35-1o][1j$=1k]{19:-.9H;1g:1.3p;-1a-16:1p(-1X);16:1p(-1X);-1a-16-4m:0 3.2X;16-4m:0 3.2X;1x-2w:0 7.21 7.21 0}.13-1r.13-1f .13-1f-6G{2G:4p;z-3Z:2;19:-.2x;1g:-.2x;2r-5r:1z-2r;1c:1F%;1E:1F%;1x:.2x 44 3B(eh,ei,ej,.3);1x-2w:50%}.13-1r.13-1f .13-1f-6F{2G:4p;z-3Z:1;19:.21;1g:1.1W;1c:.4J;1E:5.1W;-1a-16:1p(-1X);16:1p(-1X)}.13-1r.13-1f [1j^=13-1f-1o]{2B:4b;2G:4p;z-3Z:2;1E:.2C;1x-2w:.2m;1J-1u:#7Q}.13-1r.13-1f [1j^=13-1f-1o][1j$=3h]{19:2.3p;1g:.3p;1c:1.5K;-1a-16:1p(1X);16:1p(1X)}.13-1r.13-1f [1j^=13-1f-1o][1j$=3c]{19:2.2H;1k:.21;1c:2.3q;-1a-16:1p(-1X);16:1p(-1X)}.13-25-3F{1S-2f:1l;1N:0 0 1.2x;2e:0;1J:3z;1T-3Y:69}.13-25-3F 7z{2B:6t-4b;2G:5o}.13-25-3F .13-25-2D{z-3Z:20;1c:2q;1E:2q;1x-2w:2q;1J:#6k;1u:#3Q;1o-1E:2q;3g-1S:1l}.13-25-3F .13-25-2D.13-3V-25-2D{1J:#6k}.13-25-3F .13-25-2D.13-3V-25-2D~.13-25-2D{1J:#8E;1u:#3Q}.13-25-3F .13-25-2D.13-3V-25-2D~.13-25-2D-1o{1J:#8E}.13-25-3F .13-25-2D-1o{z-3Z:10;1c:2.21;1E:.4u;1N:0 -3K;1J:#6k}[1j^=13]{-1a-el-em-1u:3v}.13-31{-1a-1L:13-31 .3s;1L:13-31 .3s}.13-31.13-6Q{-1a-1L:1Z;1L:1Z}.13-30{-1a-1L:13-30 .88 67;1L:13-30 .88 67}.13-30.13-6Q{-1a-1L:1Z;1L:1Z}.13-6M .13-3e{1k:1D;1g:0}.13-1Q-1f-1r .13-1f-1o-3h{-1a-1L:13-1Q-1f-1o-3h .4g;1L:13-1Q-1f-1o-3h .4g}.13-1Q-1f-1r .13-1f-1o-3c{-1a-1L:13-1Q-1f-1o-3c .4g;1L:13-1Q-1f-1o-3c .4g}.13-1Q-1f-1r .13-1f-35-1o-1k{-1a-1L:13-1p-1f-35-1o 4.8I 7g-2O;1L:13-1p-1f-35-1o 4.8I 7g-2O}.13-1Q-2n-1r{-1a-1L:13-1Q-2n-1r .5s;1L:13-1Q-2n-1r .5s}.13-1Q-2n-1r .13-x-2V{-1a-1L:13-1Q-2n-x-2V .5s;1L:13-1Q-2n-x-2V .5s}@-1a-2a 13-1p-2u{0%{-1a-16:1p(0);16:1p(0)}1F%{-1a-16:1p(5O);16:1p(5O)}}@2a 13-1p-2u{0%{-1a-16:1p(0);16:1p(0)}1F%{-1a-16:1p(5O);16:1p(5O)}}@6J eq{1e.13-1q:1M(.13-26-1P):1M(.13-1b-1q){3T-y:8D!3f}1e.13-1q:1M(.13-26-1P):1M(.13-1b-1q)>[2o-2L=4M]{2B:1Z}1e.13-1q:1M(.13-26-1P):1M(.13-1b-1q) .13-1h{2G:8O!3f}}");',62,895,'|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||swal2|function||transform|return|var|top|webkit|toast|width|this|body|success|left|container|input|class|right|center|document|concat|line|rotate|shown|icon||popup|color|bottom|if|border|Tt|content|typeof|null|flex|auto|height|100|scale|div|style|background|value|animation|not|margin|start|backdrop|animate|column|align|font|type|nt|625em|45deg|grow|none||5em|window|length||progress|no|end|translateY|target|keyframes|select|focus|Object|padding|items|for|textarea|customClass|size|get|file|125em|error|aria|justify|2em|box|range|rotateZ|loading|radio|radius|25em|it|opacity|checkbox|display|3125em|step|placeholder|actions|position|375em|title|styled|rt|hidden|new|confirmButton|in|setAttribute|disabled|inputValue|forEach|querySelector|timeout|mark|progressSteps|75em|yt|ms|hide|show|0625em||span|circular|Promise|appendChild|innerHTML|1875em|string|prototype|long|undefined|close|important|text|tip|case|validationMessage|innerParams|void|else|2deg|cancelButton|875em|9375em|key||indexOf|arguments|transparent|1em|getInput|button|inherit|createElement|rgba|footer|data|label|steps|then|shadow|parentNode|Swal|1px|running|modal|cancel|removeAttribute|ue|fff|domCache|to|overflow|ot|active|classList|contains|weight|index|tabindex|keydownListenerCapture|parameter|set|solid||output|Reflect|remaining|params|user|block|translateX|number|image|rotateX|75s|validation|405deg|before|direction|message|origin|confirm|object|absolute|question|default|moz|push|4em|getPropertyValue|querySelectorAll|normal|resolve|inputOptions|call|previousBodyPadding|parseInt|hideLoading|activeElement|className|keydownTarget|timer|break|4375em|max|_|true|inputerror|header|first|child|linear|DismissReason|preConfirm|getComputedStyle|ccc|getAttribute|stop|inputPlaceholder|apply||high|contrast|is||id|currentProgressStep|keys|previousActiveElement|setTimeout|documentElement|f27474|Qt|sweetalert2|showCancelButton|showConfirmButton|promise|WeakMap|Symbol|email|Expected|or|got|html|relative|st|Z0|sizing||zA|imageClass|titleText|Jt|toString|allowOutsideClick|delete|keydownHandler|outline|focusCancel|inputValidator|backgroundColor|freeze|checked|switch|info|warning|5625em|iosfix|row|confirmButtonColor|360deg|imageUrl|constructor|onchange|Date|inputClass|showCloseButton|onclick|tt|Pt|fire|resetValidationMessage|addEventListener|Lt|url||keydownHandlerAdded|||forwards|Unexpected|600|word|8em|Ft|wrap|previous|removeEventListener|scrollTop|preventDefault|of|customContainerClass|3085d6|showLoaderOnConfirm|gt|onmouseup|onBeforeOpen|onOpen|and|Dt|cursor|inline|transition|infinite|translate|enumerable|px|0s|writable|100deg|filter|1deg|Invalid|fix|ring|enableButtons|hasOwnProperty|media|_main|queue|rtl|cancelButtonColor|05|construct|noanimation|fade|fullscreen|dismiss|esc|hasAttribute|It|getConfirmButton|SweetAlert2|3em||remove|stretch|Nt|parseFloat|click|Array|initial|6em|2px|focusConfirm|reverseButtons|cancelButtonClass|stopPropagation|confirmButtonClass|allowEnterKey|ease|heightAuto|swalPromiseResolve|Zt|catch|keydown|min|capture|Mt|At|getTimerLeft|Bt|closeButton|Xt|imageWidth|te|imageAlt|childNodes|progressStepsDistance|li|test|https|all|removeChild|Ct|configurable|overflowY|requires|styleSheet|tel|throw|ie|Map|oninput|se|instanceof|a5dc86|pt|closePopup|150|disableButtons|Sweetalert2|showValidationMessage|buttonsStyling|update|borderRightColor||onmousedown|borderLeftColor|define||github|from|300|15s|try|kt|St|ft|splice|Unknown|showLoading|pointer|src|TypeError|hover|h2|imageHeight|offsetWidth|href|8125em|increase|innerText|isRunning|gradient|OK|closeButtonAriaLabel|Rt|scrollHeight|Cancel|paddingRight|ontouchstart|navigator|50px|mt|scroll|add8e6|busy|use|The|25s|jt|valid|defaulting|_t|Ot|static|restoreFocusTimeout|console|allowEscapeKey|zt|zoom|Wt|controls|resize|Kt|children|family|bind|duration||stopKeydownPropagation|setPrototypeOf||vt|confirmButtonText|confirmButtonAriaLabel|attributes|cancelButtonText|cancelButtonAriaLabel|name|isVisible|dialog|getPrototypeOf|__proto__|callback|started|clearTimeout|inputAutoTrim|password|3px|split|onAfterClose|hasn|onClose|scrollbarPadding|Vt|d9d9d9|qt|Ht|lt|isUpdatableParameter|ne|Boolean|argsToParams|cloneNode|finally|SweetAlert|clickConfirm|add|re|6875em|option|selected|wt|15px|self|been|defineProperties|com|inputAttributes|30px|enableConfirmButton|ut|disableConfirmButton|enableInput|disableInput|545454|blur|outerHTML|invalid|describedBy|getProgressSteps|const|swalInstance|getQueueStep|setProgressSteps|module|insertBefore|should|removeProperty|with|exports|Button|files|ul|symbol|isDeprecatedParameter|together|usage|example|nhttps|used|nshowLoaderOnConfirm|io|ajax|request|Target|||join|defined|trim|checkValidity|but|toasts|onmouseover|onmouseout|incompatible|hideProgressSteps|showProgressSteps|Enter|isComposing|Tab|shiftKey|ArrowLeft|ArrowRight|ArrowUp|ArrowDown|Left|Right|Up|Down|Escape|Esc|marginRight|Error|marginLeft|Updatable|are|listed|here|closeToast|blob|master|utils|js|closeModal|disableLoading|This|package|library|||||||||||please|include|shim|enable|browser|See|wiki||Migration||MSStream|support|userAgent|version|iPod|swal|sweetAlert|getElementsByTagName|head|iPhone|cssText|charset|UTF|iPad|URL|256|www|address|ontouchmove|tagName|INPUT|clientHeight|alignItems|offsetTop|documentMode|MSInputMethodContext|clientWidth|msMaxTouchPoints|innerHeight|isTimerRunning|increaseTimer|toggleTimer|resumeTimer|stopTimer|enableLoading|deleteQueueStep|insertQueueStep|create|either|must|expression|Super|mixin|isLoading|getValidationMessage|getFocusableElements|getFooter|getHeader|getCancelButton|getActions|getCloseButton|getIcons|getIcon|getImage|getContent|getTitle|getPopup|getContainer|clickCancel|see|isValidParameter||imageHeigth|Close|scrollTo|scrollY|scrollX|alt|starts|700|arrays|JS|like|than|less|textContent|basis|ButtonClass|ButtonAriaLabel|ButtonText|substring|showC|animationend|oanimationend|oAnimationEnd|OAnimation|webkitAnimationEnd|WebkitAnimation|nextSibling|assertive|polite|live|alert|role|initialize|has|replace|times|img|calc|10px|fixed|describedby|1060|scrolling|touch|labelledby|HTMLElement|32em|video|audio|1rem|contenteditable|595959|embed|iframe|area|sort|getClientRects|offsetHeight|46875em|warn|instead||Please|release|major|next|the|removed|after|will|5px|deprecated|999|slice|500|map|getOwnPropertyDescriptor|called|aaa|super|4px|inner|eee|initialised|ReferenceError|out|Function|serif|Proxy|sham|assign|inset|06|b4dbed|c4e6f5|defineProperty|10em|f0f0f0|666|supports|accelerator|prefix|facea8|f8bb86|9de0f6|3fc3ee|c9dae1|87adbd||arabic|0635em|165|220|134|Cannot|tap|highlight|iterator|strict|amd|print'.split('|'),0,{}))
+/*!
+* sweetalert2 v11.12.4
+* Released under the MIT License.
+*/
+(function (global, factory) {
+  typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
+  typeof define === 'function' && define.amd ? define(factory) :
+  (global = typeof globalThis !== 'undefined' ? globalThis : global || self, global.Sweetalert2 = factory());
+})(this, (function () { 'use strict';
+
+  function _arrayLikeToArray(r, a) {
+    (null == a || a > r.length) && (a = r.length);
+    for (var e = 0, n = Array(a); e < a; e++) n[e] = r[e];
+    return n;
+  }
+  function _arrayWithHoles(r) {
+    if (Array.isArray(r)) return r;
+  }
+  function _arrayWithoutHoles(r) {
+    if (Array.isArray(r)) return _arrayLikeToArray(r);
+  }
+  function _assertClassBrand(e, t, n) {
+    if ("function" == typeof e ? e === t : e.has(t)) return arguments.length < 3 ? t : n;
+    throw new TypeError("Private element is not present on this object");
+  }
+  function _assertThisInitialized(e) {
+    if (void 0 === e) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
+    return e;
+  }
+  function _callSuper(t, o, e) {
+    return o = _getPrototypeOf(o), _possibleConstructorReturn(t, _isNativeReflectConstruct() ? Reflect.construct(o, e || [], _getPrototypeOf(t).constructor) : o.apply(t, e));
+  }
+  function _checkPrivateRedeclaration(e, t) {
+    if (t.has(e)) throw new TypeError("Cannot initialize the same private elements twice on an object");
+  }
+  function _classCallCheck(a, n) {
+    if (!(a instanceof n)) throw new TypeError("Cannot call a class as a function");
+  }
+  function _classPrivateFieldGet2(s, a) {
+    return s.get(_assertClassBrand(s, a));
+  }
+  function _classPrivateFieldInitSpec(e, t, a) {
+    _checkPrivateRedeclaration(e, t), t.set(e, a);
+  }
+  function _classPrivateFieldSet2(s, a, r) {
+    return s.set(_assertClassBrand(s, a), r), r;
+  }
+  function _construct(t, e, r) {
+    if (_isNativeReflectConstruct()) return Reflect.construct.apply(null, arguments);
+    var o = [null];
+    o.push.apply(o, e);
+    var p = new (t.bind.apply(t, o))();
+    return p;
+  }
+  function _defineProperties(e, r) {
+    for (var t = 0; t < r.length; t++) {
+      var o = r[t];
+      o.enumerable = o.enumerable || !1, o.configurable = !0, "value" in o && (o.writable = !0), Object.defineProperty(e, _toPropertyKey(o.key), o);
+    }
+  }
+  function _createClass(e, r, t) {
+    return r && _defineProperties(e.prototype, r), Object.defineProperty(e, "prototype", {
+      writable: !1
+    }), e;
+  }
+  function _createForOfIteratorHelper(r, e) {
+    var t = "undefined" != typeof Symbol && r[Symbol.iterator] || r["@@iterator"];
+    if (!t) {
+      if (Array.isArray(r) || (t = _unsupportedIterableToArray(r)) || e) {
+        t && (r = t);
+        var n = 0,
+          F = function () {};
+        return {
+          s: F,
+          n: function () {
+            return n >= r.length ? {
+              done: !0
+            } : {
+              done: !1,
+              value: r[n++]
+            };
+          },
+          e: function (r) {
+            throw r;
+          },
+          f: F
+        };
+      }
+      throw new TypeError("Invalid attempt to iterate non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+    }
+    var o,
+      a = !0,
+      u = !1;
+    return {
+      s: function () {
+        t = t.call(r);
+      },
+      n: function () {
+        var r = t.next();
+        return a = r.done, r;
+      },
+      e: function (r) {
+        u = !0, o = r;
+      },
+      f: function () {
+        try {
+          a || null == t.return || t.return();
+        } finally {
+          if (u) throw o;
+        }
+      }
+    };
+  }
+  function _get() {
+    return _get = "undefined" != typeof Reflect && Reflect.get ? Reflect.get.bind() : function (e, t, r) {
+      var p = _superPropBase(e, t);
+      if (p) {
+        var n = Object.getOwnPropertyDescriptor(p, t);
+        return n.get ? n.get.call(arguments.length < 3 ? e : r) : n.value;
+      }
+    }, _get.apply(null, arguments);
+  }
+  function _getPrototypeOf(t) {
+    return _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf.bind() : function (t) {
+      return t.__proto__ || Object.getPrototypeOf(t);
+    }, _getPrototypeOf(t);
+  }
+  function _inherits(t, e) {
+    if ("function" != typeof e && null !== e) throw new TypeError("Super expression must either be null or a function");
+    t.prototype = Object.create(e && e.prototype, {
+      constructor: {
+        value: t,
+        writable: !0,
+        configurable: !0
+      }
+    }), Object.defineProperty(t, "prototype", {
+      writable: !1
+    }), e && _setPrototypeOf(t, e);
+  }
+  function _isNativeReflectConstruct() {
+    try {
+      var t = !Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {}));
+    } catch (t) {}
+    return (_isNativeReflectConstruct = function () {
+      return !!t;
+    })();
+  }
+  function _iterableToArray(r) {
+    if ("undefined" != typeof Symbol && null != r[Symbol.iterator] || null != r["@@iterator"]) return Array.from(r);
+  }
+  function _iterableToArrayLimit(r, l) {
+    var t = null == r ? null : "undefined" != typeof Symbol && r[Symbol.iterator] || r["@@iterator"];
+    if (null != t) {
+      var e,
+        n,
+        i,
+        u,
+        a = [],
+        f = !0,
+        o = !1;
+      try {
+        if (i = (t = t.call(r)).next, 0 === l) ; else for (; !(f = (e = i.call(t)).done) && (a.push(e.value), a.length !== l); f = !0);
+      } catch (r) {
+        o = !0, n = r;
+      } finally {
+        try {
+          if (!f && null != t.return && (u = t.return(), Object(u) !== u)) return;
+        } finally {
+          if (o) throw n;
+        }
+      }
+      return a;
+    }
+  }
+  function _nonIterableRest() {
+    throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+  }
+  function _nonIterableSpread() {
+    throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+  }
+  function _possibleConstructorReturn(t, e) {
+    if (e && ("object" == typeof e || "function" == typeof e)) return e;
+    if (void 0 !== e) throw new TypeError("Derived constructors may only return object or undefined");
+    return _assertThisInitialized(t);
+  }
+  function _setPrototypeOf(t, e) {
+    return _setPrototypeOf = Object.setPrototypeOf ? Object.setPrototypeOf.bind() : function (t, e) {
+      return t.__proto__ = e, t;
+    }, _setPrototypeOf(t, e);
+  }
+  function _slicedToArray(r, e) {
+    return _arrayWithHoles(r) || _iterableToArrayLimit(r, e) || _unsupportedIterableToArray(r, e) || _nonIterableRest();
+  }
+  function _superPropBase(t, o) {
+    for (; !{}.hasOwnProperty.call(t, o) && null !== (t = _getPrototypeOf(t)););
+    return t;
+  }
+  function _superPropGet(t, e, r, o) {
+    var p = _get(_getPrototypeOf(t.prototype ), e, r);
+    return function (t) {
+      return p.apply(r, t);
+    } ;
+  }
+  function _toConsumableArray(r) {
+    return _arrayWithoutHoles(r) || _iterableToArray(r) || _unsupportedIterableToArray(r) || _nonIterableSpread();
+  }
+  function _toPrimitive(t, r) {
+    if ("object" != typeof t || !t) return t;
+    var e = t[Symbol.toPrimitive];
+    if (void 0 !== e) {
+      var i = e.call(t, r);
+      if ("object" != typeof i) return i;
+      throw new TypeError("@@toPrimitive must return a primitive value.");
+    }
+    return (String )(t);
+  }
+  function _toPropertyKey(t) {
+    var i = _toPrimitive(t, "string");
+    return "symbol" == typeof i ? i : i + "";
+  }
+  function _typeof(o) {
+    "@babel/helpers - typeof";
+
+    return _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (o) {
+      return typeof o;
+    } : function (o) {
+      return o && "function" == typeof Symbol && o.constructor === Symbol && o !== Symbol.prototype ? "symbol" : typeof o;
+    }, _typeof(o);
+  }
+  function _unsupportedIterableToArray(r, a) {
+    if (r) {
+      if ("string" == typeof r) return _arrayLikeToArray(r, a);
+      var t = {}.toString.call(r).slice(8, -1);
+      return "Object" === t && r.constructor && (t = r.constructor.name), "Map" === t || "Set" === t ? Array.from(r) : "Arguments" === t || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(t) ? _arrayLikeToArray(r, a) : void 0;
+    }
+  }
+
+  var RESTORE_FOCUS_TIMEOUT = 100;
+
+  /** @type {GlobalState} */
+  var globalState = {};
+  var focusPreviousActiveElement = function focusPreviousActiveElement() {
+    if (globalState.previousActiveElement instanceof HTMLElement) {
+      globalState.previousActiveElement.focus();
+      globalState.previousActiveElement = null;
+    } else if (document.body) {
+      document.body.focus();
+    }
+  };
+
+  /**
+   * Restore previous active (focused) element
+   *
+   * @param {boolean} returnFocus
+   * @returns {Promise<void>}
+   */
+  var restoreActiveElement = function restoreActiveElement(returnFocus) {
+    return new Promise(function (resolve) {
+      if (!returnFocus) {
+        return resolve();
+      }
+      var x = window.scrollX;
+      var y = window.scrollY;
+      globalState.restoreFocusTimeout = setTimeout(function () {
+        focusPreviousActiveElement();
+        resolve();
+      }, RESTORE_FOCUS_TIMEOUT); // issues/900
+
+      window.scrollTo(x, y);
+    });
+  };
+
+  var swalPrefix = 'swal2-';
+
+  /**
+   * @typedef {Record<SwalClass, string>} SwalClasses
+   */
+
+  /**
+   * @typedef {'success' | 'warning' | 'info' | 'question' | 'error'} SwalIcon
+   * @typedef {Record<SwalIcon, string>} SwalIcons
+   */
+
+  /** @type {SwalClass[]} */
+  var classNames = ['container', 'shown', 'height-auto', 'iosfix', 'popup', 'modal', 'no-backdrop', 'no-transition', 'toast', 'toast-shown', 'show', 'hide', 'close', 'title', 'html-container', 'actions', 'confirm', 'deny', 'cancel', 'default-outline', 'footer', 'icon', 'icon-content', 'image', 'input', 'file', 'range', 'select', 'radio', 'checkbox', 'label', 'textarea', 'inputerror', 'input-label', 'validation-message', 'progress-steps', 'active-progress-step', 'progress-step', 'progress-step-line', 'loader', 'loading', 'styled', 'top', 'top-start', 'top-end', 'top-left', 'top-right', 'center', 'center-start', 'center-end', 'center-left', 'center-right', 'bottom', 'bottom-start', 'bottom-end', 'bottom-left', 'bottom-right', 'grow-row', 'grow-column', 'grow-fullscreen', 'rtl', 'timer-progress-bar', 'timer-progress-bar-container', 'scrollbar-measure', 'icon-success', 'icon-warning', 'icon-info', 'icon-question', 'icon-error'];
+  var swalClasses = classNames.reduce(function (acc, className) {
+    acc[className] = swalPrefix + className;
+    return acc;
+  }, /** @type {SwalClasses} */{});
+
+  /** @type {SwalIcon[]} */
+  var icons = ['success', 'warning', 'info', 'question', 'error'];
+  var iconTypes = icons.reduce(function (acc, icon) {
+    acc[icon] = swalPrefix + icon;
+    return acc;
+  }, /** @type {SwalIcons} */{});
+
+  var consolePrefix = 'SweetAlert2:';
+
+  /**
+   * Capitalize the first letter of a string
+   *
+   * @param {string} str
+   * @returns {string}
+   */
+  var capitalizeFirstLetter = function capitalizeFirstLetter(str) {
+    return str.charAt(0).toUpperCase() + str.slice(1);
+  };
+
+  /**
+   * Standardize console warnings
+   *
+   * @param {string | string[]} message
+   */
+  var warn = function warn(message) {
+    console.warn("".concat(consolePrefix, " ").concat(_typeof(message) === 'object' ? message.join(' ') : message));
+  };
+
+  /**
+   * Standardize console errors
+   *
+   * @param {string} message
+   */
+  var error = function error(message) {
+    console.error("".concat(consolePrefix, " ").concat(message));
+  };
+
+  /**
+   * Private global state for `warnOnce`
+   *
+   * @type {string[]}
+   * @private
+   */
+  var previousWarnOnceMessages = [];
+
+  /**
+   * Show a console warning, but only if it hasn't already been shown
+   *
+   * @param {string} message
+   */
+  var warnOnce = function warnOnce(message) {
+    if (!previousWarnOnceMessages.includes(message)) {
+      previousWarnOnceMessages.push(message);
+      warn(message);
+    }
+  };
+
+  /**
+   * Show a one-time console warning about deprecated params/methods
+   *
+   * @param {string} deprecatedParam
+   * @param {string?} useInstead
+   */
+  var warnAboutDeprecation = function warnAboutDeprecation(deprecatedParam) {
+    var useInstead = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : null;
+    warnOnce("\"".concat(deprecatedParam, "\" is deprecated and will be removed in the next major release.").concat(useInstead ? " Use \"".concat(useInstead, "\" instead.") : ''));
+  };
+
+  /**
+   * If `arg` is a function, call it (with no arguments or context) and return the result.
+   * Otherwise, just pass the value through
+   *
+   * @param {Function | any} arg
+   * @returns {any}
+   */
+  var callIfFunction = function callIfFunction(arg) {
+    return typeof arg === 'function' ? arg() : arg;
+  };
+
+  /**
+   * @param {any} arg
+   * @returns {boolean}
+   */
+  var hasToPromiseFn = function hasToPromiseFn(arg) {
+    return arg && typeof arg.toPromise === 'function';
+  };
+
+  /**
+   * @param {any} arg
+   * @returns {Promise<any>}
+   */
+  var asPromise = function asPromise(arg) {
+    return hasToPromiseFn(arg) ? arg.toPromise() : Promise.resolve(arg);
+  };
+
+  /**
+   * @param {any} arg
+   * @returns {boolean}
+   */
+  var isPromise = function isPromise(arg) {
+    return arg && Promise.resolve(arg) === arg;
+  };
+
+  /**
+   * Gets the popup container which contains the backdrop and the popup itself.
+   *
+   * @returns {HTMLElement | null}
+   */
+  var getContainer = function getContainer() {
+    return document.body.querySelector(".".concat(swalClasses.container));
+  };
+
+  /**
+   * @param {string} selectorString
+   * @returns {HTMLElement | null}
+   */
+  var elementBySelector = function elementBySelector(selectorString) {
+    var container = getContainer();
+    return container ? container.querySelector(selectorString) : null;
+  };
+
+  /**
+   * @param {string} className
+   * @returns {HTMLElement | null}
+   */
+  var elementByClass = function elementByClass(className) {
+    return elementBySelector(".".concat(className));
+  };
+
+  /**
+   * @returns {HTMLElement | null}
+   */
+  var getPopup = function getPopup() {
+    return elementByClass(swalClasses.popup);
+  };
+
+  /**
+   * @returns {HTMLElement | null}
+   */
+  var getIcon = function getIcon() {
+    return elementByClass(swalClasses.icon);
+  };
+
+  /**
+   * @returns {HTMLElement | null}
+   */
+  var getIconContent = function getIconContent() {
+    return elementByClass(swalClasses['icon-content']);
+  };
+
+  /**
+   * @returns {HTMLElement | null}
+   */
+  var getTitle = function getTitle() {
+    return elementByClass(swalClasses.title);
+  };
+
+  /**
+   * @returns {HTMLElement | null}
+   */
+  var getHtmlContainer = function getHtmlContainer() {
+    return elementByClass(swalClasses['html-container']);
+  };
+
+  /**
+   * @returns {HTMLElement | null}
+   */
+  var getImage = function getImage() {
+    return elementByClass(swalClasses.image);
+  };
+
+  /**
+   * @returns {HTMLElement | null}
+   */
+  var getProgressSteps = function getProgressSteps() {
+    return elementByClass(swalClasses['progress-steps']);
+  };
+
+  /**
+   * @returns {HTMLElement | null}
+   */
+  var getValidationMessage = function getValidationMessage() {
+    return elementByClass(swalClasses['validation-message']);
+  };
+
+  /**
+   * @returns {HTMLButtonElement | null}
+   */
+  var getConfirmButton = function getConfirmButton() {
+    return /** @type {HTMLButtonElement} */elementBySelector(".".concat(swalClasses.actions, " .").concat(swalClasses.confirm));
+  };
+
+  /**
+   * @returns {HTMLButtonElement | null}
+   */
+  var getCancelButton = function getCancelButton() {
+    return /** @type {HTMLButtonElement} */elementBySelector(".".concat(swalClasses.actions, " .").concat(swalClasses.cancel));
+  };
+
+  /**
+   * @returns {HTMLButtonElement | null}
+   */
+  var getDenyButton = function getDenyButton() {
+    return /** @type {HTMLButtonElement} */elementBySelector(".".concat(swalClasses.actions, " .").concat(swalClasses.deny));
+  };
+
+  /**
+   * @returns {HTMLElement | null}
+   */
+  var getInputLabel = function getInputLabel() {
+    return elementByClass(swalClasses['input-label']);
+  };
+
+  /**
+   * @returns {HTMLElement | null}
+   */
+  var getLoader = function getLoader() {
+    return elementBySelector(".".concat(swalClasses.loader));
+  };
+
+  /**
+   * @returns {HTMLElement | null}
+   */
+  var getActions = function getActions() {
+    return elementByClass(swalClasses.actions);
+  };
+
+  /**
+   * @returns {HTMLElement | null}
+   */
+  var getFooter = function getFooter() {
+    return elementByClass(swalClasses.footer);
+  };
+
+  /**
+   * @returns {HTMLElement | null}
+   */
+  var getTimerProgressBar = function getTimerProgressBar() {
+    return elementByClass(swalClasses['timer-progress-bar']);
+  };
+
+  /**
+   * @returns {HTMLElement | null}
+   */
+  var getCloseButton = function getCloseButton() {
+    return elementByClass(swalClasses.close);
+  };
+
+  // https://github.com/jkup/focusable/blob/master/index.js
+  var focusable = "\n  a[href],\n  area[href],\n  input:not([disabled]),\n  select:not([disabled]),\n  textarea:not([disabled]),\n  button:not([disabled]),\n  iframe,\n  object,\n  embed,\n  [tabindex=\"0\"],\n  [contenteditable],\n  audio[controls],\n  video[controls],\n  summary\n";
+  /**
+   * @returns {HTMLElement[]}
+   */
+  var getFocusableElements = function getFocusableElements() {
+    var popup = getPopup();
+    if (!popup) {
+      return [];
+    }
+    /** @type {NodeListOf<HTMLElement>} */
+    var focusableElementsWithTabindex = popup.querySelectorAll('[tabindex]:not([tabindex="-1"]):not([tabindex="0"])');
+    var focusableElementsWithTabindexSorted = Array.from(focusableElementsWithTabindex)
+    // sort according to tabindex
+    .sort(function (a, b) {
+      var tabindexA = parseInt(a.getAttribute('tabindex') || '0');
+      var tabindexB = parseInt(b.getAttribute('tabindex') || '0');
+      if (tabindexA > tabindexB) {
+        return 1;
+      } else if (tabindexA < tabindexB) {
+        return -1;
+      }
+      return 0;
+    });
+
+    /** @type {NodeListOf<HTMLElement>} */
+    var otherFocusableElements = popup.querySelectorAll(focusable);
+    var otherFocusableElementsFiltered = Array.from(otherFocusableElements).filter(function (el) {
+      return el.getAttribute('tabindex') !== '-1';
+    });
+    return _toConsumableArray(new Set(focusableElementsWithTabindexSorted.concat(otherFocusableElementsFiltered))).filter(function (el) {
+      return isVisible$1(el);
+    });
+  };
+
+  /**
+   * @returns {boolean}
+   */
+  var isModal = function isModal() {
+    return hasClass(document.body, swalClasses.shown) && !hasClass(document.body, swalClasses['toast-shown']) && !hasClass(document.body, swalClasses['no-backdrop']);
+  };
+
+  /**
+   * @returns {boolean}
+   */
+  var isToast = function isToast() {
+    var popup = getPopup();
+    if (!popup) {
+      return false;
+    }
+    return hasClass(popup, swalClasses.toast);
+  };
+
+  /**
+   * @returns {boolean}
+   */
+  var isLoading = function isLoading() {
+    var popup = getPopup();
+    if (!popup) {
+      return false;
+    }
+    return popup.hasAttribute('data-loading');
+  };
+
+  /**
+   * Securely set innerHTML of an element
+   * https://github.com/sweetalert2/sweetalert2/issues/1926
+   *
+   * @param {HTMLElement} elem
+   * @param {string} html
+   */
+  var setInnerHtml = function setInnerHtml(elem, html) {
+    elem.textContent = '';
+    if (html) {
+      var parser = new DOMParser();
+      var parsed = parser.parseFromString(html, "text/html");
+      var head = parsed.querySelector('head');
+      if (head) {
+        Array.from(head.childNodes).forEach(function (child) {
+          elem.appendChild(child);
+        });
+      }
+      var body = parsed.querySelector('body');
+      if (body) {
+        Array.from(body.childNodes).forEach(function (child) {
+          if (child instanceof HTMLVideoElement || child instanceof HTMLAudioElement) {
+            elem.appendChild(child.cloneNode(true)); // https://github.com/sweetalert2/sweetalert2/issues/2507
+          } else {
+            elem.appendChild(child);
+          }
+        });
+      }
+    }
+  };
+
+  /**
+   * @param {HTMLElement} elem
+   * @param {string} className
+   * @returns {boolean}
+   */
+  var hasClass = function hasClass(elem, className) {
+    if (!className) {
+      return false;
+    }
+    var classList = className.split(/\s+/);
+    for (var i = 0; i < classList.length; i++) {
+      if (!elem.classList.contains(classList[i])) {
+        return false;
+      }
+    }
+    return true;
+  };
+
+  /**
+   * @param {HTMLElement} elem
+   * @param {SweetAlertOptions} params
+   */
+  var removeCustomClasses = function removeCustomClasses(elem, params) {
+    Array.from(elem.classList).forEach(function (className) {
+      if (!Object.values(swalClasses).includes(className) && !Object.values(iconTypes).includes(className) && !Object.values(params.showClass || {}).includes(className)) {
+        elem.classList.remove(className);
+      }
+    });
+  };
+
+  /**
+   * @param {HTMLElement} elem
+   * @param {SweetAlertOptions} params
+   * @param {string} className
+   */
+  var applyCustomClass = function applyCustomClass(elem, params, className) {
+    removeCustomClasses(elem, params);
+    if (!params.customClass) {
+      return;
+    }
+    var customClass = params.customClass[( /** @type {keyof SweetAlertCustomClass} */className)];
+    if (!customClass) {
+      return;
+    }
+    if (typeof customClass !== 'string' && !customClass.forEach) {
+      warn("Invalid type of customClass.".concat(className, "! Expected string or iterable object, got \"").concat(_typeof(customClass), "\""));
+      return;
+    }
+    addClass(elem, customClass);
+  };
+
+  /**
+   * @param {HTMLElement} popup
+   * @param {import('./renderers/renderInput').InputClass | SweetAlertInput} inputClass
+   * @returns {HTMLInputElement | null}
+   */
+  var getInput$1 = function getInput(popup, inputClass) {
+    if (!inputClass) {
+      return null;
+    }
+    switch (inputClass) {
+      case 'select':
+      case 'textarea':
+      case 'file':
+        return popup.querySelector(".".concat(swalClasses.popup, " > .").concat(swalClasses[inputClass]));
+      case 'checkbox':
+        return popup.querySelector(".".concat(swalClasses.popup, " > .").concat(swalClasses.checkbox, " input"));
+      case 'radio':
+        return popup.querySelector(".".concat(swalClasses.popup, " > .").concat(swalClasses.radio, " input:checked")) || popup.querySelector(".".concat(swalClasses.popup, " > .").concat(swalClasses.radio, " input:first-child"));
+      case 'range':
+        return popup.querySelector(".".concat(swalClasses.popup, " > .").concat(swalClasses.range, " input"));
+      default:
+        return popup.querySelector(".".concat(swalClasses.popup, " > .").concat(swalClasses.input));
+    }
+  };
+
+  /**
+   * @param {HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement} input
+   */
+  var focusInput = function focusInput(input) {
+    input.focus();
+
+    // place cursor at end of text in text input
+    if (input.type !== 'file') {
+      // http://stackoverflow.com/a/2345915
+      var val = input.value;
+      input.value = '';
+      input.value = val;
+    }
+  };
+
+  /**
+   * @param {HTMLElement | HTMLElement[] | null} target
+   * @param {string | string[] | readonly string[] | undefined} classList
+   * @param {boolean} condition
+   */
+  var toggleClass = function toggleClass(target, classList, condition) {
+    if (!target || !classList) {
+      return;
+    }
+    if (typeof classList === 'string') {
+      classList = classList.split(/\s+/).filter(Boolean);
+    }
+    classList.forEach(function (className) {
+      if (Array.isArray(target)) {
+        target.forEach(function (elem) {
+          if (condition) {
+            elem.classList.add(className);
+          } else {
+            elem.classList.remove(className);
+          }
+        });
+      } else {
+        if (condition) {
+          target.classList.add(className);
+        } else {
+          target.classList.remove(className);
+        }
+      }
+    });
+  };
+
+  /**
+   * @param {HTMLElement | HTMLElement[] | null} target
+   * @param {string | string[] | readonly string[] | undefined} classList
+   */
+  var addClass = function addClass(target, classList) {
+    toggleClass(target, classList, true);
+  };
+
+  /**
+   * @param {HTMLElement | HTMLElement[] | null} target
+   * @param {string | string[] | readonly string[] | undefined} classList
+   */
+  var removeClass = function removeClass(target, classList) {
+    toggleClass(target, classList, false);
+  };
+
+  /**
+   * Get direct child of an element by class name
+   *
+   * @param {HTMLElement} elem
+   * @param {string} className
+   * @returns {HTMLElement | undefined}
+   */
+  var getDirectChildByClass = function getDirectChildByClass(elem, className) {
+    var children = Array.from(elem.children);
+    for (var i = 0; i < children.length; i++) {
+      var child = children[i];
+      if (child instanceof HTMLElement && hasClass(child, className)) {
+        return child;
+      }
+    }
+  };
+
+  /**
+   * @param {HTMLElement} elem
+   * @param {string} property
+   * @param {*} value
+   */
+  var applyNumericalStyle = function applyNumericalStyle(elem, property, value) {
+    if (value === "".concat(parseInt(value))) {
+      value = parseInt(value);
+    }
+    if (value || parseInt(value) === 0) {
+      elem.style.setProperty(property, typeof value === 'number' ? "".concat(value, "px") : value);
+    } else {
+      elem.style.removeProperty(property);
+    }
+  };
+
+  /**
+   * @param {HTMLElement | null} elem
+   * @param {string} display
+   */
+  var show = function show(elem) {
+    var display = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 'flex';
+    if (!elem) {
+      return;
+    }
+    elem.style.display = display;
+  };
+
+  /**
+   * @param {HTMLElement | null} elem
+   */
+  var hide = function hide(elem) {
+    if (!elem) {
+      return;
+    }
+    elem.style.display = 'none';
+  };
+
+  /**
+   * @param {HTMLElement | null} elem
+   * @param {string} display
+   */
+  var showWhenInnerHtmlPresent = function showWhenInnerHtmlPresent(elem) {
+    var display = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 'block';
+    if (!elem) {
+      return;
+    }
+    new MutationObserver(function () {
+      toggle(elem, elem.innerHTML, display);
+    }).observe(elem, {
+      childList: true,
+      subtree: true
+    });
+  };
+
+  /**
+   * @param {HTMLElement} parent
+   * @param {string} selector
+   * @param {string} property
+   * @param {string} value
+   */
+  var setStyle = function setStyle(parent, selector, property, value) {
+    /** @type {HTMLElement | null} */
+    var el = parent.querySelector(selector);
+    if (el) {
+      el.style.setProperty(property, value);
+    }
+  };
+
+  /**
+   * @param {HTMLElement} elem
+   * @param {any} condition
+   * @param {string} display
+   */
+  var toggle = function toggle(elem, condition) {
+    var display = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : 'flex';
+    if (condition) {
+      show(elem, display);
+    } else {
+      hide(elem);
+    }
+  };
+
+  /**
+   * borrowed from jquery $(elem).is(':visible') implementation
+   *
+   * @param {HTMLElement | null} elem
+   * @returns {boolean}
+   */
+  var isVisible$1 = function isVisible(elem) {
+    return !!(elem && (elem.offsetWidth || elem.offsetHeight || elem.getClientRects().length));
+  };
+
+  /**
+   * @returns {boolean}
+   */
+  var allButtonsAreHidden = function allButtonsAreHidden() {
+    return !isVisible$1(getConfirmButton()) && !isVisible$1(getDenyButton()) && !isVisible$1(getCancelButton());
+  };
+
+  /**
+   * @param {HTMLElement} elem
+   * @returns {boolean}
+   */
+  var isScrollable = function isScrollable(elem) {
+    return !!(elem.scrollHeight > elem.clientHeight);
+  };
+
+  /**
+   * borrowed from https://stackoverflow.com/a/46352119
+   *
+   * @param {HTMLElement} elem
+   * @returns {boolean}
+   */
+  var hasCssAnimation = function hasCssAnimation(elem) {
+    var style = window.getComputedStyle(elem);
+    var animDuration = parseFloat(style.getPropertyValue('animation-duration') || '0');
+    var transDuration = parseFloat(style.getPropertyValue('transition-duration') || '0');
+    return animDuration > 0 || transDuration > 0;
+  };
+
+  /**
+   * @param {number} timer
+   * @param {boolean} reset
+   */
+  var animateTimerProgressBar = function animateTimerProgressBar(timer) {
+    var reset = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : false;
+    var timerProgressBar = getTimerProgressBar();
+    if (!timerProgressBar) {
+      return;
+    }
+    if (isVisible$1(timerProgressBar)) {
+      if (reset) {
+        timerProgressBar.style.transition = 'none';
+        timerProgressBar.style.width = '100%';
+      }
+      setTimeout(function () {
+        timerProgressBar.style.transition = "width ".concat(timer / 1000, "s linear");
+        timerProgressBar.style.width = '0%';
+      }, 10);
+    }
+  };
+  var stopTimerProgressBar = function stopTimerProgressBar() {
+    var timerProgressBar = getTimerProgressBar();
+    if (!timerProgressBar) {
+      return;
+    }
+    var timerProgressBarWidth = parseInt(window.getComputedStyle(timerProgressBar).width);
+    timerProgressBar.style.removeProperty('transition');
+    timerProgressBar.style.width = '100%';
+    var timerProgressBarFullWidth = parseInt(window.getComputedStyle(timerProgressBar).width);
+    var timerProgressBarPercent = timerProgressBarWidth / timerProgressBarFullWidth * 100;
+    timerProgressBar.style.width = "".concat(timerProgressBarPercent, "%");
+  };
+
+  /**
+   * Detect Node env
+   *
+   * @returns {boolean}
+   */
+  var isNodeEnv = function isNodeEnv() {
+    return typeof window === 'undefined' || typeof document === 'undefined';
+  };
+
+  var sweetHTML = "\n <div aria-labelledby=\"".concat(swalClasses.title, "\" aria-describedby=\"").concat(swalClasses['html-container'], "\" class=\"").concat(swalClasses.popup, "\" tabindex=\"-1\">\n   <button type=\"button\" class=\"").concat(swalClasses.close, "\"></button>\n   <ul class=\"").concat(swalClasses['progress-steps'], "\"></ul>\n   <div class=\"").concat(swalClasses.icon, "\"></div>\n   <img class=\"").concat(swalClasses.image, "\" />\n   <h2 class=\"").concat(swalClasses.title, "\" id=\"").concat(swalClasses.title, "\"></h2>\n   <div class=\"").concat(swalClasses['html-container'], "\" id=\"").concat(swalClasses['html-container'], "\"></div>\n   <input class=\"").concat(swalClasses.input, "\" id=\"").concat(swalClasses.input, "\" />\n   <input type=\"file\" class=\"").concat(swalClasses.file, "\" />\n   <div class=\"").concat(swalClasses.range, "\">\n     <input type=\"range\" />\n     <output></output>\n   </div>\n   <select class=\"").concat(swalClasses.select, "\" id=\"").concat(swalClasses.select, "\"></select>\n   <div class=\"").concat(swalClasses.radio, "\"></div>\n   <label class=\"").concat(swalClasses.checkbox, "\">\n     <input type=\"checkbox\" id=\"").concat(swalClasses.checkbox, "\" />\n     <span class=\"").concat(swalClasses.label, "\"></span>\n   </label>\n   <textarea class=\"").concat(swalClasses.textarea, "\" id=\"").concat(swalClasses.textarea, "\"></textarea>\n   <div class=\"").concat(swalClasses['validation-message'], "\" id=\"").concat(swalClasses['validation-message'], "\"></div>\n   <div class=\"").concat(swalClasses.actions, "\">\n     <div class=\"").concat(swalClasses.loader, "\"></div>\n     <button type=\"button\" class=\"").concat(swalClasses.confirm, "\"></button>\n     <button type=\"button\" class=\"").concat(swalClasses.deny, "\"></button>\n     <button type=\"button\" class=\"").concat(swalClasses.cancel, "\"></button>\n   </div>\n   <div class=\"").concat(swalClasses.footer, "\"></div>\n   <div class=\"").concat(swalClasses['timer-progress-bar-container'], "\">\n     <div class=\"").concat(swalClasses['timer-progress-bar'], "\"></div>\n   </div>\n </div>\n").replace(/(^|\n)\s*/g, '');
+
+  /**
+   * @returns {boolean}
+   */
+  var resetOldContainer = function resetOldContainer() {
+    var oldContainer = getContainer();
+    if (!oldContainer) {
+      return false;
+    }
+    oldContainer.remove();
+    removeClass([document.documentElement, document.body], [swalClasses['no-backdrop'], swalClasses['toast-shown'], swalClasses['has-column']]);
+    return true;
+  };
+  var resetValidationMessage$1 = function resetValidationMessage() {
+    globalState.currentInstance.resetValidationMessage();
+  };
+  var addInputChangeListeners = function addInputChangeListeners() {
+    var popup = getPopup();
+    var input = getDirectChildByClass(popup, swalClasses.input);
+    var file = getDirectChildByClass(popup, swalClasses.file);
+    /** @type {HTMLInputElement} */
+    var range = popup.querySelector(".".concat(swalClasses.range, " input"));
+    /** @type {HTMLOutputElement} */
+    var rangeOutput = popup.querySelector(".".concat(swalClasses.range, " output"));
+    var select = getDirectChildByClass(popup, swalClasses.select);
+    /** @type {HTMLInputElement} */
+    var checkbox = popup.querySelector(".".concat(swalClasses.checkbox, " input"));
+    var textarea = getDirectChildByClass(popup, swalClasses.textarea);
+    input.oninput = resetValidationMessage$1;
+    file.onchange = resetValidationMessage$1;
+    select.onchange = resetValidationMessage$1;
+    checkbox.onchange = resetValidationMessage$1;
+    textarea.oninput = resetValidationMessage$1;
+    range.oninput = function () {
+      resetValidationMessage$1();
+      rangeOutput.value = range.value;
+    };
+    range.onchange = function () {
+      resetValidationMessage$1();
+      rangeOutput.value = range.value;
+    };
+  };
+
+  /**
+   * @param {string | HTMLElement} target
+   * @returns {HTMLElement}
+   */
+  var getTarget = function getTarget(target) {
+    return typeof target === 'string' ? document.querySelector(target) : target;
+  };
+
+  /**
+   * @param {SweetAlertOptions} params
+   */
+  var setupAccessibility = function setupAccessibility(params) {
+    var popup = getPopup();
+    popup.setAttribute('role', params.toast ? 'alert' : 'dialog');
+    popup.setAttribute('aria-live', params.toast ? 'polite' : 'assertive');
+    if (!params.toast) {
+      popup.setAttribute('aria-modal', 'true');
+    }
+  };
+
+  /**
+   * @param {HTMLElement} targetElement
+   */
+  var setupRTL = function setupRTL(targetElement) {
+    if (window.getComputedStyle(targetElement).direction === 'rtl') {
+      addClass(getContainer(), swalClasses.rtl);
+    }
+  };
+
+  /**
+   * Add modal + backdrop + no-war message for Russians to DOM
+   *
+   * @param {SweetAlertOptions} params
+   */
+  var init = function init(params) {
+    // Clean up the old popup container if it exists
+    var oldContainerExisted = resetOldContainer();
+    if (isNodeEnv()) {
+      error('SweetAlert2 requires document to initialize');
+      return;
+    }
+    var container = document.createElement('div');
+    container.className = swalClasses.container;
+    if (oldContainerExisted) {
+      addClass(container, swalClasses['no-transition']);
+    }
+    setInnerHtml(container, sweetHTML);
+    var targetElement = getTarget(params.target);
+    targetElement.appendChild(container);
+    setupAccessibility(params);
+    setupRTL(targetElement);
+    addInputChangeListeners();
+  };
+
+  /**
+   * @param {HTMLElement | object | string} param
+   * @param {HTMLElement} target
+   */
+  var parseHtmlToContainer = function parseHtmlToContainer(param, target) {
+    // DOM element
+    if (param instanceof HTMLElement) {
+      target.appendChild(param);
+    }
+
+    // Object
+    else if (_typeof(param) === 'object') {
+      handleObject(param, target);
+    }
+
+    // Plain string
+    else if (param) {
+      setInnerHtml(target, param);
+    }
+  };
+
+  /**
+   * @param {any} param
+   * @param {HTMLElement} target
+   */
+  var handleObject = function handleObject(param, target) {
+    // JQuery element(s)
+    if (param.jquery) {
+      handleJqueryElem(target, param);
+    }
+
+    // For other objects use their string representation
+    else {
+      setInnerHtml(target, param.toString());
+    }
+  };
+
+  /**
+   * @param {HTMLElement} target
+   * @param {any} elem
+   */
+  var handleJqueryElem = function handleJqueryElem(target, elem) {
+    target.textContent = '';
+    if (0 in elem) {
+      for (var i = 0; i in elem; i++) {
+        target.appendChild(elem[i].cloneNode(true));
+      }
+    } else {
+      target.appendChild(elem.cloneNode(true));
+    }
+  };
+
+  /**
+   * @returns {'webkitAnimationEnd' | 'animationend' | false}
+   */
+  var animationEndEvent = function () {
+    // Prevent run in Node env
+    if (isNodeEnv()) {
+      return false;
+    }
+    var testEl = document.createElement('div');
+
+    // Chrome, Safari and Opera
+    if (typeof testEl.style.webkitAnimation !== 'undefined') {
+      return 'webkitAnimationEnd';
+    }
+
+    // Standard syntax
+    if (typeof testEl.style.animation !== 'undefined') {
+      return 'animationend';
+    }
+    return false;
+  }();
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var renderActions = function renderActions(instance, params) {
+    var actions = getActions();
+    var loader = getLoader();
+    if (!actions || !loader) {
+      return;
+    }
+
+    // Actions (buttons) wrapper
+    if (!params.showConfirmButton && !params.showDenyButton && !params.showCancelButton) {
+      hide(actions);
+    } else {
+      show(actions);
+    }
+
+    // Custom class
+    applyCustomClass(actions, params, 'actions');
+
+    // Render all the buttons
+    renderButtons(actions, loader, params);
+
+    // Loader
+    setInnerHtml(loader, params.loaderHtml || '');
+    applyCustomClass(loader, params, 'loader');
+  };
+
+  /**
+   * @param {HTMLElement} actions
+   * @param {HTMLElement} loader
+   * @param {SweetAlertOptions} params
+   */
+  function renderButtons(actions, loader, params) {
+    var confirmButton = getConfirmButton();
+    var denyButton = getDenyButton();
+    var cancelButton = getCancelButton();
+    if (!confirmButton || !denyButton || !cancelButton) {
+      return;
+    }
+
+    // Render buttons
+    renderButton(confirmButton, 'confirm', params);
+    renderButton(denyButton, 'deny', params);
+    renderButton(cancelButton, 'cancel', params);
+    handleButtonsStyling(confirmButton, denyButton, cancelButton, params);
+    if (params.reverseButtons) {
+      if (params.toast) {
+        actions.insertBefore(cancelButton, confirmButton);
+        actions.insertBefore(denyButton, confirmButton);
+      } else {
+        actions.insertBefore(cancelButton, loader);
+        actions.insertBefore(denyButton, loader);
+        actions.insertBefore(confirmButton, loader);
+      }
+    }
+  }
+
+  /**
+   * @param {HTMLElement} confirmButton
+   * @param {HTMLElement} denyButton
+   * @param {HTMLElement} cancelButton
+   * @param {SweetAlertOptions} params
+   */
+  function handleButtonsStyling(confirmButton, denyButton, cancelButton, params) {
+    if (!params.buttonsStyling) {
+      removeClass([confirmButton, denyButton, cancelButton], swalClasses.styled);
+      return;
+    }
+    addClass([confirmButton, denyButton, cancelButton], swalClasses.styled);
+
+    // Buttons background colors
+    if (params.confirmButtonColor) {
+      confirmButton.style.backgroundColor = params.confirmButtonColor;
+      addClass(confirmButton, swalClasses['default-outline']);
+    }
+    if (params.denyButtonColor) {
+      denyButton.style.backgroundColor = params.denyButtonColor;
+      addClass(denyButton, swalClasses['default-outline']);
+    }
+    if (params.cancelButtonColor) {
+      cancelButton.style.backgroundColor = params.cancelButtonColor;
+      addClass(cancelButton, swalClasses['default-outline']);
+    }
+  }
+
+  /**
+   * @param {HTMLElement} button
+   * @param {'confirm' | 'deny' | 'cancel'} buttonType
+   * @param {SweetAlertOptions} params
+   */
+  function renderButton(button, buttonType, params) {
+    var buttonName = /** @type {'Confirm' | 'Deny' | 'Cancel'} */capitalizeFirstLetter(buttonType);
+    toggle(button, params["show".concat(buttonName, "Button")], 'inline-block');
+    setInnerHtml(button, params["".concat(buttonType, "ButtonText")] || ''); // Set caption text
+    button.setAttribute('aria-label', params["".concat(buttonType, "ButtonAriaLabel")] || ''); // ARIA label
+
+    // Add buttons custom classes
+    button.className = swalClasses[buttonType];
+    applyCustomClass(button, params, "".concat(buttonType, "Button"));
+  }
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var renderCloseButton = function renderCloseButton(instance, params) {
+    var closeButton = getCloseButton();
+    if (!closeButton) {
+      return;
+    }
+    setInnerHtml(closeButton, params.closeButtonHtml || '');
+
+    // Custom class
+    applyCustomClass(closeButton, params, 'closeButton');
+    toggle(closeButton, params.showCloseButton);
+    closeButton.setAttribute('aria-label', params.closeButtonAriaLabel || '');
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var renderContainer = function renderContainer(instance, params) {
+    var container = getContainer();
+    if (!container) {
+      return;
+    }
+    handleBackdropParam(container, params.backdrop);
+    handlePositionParam(container, params.position);
+    handleGrowParam(container, params.grow);
+
+    // Custom class
+    applyCustomClass(container, params, 'container');
+  };
+
+  /**
+   * @param {HTMLElement} container
+   * @param {SweetAlertOptions['backdrop']} backdrop
+   */
+  function handleBackdropParam(container, backdrop) {
+    if (typeof backdrop === 'string') {
+      container.style.background = backdrop;
+    } else if (!backdrop) {
+      addClass([document.documentElement, document.body], swalClasses['no-backdrop']);
+    }
+  }
+
+  /**
+   * @param {HTMLElement} container
+   * @param {SweetAlertOptions['position']} position
+   */
+  function handlePositionParam(container, position) {
+    if (!position) {
+      return;
+    }
+    if (position in swalClasses) {
+      addClass(container, swalClasses[position]);
+    } else {
+      warn('The "position" parameter is not valid, defaulting to "center"');
+      addClass(container, swalClasses.center);
+    }
+  }
+
+  /**
+   * @param {HTMLElement} container
+   * @param {SweetAlertOptions['grow']} grow
+   */
+  function handleGrowParam(container, grow) {
+    if (!grow) {
+      return;
+    }
+    addClass(container, swalClasses["grow-".concat(grow)]);
+  }
+
+  /**
+   * This module contains `WeakMap`s for each effectively-"private  property" that a `Swal` has.
+   * For example, to set the private property "foo" of `this` to "bar", you can `privateProps.foo.set(this, 'bar')`
+   * This is the approach that Babel will probably take to implement private methods/fields
+   *   https://github.com/tc39/proposal-private-methods
+   *   https://github.com/babel/babel/pull/7555
+   * Once we have the changes from that PR in Babel, and our core class fits reasonable in *one module*
+   *   then we can use that language feature.
+   */
+
+  var privateProps = {
+    innerParams: new WeakMap(),
+    domCache: new WeakMap()
+  };
+
+  /** @type {InputClass[]} */
+  var inputClasses = ['input', 'file', 'range', 'select', 'radio', 'checkbox', 'textarea'];
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var renderInput = function renderInput(instance, params) {
+    var popup = getPopup();
+    if (!popup) {
+      return;
+    }
+    var innerParams = privateProps.innerParams.get(instance);
+    var rerender = !innerParams || params.input !== innerParams.input;
+    inputClasses.forEach(function (inputClass) {
+      var inputContainer = getDirectChildByClass(popup, swalClasses[inputClass]);
+      if (!inputContainer) {
+        return;
+      }
+
+      // set attributes
+      setAttributes(inputClass, params.inputAttributes);
+
+      // set class
+      inputContainer.className = swalClasses[inputClass];
+      if (rerender) {
+        hide(inputContainer);
+      }
+    });
+    if (params.input) {
+      if (rerender) {
+        showInput(params);
+      }
+      // set custom class
+      setCustomClass(params);
+    }
+  };
+
+  /**
+   * @param {SweetAlertOptions} params
+   */
+  var showInput = function showInput(params) {
+    if (!params.input) {
+      return;
+    }
+    if (!renderInputType[params.input]) {
+      error("Unexpected type of input! Expected ".concat(Object.keys(renderInputType).join(' | '), ", got \"").concat(params.input, "\""));
+      return;
+    }
+    var inputContainer = getInputContainer(params.input);
+    if (!inputContainer) {
+      return;
+    }
+    var input = renderInputType[params.input](inputContainer, params);
+    show(inputContainer);
+
+    // input autofocus
+    if (params.inputAutoFocus) {
+      setTimeout(function () {
+        focusInput(input);
+      });
+    }
+  };
+
+  /**
+   * @param {HTMLInputElement} input
+   */
+  var removeAttributes = function removeAttributes(input) {
+    for (var i = 0; i < input.attributes.length; i++) {
+      var attrName = input.attributes[i].name;
+      if (!['id', 'type', 'value', 'style'].includes(attrName)) {
+        input.removeAttribute(attrName);
+      }
+    }
+  };
+
+  /**
+   * @param {InputClass} inputClass
+   * @param {SweetAlertOptions['inputAttributes']} inputAttributes
+   */
+  var setAttributes = function setAttributes(inputClass, inputAttributes) {
+    var popup = getPopup();
+    if (!popup) {
+      return;
+    }
+    var input = getInput$1(popup, inputClass);
+    if (!input) {
+      return;
+    }
+    removeAttributes(input);
+    for (var attr in inputAttributes) {
+      input.setAttribute(attr, inputAttributes[attr]);
+    }
+  };
+
+  /**
+   * @param {SweetAlertOptions} params
+   */
+  var setCustomClass = function setCustomClass(params) {
+    if (!params.input) {
+      return;
+    }
+    var inputContainer = getInputContainer(params.input);
+    if (inputContainer) {
+      applyCustomClass(inputContainer, params, 'input');
+    }
+  };
+
+  /**
+   * @param {HTMLInputElement | HTMLTextAreaElement} input
+   * @param {SweetAlertOptions} params
+   */
+  var setInputPlaceholder = function setInputPlaceholder(input, params) {
+    if (!input.placeholder && params.inputPlaceholder) {
+      input.placeholder = params.inputPlaceholder;
+    }
+  };
+
+  /**
+   * @param {Input} input
+   * @param {Input} prependTo
+   * @param {SweetAlertOptions} params
+   */
+  var setInputLabel = function setInputLabel(input, prependTo, params) {
+    if (params.inputLabel) {
+      var label = document.createElement('label');
+      var labelClass = swalClasses['input-label'];
+      label.setAttribute('for', input.id);
+      label.className = labelClass;
+      if (_typeof(params.customClass) === 'object') {
+        addClass(label, params.customClass.inputLabel);
+      }
+      label.innerText = params.inputLabel;
+      prependTo.insertAdjacentElement('beforebegin', label);
+    }
+  };
+
+  /**
+   * @param {SweetAlertInput} inputType
+   * @returns {HTMLElement | undefined}
+   */
+  var getInputContainer = function getInputContainer(inputType) {
+    var popup = getPopup();
+    if (!popup) {
+      return;
+    }
+    return getDirectChildByClass(popup, swalClasses[( /** @type {SwalClass} */inputType)] || swalClasses.input);
+  };
+
+  /**
+   * @param {HTMLInputElement | HTMLOutputElement | HTMLTextAreaElement} input
+   * @param {SweetAlertOptions['inputValue']} inputValue
+   */
+  var checkAndSetInputValue = function checkAndSetInputValue(input, inputValue) {
+    if (['string', 'number'].includes(_typeof(inputValue))) {
+      input.value = "".concat(inputValue);
+    } else if (!isPromise(inputValue)) {
+      warn("Unexpected type of inputValue! Expected \"string\", \"number\" or \"Promise\", got \"".concat(_typeof(inputValue), "\""));
+    }
+  };
+
+  /** @type {Record<SweetAlertInput, (input: Input | HTMLElement, params: SweetAlertOptions) => Input>} */
+  var renderInputType = {};
+
+  /**
+   * @param {HTMLInputElement} input
+   * @param {SweetAlertOptions} params
+   * @returns {HTMLInputElement}
+   */
+  renderInputType.text = renderInputType.email = renderInputType.password = renderInputType.number = renderInputType.tel = renderInputType.url = renderInputType.search = renderInputType.date = renderInputType['datetime-local'] = renderInputType.time = renderInputType.week = renderInputType.month = /** @type {(input: Input | HTMLElement, params: SweetAlertOptions) => Input} */
+  function (input, params) {
+    checkAndSetInputValue(input, params.inputValue);
+    setInputLabel(input, input, params);
+    setInputPlaceholder(input, params);
+    input.type = params.input;
+    return input;
+  };
+
+  /**
+   * @param {HTMLInputElement} input
+   * @param {SweetAlertOptions} params
+   * @returns {HTMLInputElement}
+   */
+  renderInputType.file = function (input, params) {
+    setInputLabel(input, input, params);
+    setInputPlaceholder(input, params);
+    return input;
+  };
+
+  /**
+   * @param {HTMLInputElement} range
+   * @param {SweetAlertOptions} params
+   * @returns {HTMLInputElement}
+   */
+  renderInputType.range = function (range, params) {
+    var rangeInput = range.querySelector('input');
+    var rangeOutput = range.querySelector('output');
+    checkAndSetInputValue(rangeInput, params.inputValue);
+    rangeInput.type = params.input;
+    checkAndSetInputValue(rangeOutput, params.inputValue);
+    setInputLabel(rangeInput, range, params);
+    return range;
+  };
+
+  /**
+   * @param {HTMLSelectElement} select
+   * @param {SweetAlertOptions} params
+   * @returns {HTMLSelectElement}
+   */
+  renderInputType.select = function (select, params) {
+    select.textContent = '';
+    if (params.inputPlaceholder) {
+      var placeholder = document.createElement('option');
+      setInnerHtml(placeholder, params.inputPlaceholder);
+      placeholder.value = '';
+      placeholder.disabled = true;
+      placeholder.selected = true;
+      select.appendChild(placeholder);
+    }
+    setInputLabel(select, select, params);
+    return select;
+  };
+
+  /**
+   * @param {HTMLInputElement} radio
+   * @returns {HTMLInputElement}
+   */
+  renderInputType.radio = function (radio) {
+    radio.textContent = '';
+    return radio;
+  };
+
+  /**
+   * @param {HTMLLabelElement} checkboxContainer
+   * @param {SweetAlertOptions} params
+   * @returns {HTMLInputElement}
+   */
+  renderInputType.checkbox = function (checkboxContainer, params) {
+    var checkbox = getInput$1(getPopup(), 'checkbox');
+    checkbox.value = '1';
+    checkbox.checked = Boolean(params.inputValue);
+    var label = checkboxContainer.querySelector('span');
+    setInnerHtml(label, params.inputPlaceholder);
+    return checkbox;
+  };
+
+  /**
+   * @param {HTMLTextAreaElement} textarea
+   * @param {SweetAlertOptions} params
+   * @returns {HTMLTextAreaElement}
+   */
+  renderInputType.textarea = function (textarea, params) {
+    checkAndSetInputValue(textarea, params.inputValue);
+    setInputPlaceholder(textarea, params);
+    setInputLabel(textarea, textarea, params);
+
+    /**
+     * @param {HTMLElement} el
+     * @returns {number}
+     */
+    var getMargin = function getMargin(el) {
+      return parseInt(window.getComputedStyle(el).marginLeft) + parseInt(window.getComputedStyle(el).marginRight);
+    };
+
+    // https://github.com/sweetalert2/sweetalert2/issues/2291
+    setTimeout(function () {
+      // https://github.com/sweetalert2/sweetalert2/issues/1699
+      if ('MutationObserver' in window) {
+        var initialPopupWidth = parseInt(window.getComputedStyle(getPopup()).width);
+        var textareaResizeHandler = function textareaResizeHandler() {
+          // check if texarea is still in document (i.e. popup wasn't closed in the meantime)
+          if (!document.body.contains(textarea)) {
+            return;
+          }
+          var textareaWidth = textarea.offsetWidth + getMargin(textarea);
+          if (textareaWidth > initialPopupWidth) {
+            getPopup().style.width = "".concat(textareaWidth, "px");
+          } else {
+            applyNumericalStyle(getPopup(), 'width', params.width);
+          }
+        };
+        new MutationObserver(textareaResizeHandler).observe(textarea, {
+          attributes: true,
+          attributeFilter: ['style']
+        });
+      }
+    });
+    return textarea;
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var renderContent = function renderContent(instance, params) {
+    var htmlContainer = getHtmlContainer();
+    if (!htmlContainer) {
+      return;
+    }
+    showWhenInnerHtmlPresent(htmlContainer);
+    applyCustomClass(htmlContainer, params, 'htmlContainer');
+
+    // Content as HTML
+    if (params.html) {
+      parseHtmlToContainer(params.html, htmlContainer);
+      show(htmlContainer, 'block');
+    }
+
+    // Content as plain text
+    else if (params.text) {
+      htmlContainer.textContent = params.text;
+      show(htmlContainer, 'block');
+    }
+
+    // No content
+    else {
+      hide(htmlContainer);
+    }
+    renderInput(instance, params);
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var renderFooter = function renderFooter(instance, params) {
+    var footer = getFooter();
+    if (!footer) {
+      return;
+    }
+    showWhenInnerHtmlPresent(footer);
+    toggle(footer, params.footer, 'block');
+    if (params.footer) {
+      parseHtmlToContainer(params.footer, footer);
+    }
+
+    // Custom class
+    applyCustomClass(footer, params, 'footer');
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var renderIcon = function renderIcon(instance, params) {
+    var innerParams = privateProps.innerParams.get(instance);
+    var icon = getIcon();
+    if (!icon) {
+      return;
+    }
+
+    // if the given icon already rendered, apply the styling without re-rendering the icon
+    if (innerParams && params.icon === innerParams.icon) {
+      // Custom or default content
+      setContent(icon, params);
+      applyStyles(icon, params);
+      return;
+    }
+    if (!params.icon && !params.iconHtml) {
+      hide(icon);
+      return;
+    }
+    if (params.icon && Object.keys(iconTypes).indexOf(params.icon) === -1) {
+      error("Unknown icon! Expected \"success\", \"error\", \"warning\", \"info\" or \"question\", got \"".concat(params.icon, "\""));
+      hide(icon);
+      return;
+    }
+    show(icon);
+
+    // Custom or default content
+    setContent(icon, params);
+    applyStyles(icon, params);
+
+    // Animate icon
+    addClass(icon, params.showClass && params.showClass.icon);
+  };
+
+  /**
+   * @param {HTMLElement} icon
+   * @param {SweetAlertOptions} params
+   */
+  var applyStyles = function applyStyles(icon, params) {
+    for (var _i = 0, _Object$entries = Object.entries(iconTypes); _i < _Object$entries.length; _i++) {
+      var _Object$entries$_i = _slicedToArray(_Object$entries[_i], 2),
+        iconType = _Object$entries$_i[0],
+        iconClassName = _Object$entries$_i[1];
+      if (params.icon !== iconType) {
+        removeClass(icon, iconClassName);
+      }
+    }
+    addClass(icon, params.icon && iconTypes[params.icon]);
+
+    // Icon color
+    setColor(icon, params);
+
+    // Success icon background color
+    adjustSuccessIconBackgroundColor();
+
+    // Custom class
+    applyCustomClass(icon, params, 'icon');
+  };
+
+  // Adjust success icon background color to match the popup background color
+  var adjustSuccessIconBackgroundColor = function adjustSuccessIconBackgroundColor() {
+    var popup = getPopup();
+    if (!popup) {
+      return;
+    }
+    var popupBackgroundColor = window.getComputedStyle(popup).getPropertyValue('background-color');
+    /** @type {NodeListOf<HTMLElement>} */
+    var successIconParts = popup.querySelectorAll('[class^=swal2-success-circular-line], .swal2-success-fix');
+    for (var i = 0; i < successIconParts.length; i++) {
+      successIconParts[i].style.backgroundColor = popupBackgroundColor;
+    }
+  };
+  var successIconHtml = "\n  <div class=\"swal2-success-circular-line-left\"></div>\n  <span class=\"swal2-success-line-tip\"></span> <span class=\"swal2-success-line-long\"></span>\n  <div class=\"swal2-success-ring\"></div> <div class=\"swal2-success-fix\"></div>\n  <div class=\"swal2-success-circular-line-right\"></div>\n";
+  var errorIconHtml = "\n  <span class=\"swal2-x-mark\">\n    <span class=\"swal2-x-mark-line-left\"></span>\n    <span class=\"swal2-x-mark-line-right\"></span>\n  </span>\n";
+
+  /**
+   * @param {HTMLElement} icon
+   * @param {SweetAlertOptions} params
+   */
+  var setContent = function setContent(icon, params) {
+    if (!params.icon && !params.iconHtml) {
+      return;
+    }
+    var oldContent = icon.innerHTML;
+    var newContent = '';
+    if (params.iconHtml) {
+      newContent = iconContent(params.iconHtml);
+    } else if (params.icon === 'success') {
+      newContent = successIconHtml;
+      oldContent = oldContent.replace(/ style=".*?"/g, ''); // undo adjustSuccessIconBackgroundColor()
+    } else if (params.icon === 'error') {
+      newContent = errorIconHtml;
+    } else if (params.icon) {
+      var defaultIconHtml = {
+        question: '?',
+        warning: '!',
+        info: 'i'
+      };
+      newContent = iconContent(defaultIconHtml[params.icon]);
+    }
+    if (oldContent.trim() !== newContent.trim()) {
+      setInnerHtml(icon, newContent);
+    }
+  };
+
+  /**
+   * @param {HTMLElement} icon
+   * @param {SweetAlertOptions} params
+   */
+  var setColor = function setColor(icon, params) {
+    if (!params.iconColor) {
+      return;
+    }
+    icon.style.color = params.iconColor;
+    icon.style.borderColor = params.iconColor;
+    for (var _i2 = 0, _arr = ['.swal2-success-line-tip', '.swal2-success-line-long', '.swal2-x-mark-line-left', '.swal2-x-mark-line-right']; _i2 < _arr.length; _i2++) {
+      var sel = _arr[_i2];
+      setStyle(icon, sel, 'background-color', params.iconColor);
+    }
+    setStyle(icon, '.swal2-success-ring', 'border-color', params.iconColor);
+  };
+
+  /**
+   * @param {string} content
+   * @returns {string}
+   */
+  var iconContent = function iconContent(content) {
+    return "<div class=\"".concat(swalClasses['icon-content'], "\">").concat(content, "</div>");
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var renderImage = function renderImage(instance, params) {
+    var image = getImage();
+    if (!image) {
+      return;
+    }
+    if (!params.imageUrl) {
+      hide(image);
+      return;
+    }
+    show(image, '');
+
+    // Src, alt
+    image.setAttribute('src', params.imageUrl);
+    image.setAttribute('alt', params.imageAlt || '');
+
+    // Width, height
+    applyNumericalStyle(image, 'width', params.imageWidth);
+    applyNumericalStyle(image, 'height', params.imageHeight);
+
+    // Class
+    image.className = swalClasses.image;
+    applyCustomClass(image, params, 'image');
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var renderPopup = function renderPopup(instance, params) {
+    var container = getContainer();
+    var popup = getPopup();
+    if (!container || !popup) {
+      return;
+    }
+
+    // Width
+    // https://github.com/sweetalert2/sweetalert2/issues/2170
+    if (params.toast) {
+      applyNumericalStyle(container, 'width', params.width);
+      popup.style.width = '100%';
+      var loader = getLoader();
+      if (loader) {
+        popup.insertBefore(loader, getIcon());
+      }
+    } else {
+      applyNumericalStyle(popup, 'width', params.width);
+    }
+
+    // Padding
+    applyNumericalStyle(popup, 'padding', params.padding);
+
+    // Color
+    if (params.color) {
+      popup.style.color = params.color;
+    }
+
+    // Background
+    if (params.background) {
+      popup.style.background = params.background;
+    }
+    hide(getValidationMessage());
+
+    // Classes
+    addClasses$1(popup, params);
+  };
+
+  /**
+   * @param {HTMLElement} popup
+   * @param {SweetAlertOptions} params
+   */
+  var addClasses$1 = function addClasses(popup, params) {
+    var showClass = params.showClass || {};
+    // Default Class + showClass when updating Swal.update({})
+    popup.className = "".concat(swalClasses.popup, " ").concat(isVisible$1(popup) ? showClass.popup : '');
+    if (params.toast) {
+      addClass([document.documentElement, document.body], swalClasses['toast-shown']);
+      addClass(popup, swalClasses.toast);
+    } else {
+      addClass(popup, swalClasses.modal);
+    }
+
+    // Custom class
+    applyCustomClass(popup, params, 'popup');
+    // TODO: remove in the next major
+    if (typeof params.customClass === 'string') {
+      addClass(popup, params.customClass);
+    }
+
+    // Icon class (#1842)
+    if (params.icon) {
+      addClass(popup, swalClasses["icon-".concat(params.icon)]);
+    }
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var renderProgressSteps = function renderProgressSteps(instance, params) {
+    var progressStepsContainer = getProgressSteps();
+    if (!progressStepsContainer) {
+      return;
+    }
+    var progressSteps = params.progressSteps,
+      currentProgressStep = params.currentProgressStep;
+    if (!progressSteps || progressSteps.length === 0 || currentProgressStep === undefined) {
+      hide(progressStepsContainer);
+      return;
+    }
+    show(progressStepsContainer);
+    progressStepsContainer.textContent = '';
+    if (currentProgressStep >= progressSteps.length) {
+      warn('Invalid currentProgressStep parameter, it should be less than progressSteps.length ' + '(currentProgressStep like JS arrays starts from 0)');
+    }
+    progressSteps.forEach(function (step, index) {
+      var stepEl = createStepElement(step);
+      progressStepsContainer.appendChild(stepEl);
+      if (index === currentProgressStep) {
+        addClass(stepEl, swalClasses['active-progress-step']);
+      }
+      if (index !== progressSteps.length - 1) {
+        var lineEl = createLineElement(params);
+        progressStepsContainer.appendChild(lineEl);
+      }
+    });
+  };
+
+  /**
+   * @param {string} step
+   * @returns {HTMLLIElement}
+   */
+  var createStepElement = function createStepElement(step) {
+    var stepEl = document.createElement('li');
+    addClass(stepEl, swalClasses['progress-step']);
+    setInnerHtml(stepEl, step);
+    return stepEl;
+  };
+
+  /**
+   * @param {SweetAlertOptions} params
+   * @returns {HTMLLIElement}
+   */
+  var createLineElement = function createLineElement(params) {
+    var lineEl = document.createElement('li');
+    addClass(lineEl, swalClasses['progress-step-line']);
+    if (params.progressStepsDistance) {
+      applyNumericalStyle(lineEl, 'width', params.progressStepsDistance);
+    }
+    return lineEl;
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var renderTitle = function renderTitle(instance, params) {
+    var title = getTitle();
+    if (!title) {
+      return;
+    }
+    showWhenInnerHtmlPresent(title);
+    toggle(title, params.title || params.titleText, 'block');
+    if (params.title) {
+      parseHtmlToContainer(params.title, title);
+    }
+    if (params.titleText) {
+      title.innerText = params.titleText;
+    }
+
+    // Custom class
+    applyCustomClass(title, params, 'title');
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var render = function render(instance, params) {
+    renderPopup(instance, params);
+    renderContainer(instance, params);
+    renderProgressSteps(instance, params);
+    renderIcon(instance, params);
+    renderImage(instance, params);
+    renderTitle(instance, params);
+    renderCloseButton(instance, params);
+    renderContent(instance, params);
+    renderActions(instance, params);
+    renderFooter(instance, params);
+    var popup = getPopup();
+    if (typeof params.didRender === 'function' && popup) {
+      params.didRender(popup);
+    }
+  };
+
+  /*
+   * Global function to determine if SweetAlert2 popup is shown
+   */
+  var isVisible = function isVisible() {
+    return isVisible$1(getPopup());
+  };
+
+  /*
+   * Global function to click 'Confirm' button
+   */
+  var clickConfirm = function clickConfirm() {
+    var _dom$getConfirmButton;
+    return (_dom$getConfirmButton = getConfirmButton()) === null || _dom$getConfirmButton === void 0 ? void 0 : _dom$getConfirmButton.click();
+  };
+
+  /*
+   * Global function to click 'Deny' button
+   */
+  var clickDeny = function clickDeny() {
+    var _dom$getDenyButton;
+    return (_dom$getDenyButton = getDenyButton()) === null || _dom$getDenyButton === void 0 ? void 0 : _dom$getDenyButton.click();
+  };
+
+  /*
+   * Global function to click 'Cancel' button
+   */
+  var clickCancel = function clickCancel() {
+    var _dom$getCancelButton;
+    return (_dom$getCancelButton = getCancelButton()) === null || _dom$getCancelButton === void 0 ? void 0 : _dom$getCancelButton.click();
+  };
+
+  /** @typedef {'cancel' | 'backdrop' | 'close' | 'esc' | 'timer'} DismissReason */
+
+  /** @type {Record<DismissReason, DismissReason>} */
+  var DismissReason = Object.freeze({
+    cancel: 'cancel',
+    backdrop: 'backdrop',
+    close: 'close',
+    esc: 'esc',
+    timer: 'timer'
+  });
+
+  /**
+   * @param {GlobalState} globalState
+   */
+  var removeKeydownHandler = function removeKeydownHandler(globalState) {
+    if (globalState.keydownTarget && globalState.keydownHandlerAdded) {
+      globalState.keydownTarget.removeEventListener('keydown', globalState.keydownHandler, {
+        capture: globalState.keydownListenerCapture
+      });
+      globalState.keydownHandlerAdded = false;
+    }
+  };
+
+  /**
+   * @param {GlobalState} globalState
+   * @param {SweetAlertOptions} innerParams
+   * @param {*} dismissWith
+   */
+  var addKeydownHandler = function addKeydownHandler(globalState, innerParams, dismissWith) {
+    removeKeydownHandler(globalState);
+    if (!innerParams.toast) {
+      globalState.keydownHandler = function (e) {
+        return keydownHandler(innerParams, e, dismissWith);
+      };
+      globalState.keydownTarget = innerParams.keydownListenerCapture ? window : getPopup();
+      globalState.keydownListenerCapture = innerParams.keydownListenerCapture;
+      globalState.keydownTarget.addEventListener('keydown', globalState.keydownHandler, {
+        capture: globalState.keydownListenerCapture
+      });
+      globalState.keydownHandlerAdded = true;
+    }
+  };
+
+  /**
+   * @param {number} index
+   * @param {number} increment
+   */
+  var setFocus = function setFocus(index, increment) {
+    var _dom$getPopup;
+    var focusableElements = getFocusableElements();
+    // search for visible elements and select the next possible match
+    if (focusableElements.length) {
+      index = index + increment;
+
+      // rollover to first item
+      if (index === focusableElements.length) {
+        index = 0;
+
+        // go to last item
+      } else if (index === -1) {
+        index = focusableElements.length - 1;
+      }
+      focusableElements[index].focus();
+      return;
+    }
+    // no visible focusable elements, focus the popup
+    (_dom$getPopup = getPopup()) === null || _dom$getPopup === void 0 || _dom$getPopup.focus();
+  };
+  var arrowKeysNextButton = ['ArrowRight', 'ArrowDown'];
+  var arrowKeysPreviousButton = ['ArrowLeft', 'ArrowUp'];
+
+  /**
+   * @param {SweetAlertOptions} innerParams
+   * @param {KeyboardEvent} event
+   * @param {Function} dismissWith
+   */
+  var keydownHandler = function keydownHandler(innerParams, event, dismissWith) {
+    if (!innerParams) {
+      return; // This instance has already been destroyed
+    }
+
+    // Ignore keydown during IME composition
+    // https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event#ignoring_keydown_during_ime_composition
+    // https://github.com/sweetalert2/sweetalert2/issues/720
+    // https://github.com/sweetalert2/sweetalert2/issues/2406
+    if (event.isComposing || event.keyCode === 229) {
+      return;
+    }
+    if (innerParams.stopKeydownPropagation) {
+      event.stopPropagation();
+    }
+
+    // ENTER
+    if (event.key === 'Enter') {
+      handleEnter(event, innerParams);
+    }
+
+    // TAB
+    else if (event.key === 'Tab') {
+      handleTab(event);
+    }
+
+    // ARROWS - switch focus between buttons
+    else if ([].concat(arrowKeysNextButton, arrowKeysPreviousButton).includes(event.key)) {
+      handleArrows(event.key);
+    }
+
+    // ESC
+    else if (event.key === 'Escape') {
+      handleEsc(event, innerParams, dismissWith);
+    }
+  };
+
+  /**
+   * @param {KeyboardEvent} event
+   * @param {SweetAlertOptions} innerParams
+   */
+  var handleEnter = function handleEnter(event, innerParams) {
+    // https://github.com/sweetalert2/sweetalert2/issues/2386
+    if (!callIfFunction(innerParams.allowEnterKey)) {
+      return;
+    }
+    var input = getInput$1(getPopup(), innerParams.input);
+    if (event.target && input && event.target instanceof HTMLElement && event.target.outerHTML === input.outerHTML) {
+      if (['textarea', 'file'].includes(innerParams.input)) {
+        return; // do not submit
+      }
+      clickConfirm();
+      event.preventDefault();
+    }
+  };
+
+  /**
+   * @param {KeyboardEvent} event
+   */
+  var handleTab = function handleTab(event) {
+    var targetElement = event.target;
+    var focusableElements = getFocusableElements();
+    var btnIndex = -1;
+    for (var i = 0; i < focusableElements.length; i++) {
+      if (targetElement === focusableElements[i]) {
+        btnIndex = i;
+        break;
+      }
+    }
+
+    // Cycle to the next button
+    if (!event.shiftKey) {
+      setFocus(btnIndex, 1);
+    }
+
+    // Cycle to the prev button
+    else {
+      setFocus(btnIndex, -1);
+    }
+    event.stopPropagation();
+    event.preventDefault();
+  };
+
+  /**
+   * @param {string} key
+   */
+  var handleArrows = function handleArrows(key) {
+    var actions = getActions();
+    var confirmButton = getConfirmButton();
+    var denyButton = getDenyButton();
+    var cancelButton = getCancelButton();
+    if (!actions || !confirmButton || !denyButton || !cancelButton) {
+      return;
+    }
+    /** @type HTMLElement[] */
+    var buttons = [confirmButton, denyButton, cancelButton];
+    if (document.activeElement instanceof HTMLElement && !buttons.includes(document.activeElement)) {
+      return;
+    }
+    var sibling = arrowKeysNextButton.includes(key) ? 'nextElementSibling' : 'previousElementSibling';
+    var buttonToFocus = document.activeElement;
+    if (!buttonToFocus) {
+      return;
+    }
+    for (var i = 0; i < actions.children.length; i++) {
+      buttonToFocus = buttonToFocus[sibling];
+      if (!buttonToFocus) {
+        return;
+      }
+      if (buttonToFocus instanceof HTMLButtonElement && isVisible$1(buttonToFocus)) {
+        break;
+      }
+    }
+    if (buttonToFocus instanceof HTMLButtonElement) {
+      buttonToFocus.focus();
+    }
+  };
+
+  /**
+   * @param {KeyboardEvent} event
+   * @param {SweetAlertOptions} innerParams
+   * @param {Function} dismissWith
+   */
+  var handleEsc = function handleEsc(event, innerParams, dismissWith) {
+    if (callIfFunction(innerParams.allowEscapeKey)) {
+      event.preventDefault();
+      dismissWith(DismissReason.esc);
+    }
+  };
+
+  /**
+   * This module contains `WeakMap`s for each effectively-"private  property" that a `Swal` has.
+   * For example, to set the private property "foo" of `this` to "bar", you can `privateProps.foo.set(this, 'bar')`
+   * This is the approach that Babel will probably take to implement private methods/fields
+   *   https://github.com/tc39/proposal-private-methods
+   *   https://github.com/babel/babel/pull/7555
+   * Once we have the changes from that PR in Babel, and our core class fits reasonable in *one module*
+   *   then we can use that language feature.
+   */
+
+  var privateMethods = {
+    swalPromiseResolve: new WeakMap(),
+    swalPromiseReject: new WeakMap()
+  };
+
+  // From https://developer.paciellogroup.com/blog/2018/06/the-current-state-of-modal-dialog-accessibility/
+  // Adding aria-hidden="true" to elements outside of the active modal dialog ensures that
+  // elements not within the active modal dialog will not be surfaced if a user opens a screen
+  // reader’s list of elements (headings, form controls, landmarks, etc.) in the document.
+
+  var setAriaHidden = function setAriaHidden() {
+    var container = getContainer();
+    var bodyChildren = Array.from(document.body.children);
+    bodyChildren.forEach(function (el) {
+      if (el.contains(container)) {
+        return;
+      }
+      if (el.hasAttribute('aria-hidden')) {
+        el.setAttribute('data-previous-aria-hidden', el.getAttribute('aria-hidden') || '');
+      }
+      el.setAttribute('aria-hidden', 'true');
+    });
+  };
+  var unsetAriaHidden = function unsetAriaHidden() {
+    var bodyChildren = Array.from(document.body.children);
+    bodyChildren.forEach(function (el) {
+      if (el.hasAttribute('data-previous-aria-hidden')) {
+        el.setAttribute('aria-hidden', el.getAttribute('data-previous-aria-hidden') || '');
+        el.removeAttribute('data-previous-aria-hidden');
+      } else {
+        el.removeAttribute('aria-hidden');
+      }
+    });
+  };
+
+  // @ts-ignore
+  var isSafariOrIOS = typeof window !== 'undefined' && !!window.GestureEvent; // true for Safari desktop + all iOS browsers https://stackoverflow.com/a/70585394
+
+  /**
+   * Fix iOS scrolling
+   * http://stackoverflow.com/q/39626302
+   */
+  var iOSfix = function iOSfix() {
+    if (isSafariOrIOS && !hasClass(document.body, swalClasses.iosfix)) {
+      var offset = document.body.scrollTop;
+      document.body.style.top = "".concat(offset * -1, "px");
+      addClass(document.body, swalClasses.iosfix);
+      lockBodyScroll();
+    }
+  };
+
+  /**
+   * https://github.com/sweetalert2/sweetalert2/issues/1246
+   */
+  var lockBodyScroll = function lockBodyScroll() {
+    var container = getContainer();
+    if (!container) {
+      return;
+    }
+    /** @type {boolean} */
+    var preventTouchMove;
+    /**
+     * @param {TouchEvent} event
+     */
+    container.ontouchstart = function (event) {
+      preventTouchMove = shouldPreventTouchMove(event);
+    };
+    /**
+     * @param {TouchEvent} event
+     */
+    container.ontouchmove = function (event) {
+      if (preventTouchMove) {
+        event.preventDefault();
+        event.stopPropagation();
+      }
+    };
+  };
+
+  /**
+   * @param {TouchEvent} event
+   * @returns {boolean}
+   */
+  var shouldPreventTouchMove = function shouldPreventTouchMove(event) {
+    var target = event.target;
+    var container = getContainer();
+    var htmlContainer = getHtmlContainer();
+    if (!container || !htmlContainer) {
+      return false;
+    }
+    if (isStylus(event) || isZoom(event)) {
+      return false;
+    }
+    if (target === container) {
+      return true;
+    }
+    if (!isScrollable(container) && target instanceof HTMLElement && target.tagName !== 'INPUT' &&
+    // #1603
+    target.tagName !== 'TEXTAREA' &&
+    // #2266
+    !(isScrollable(htmlContainer) &&
+    // #1944
+    htmlContainer.contains(target))) {
+      return true;
+    }
+    return false;
+  };
+
+  /**
+   * https://github.com/sweetalert2/sweetalert2/issues/1786
+   *
+   * @param {*} event
+   * @returns {boolean}
+   */
+  var isStylus = function isStylus(event) {
+    return event.touches && event.touches.length && event.touches[0].touchType === 'stylus';
+  };
+
+  /**
+   * https://github.com/sweetalert2/sweetalert2/issues/1891
+   *
+   * @param {TouchEvent} event
+   * @returns {boolean}
+   */
+  var isZoom = function isZoom(event) {
+    return event.touches && event.touches.length > 1;
+  };
+  var undoIOSfix = function undoIOSfix() {
+    if (hasClass(document.body, swalClasses.iosfix)) {
+      var offset = parseInt(document.body.style.top, 10);
+      removeClass(document.body, swalClasses.iosfix);
+      document.body.style.top = '';
+      document.body.scrollTop = offset * -1;
+    }
+  };
+
+  /**
+   * Measure scrollbar width for padding body during modal show/hide
+   * https://github.com/twbs/bootstrap/blob/master/js/src/modal.js
+   *
+   * @returns {number}
+   */
+  var measureScrollbar = function measureScrollbar() {
+    var scrollDiv = document.createElement('div');
+    scrollDiv.className = swalClasses['scrollbar-measure'];
+    document.body.appendChild(scrollDiv);
+    var scrollbarWidth = scrollDiv.getBoundingClientRect().width - scrollDiv.clientWidth;
+    document.body.removeChild(scrollDiv);
+    return scrollbarWidth;
+  };
+
+  /**
+   * Remember state in cases where opening and handling a modal will fiddle with it.
+   * @type {number | null}
+   */
+  var previousBodyPadding = null;
+
+  /**
+   * @param {string} initialBodyOverflow
+   */
+  var replaceScrollbarWithPadding = function replaceScrollbarWithPadding(initialBodyOverflow) {
+    // for queues, do not do this more than once
+    if (previousBodyPadding !== null) {
+      return;
+    }
+    // if the body has overflow
+    if (document.body.scrollHeight > window.innerHeight || initialBodyOverflow === 'scroll' // https://github.com/sweetalert2/sweetalert2/issues/2663
+    ) {
+      // add padding so the content doesn't shift after removal of scrollbar
+      previousBodyPadding = parseInt(window.getComputedStyle(document.body).getPropertyValue('padding-right'));
+      document.body.style.paddingRight = "".concat(previousBodyPadding + measureScrollbar(), "px");
+    }
+  };
+  var undoReplaceScrollbarWithPadding = function undoReplaceScrollbarWithPadding() {
+    if (previousBodyPadding !== null) {
+      document.body.style.paddingRight = "".concat(previousBodyPadding, "px");
+      previousBodyPadding = null;
+    }
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {HTMLElement} container
+   * @param {boolean} returnFocus
+   * @param {Function} didClose
+   */
+  function removePopupAndResetState(instance, container, returnFocus, didClose) {
+    if (isToast()) {
+      triggerDidCloseAndDispose(instance, didClose);
+    } else {
+      restoreActiveElement(returnFocus).then(function () {
+        return triggerDidCloseAndDispose(instance, didClose);
+      });
+      removeKeydownHandler(globalState);
+    }
+
+    // workaround for https://github.com/sweetalert2/sweetalert2/issues/2088
+    // for some reason removing the container in Safari will scroll the document to bottom
+    if (isSafariOrIOS) {
+      container.setAttribute('style', 'display:none !important');
+      container.removeAttribute('class');
+      container.innerHTML = '';
+    } else {
+      container.remove();
+    }
+    if (isModal()) {
+      undoReplaceScrollbarWithPadding();
+      undoIOSfix();
+      unsetAriaHidden();
+    }
+    removeBodyClasses();
+  }
+
+  /**
+   * Remove SweetAlert2 classes from body
+   */
+  function removeBodyClasses() {
+    removeClass([document.documentElement, document.body], [swalClasses.shown, swalClasses['height-auto'], swalClasses['no-backdrop'], swalClasses['toast-shown']]);
+  }
+
+  /**
+   * Instance method to close sweetAlert
+   *
+   * @param {any} resolveValue
+   */
+  function close(resolveValue) {
+    resolveValue = prepareResolveValue(resolveValue);
+    var swalPromiseResolve = privateMethods.swalPromiseResolve.get(this);
+    var didClose = triggerClosePopup(this);
+    if (this.isAwaitingPromise) {
+      // A swal awaiting for a promise (after a click on Confirm or Deny) cannot be dismissed anymore #2335
+      if (!resolveValue.isDismissed) {
+        handleAwaitingPromise(this);
+        swalPromiseResolve(resolveValue);
+      }
+    } else if (didClose) {
+      // Resolve Swal promise
+      swalPromiseResolve(resolveValue);
+    }
+  }
+  var triggerClosePopup = function triggerClosePopup(instance) {
+    var popup = getPopup();
+    if (!popup) {
+      return false;
+    }
+    var innerParams = privateProps.innerParams.get(instance);
+    if (!innerParams || hasClass(popup, innerParams.hideClass.popup)) {
+      return false;
+    }
+    removeClass(popup, innerParams.showClass.popup);
+    addClass(popup, innerParams.hideClass.popup);
+    var backdrop = getContainer();
+    removeClass(backdrop, innerParams.showClass.backdrop);
+    addClass(backdrop, innerParams.hideClass.backdrop);
+    handlePopupAnimation(instance, popup, innerParams);
+    return true;
+  };
+
+  /**
+   * @param {any} error
+   */
+  function rejectPromise(error) {
+    var rejectPromise = privateMethods.swalPromiseReject.get(this);
+    handleAwaitingPromise(this);
+    if (rejectPromise) {
+      // Reject Swal promise
+      rejectPromise(error);
+    }
+  }
+
+  /**
+   * @param {SweetAlert} instance
+   */
+  var handleAwaitingPromise = function handleAwaitingPromise(instance) {
+    if (instance.isAwaitingPromise) {
+      delete instance.isAwaitingPromise;
+      // The instance might have been previously partly destroyed, we must resume the destroy process in this case #2335
+      if (!privateProps.innerParams.get(instance)) {
+        instance._destroy();
+      }
+    }
+  };
+
+  /**
+   * @param {any} resolveValue
+   * @returns {SweetAlertResult}
+   */
+  var prepareResolveValue = function prepareResolveValue(resolveValue) {
+    // When user calls Swal.close()
+    if (typeof resolveValue === 'undefined') {
+      return {
+        isConfirmed: false,
+        isDenied: false,
+        isDismissed: true
+      };
+    }
+    return Object.assign({
+      isConfirmed: false,
+      isDenied: false,
+      isDismissed: false
+    }, resolveValue);
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {HTMLElement} popup
+   * @param {SweetAlertOptions} innerParams
+   */
+  var handlePopupAnimation = function handlePopupAnimation(instance, popup, innerParams) {
+    var container = getContainer();
+    // If animation is supported, animate
+    var animationIsSupported = animationEndEvent && hasCssAnimation(popup);
+    if (typeof innerParams.willClose === 'function') {
+      innerParams.willClose(popup);
+    }
+    if (animationIsSupported) {
+      animatePopup(instance, popup, container, innerParams.returnFocus, innerParams.didClose);
+    } else {
+      // Otherwise, remove immediately
+      removePopupAndResetState(instance, container, innerParams.returnFocus, innerParams.didClose);
+    }
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {HTMLElement} popup
+   * @param {HTMLElement} container
+   * @param {boolean} returnFocus
+   * @param {Function} didClose
+   */
+  var animatePopup = function animatePopup(instance, popup, container, returnFocus, didClose) {
+    if (!animationEndEvent) {
+      return;
+    }
+    globalState.swalCloseEventFinishedCallback = removePopupAndResetState.bind(null, instance, container, returnFocus, didClose);
+    popup.addEventListener(animationEndEvent, function (e) {
+      if (e.target === popup) {
+        globalState.swalCloseEventFinishedCallback();
+        delete globalState.swalCloseEventFinishedCallback;
+      }
+    });
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {Function} didClose
+   */
+  var triggerDidCloseAndDispose = function triggerDidCloseAndDispose(instance, didClose) {
+    setTimeout(function () {
+      if (typeof didClose === 'function') {
+        didClose.bind(instance.params)();
+      }
+      // instance might have been destroyed already
+      if (instance._destroy) {
+        instance._destroy();
+      }
+    });
+  };
+
+  /**
+   * Shows loader (spinner), this is useful with AJAX requests.
+   * By default the loader be shown instead of the "Confirm" button.
+   *
+   * @param {HTMLButtonElement | null} [buttonToReplace]
+   */
+  var showLoading = function showLoading(buttonToReplace) {
+    var popup = getPopup();
+    if (!popup) {
+      new Swal();
+    }
+    popup = getPopup();
+    if (!popup) {
+      return;
+    }
+    var loader = getLoader();
+    if (isToast()) {
+      hide(getIcon());
+    } else {
+      replaceButton(popup, buttonToReplace);
+    }
+    show(loader);
+    popup.setAttribute('data-loading', 'true');
+    popup.setAttribute('aria-busy', 'true');
+    popup.focus();
+  };
+
+  /**
+   * @param {HTMLElement} popup
+   * @param {HTMLButtonElement | null} [buttonToReplace]
+   */
+  var replaceButton = function replaceButton(popup, buttonToReplace) {
+    var actions = getActions();
+    var loader = getLoader();
+    if (!actions || !loader) {
+      return;
+    }
+    if (!buttonToReplace && isVisible$1(getConfirmButton())) {
+      buttonToReplace = getConfirmButton();
+    }
+    show(actions);
+    if (buttonToReplace) {
+      hide(buttonToReplace);
+      loader.setAttribute('data-button-to-replace', buttonToReplace.className);
+      actions.insertBefore(loader, buttonToReplace);
+    }
+    addClass([popup, actions], swalClasses.loading);
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var handleInputOptionsAndValue = function handleInputOptionsAndValue(instance, params) {
+    if (params.input === 'select' || params.input === 'radio') {
+      handleInputOptions(instance, params);
+    } else if (['text', 'email', 'number', 'tel', 'textarea'].some(function (i) {
+      return i === params.input;
+    }) && (hasToPromiseFn(params.inputValue) || isPromise(params.inputValue))) {
+      showLoading(getConfirmButton());
+      handleInputValue(instance, params);
+    }
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} innerParams
+   * @returns {SweetAlertInputValue}
+   */
+  var getInputValue = function getInputValue(instance, innerParams) {
+    var input = instance.getInput();
+    if (!input) {
+      return null;
+    }
+    switch (innerParams.input) {
+      case 'checkbox':
+        return getCheckboxValue(input);
+      case 'radio':
+        return getRadioValue(input);
+      case 'file':
+        return getFileValue(input);
+      default:
+        return innerParams.inputAutoTrim ? input.value.trim() : input.value;
+    }
+  };
+
+  /**
+   * @param {HTMLInputElement} input
+   * @returns {number}
+   */
+  var getCheckboxValue = function getCheckboxValue(input) {
+    return input.checked ? 1 : 0;
+  };
+
+  /**
+   * @param {HTMLInputElement} input
+   * @returns {string | null}
+   */
+  var getRadioValue = function getRadioValue(input) {
+    return input.checked ? input.value : null;
+  };
+
+  /**
+   * @param {HTMLInputElement} input
+   * @returns {FileList | File | null}
+   */
+  var getFileValue = function getFileValue(input) {
+    return input.files && input.files.length ? input.getAttribute('multiple') !== null ? input.files : input.files[0] : null;
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var handleInputOptions = function handleInputOptions(instance, params) {
+    var popup = getPopup();
+    if (!popup) {
+      return;
+    }
+    /**
+     * @param {Record<string, any>} inputOptions
+     */
+    var processInputOptions = function processInputOptions(inputOptions) {
+      if (params.input === 'select') {
+        populateSelectOptions(popup, _formatInputOptions(inputOptions), params);
+      } else if (params.input === 'radio') {
+        populateRadioOptions(popup, _formatInputOptions(inputOptions), params);
+      }
+    };
+    if (hasToPromiseFn(params.inputOptions) || isPromise(params.inputOptions)) {
+      showLoading(getConfirmButton());
+      asPromise(params.inputOptions).then(function (inputOptions) {
+        instance.hideLoading();
+        processInputOptions(inputOptions);
+      });
+    } else if (_typeof(params.inputOptions) === 'object') {
+      processInputOptions(params.inputOptions);
+    } else {
+      error("Unexpected type of inputOptions! Expected object, Map or Promise, got ".concat(_typeof(params.inputOptions)));
+    }
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertOptions} params
+   */
+  var handleInputValue = function handleInputValue(instance, params) {
+    var input = instance.getInput();
+    if (!input) {
+      return;
+    }
+    hide(input);
+    asPromise(params.inputValue).then(function (inputValue) {
+      input.value = params.input === 'number' ? "".concat(parseFloat(inputValue) || 0) : "".concat(inputValue);
+      show(input);
+      input.focus();
+      instance.hideLoading();
+    })["catch"](function (err) {
+      error("Error in inputValue promise: ".concat(err));
+      input.value = '';
+      show(input);
+      input.focus();
+      instance.hideLoading();
+    });
+  };
+
+  /**
+   * @param {HTMLElement} popup
+   * @param {InputOptionFlattened[]} inputOptions
+   * @param {SweetAlertOptions} params
+   */
+  function populateSelectOptions(popup, inputOptions, params) {
+    var select = getDirectChildByClass(popup, swalClasses.select);
+    if (!select) {
+      return;
+    }
+    /**
+     * @param {HTMLElement} parent
+     * @param {string} optionLabel
+     * @param {string} optionValue
+     */
+    var renderOption = function renderOption(parent, optionLabel, optionValue) {
+      var option = document.createElement('option');
+      option.value = optionValue;
+      setInnerHtml(option, optionLabel);
+      option.selected = isSelected(optionValue, params.inputValue);
+      parent.appendChild(option);
+    };
+    inputOptions.forEach(function (inputOption) {
+      var optionValue = inputOption[0];
+      var optionLabel = inputOption[1];
+      // <optgroup> spec:
+      // https://www.w3.org/TR/html401/interact/forms.html#h-17.6
+      // "...all OPTGROUP elements must be specified directly within a SELECT element (i.e., groups may not be nested)..."
+      // check whether this is a <optgroup>
+      if (Array.isArray(optionLabel)) {
+        // if it is an array, then it is an <optgroup>
+        var optgroup = document.createElement('optgroup');
+        optgroup.label = optionValue;
+        optgroup.disabled = false; // not configurable for now
+        select.appendChild(optgroup);
+        optionLabel.forEach(function (o) {
+          return renderOption(optgroup, o[1], o[0]);
+        });
+      } else {
+        // case of <option>
+        renderOption(select, optionLabel, optionValue);
+      }
+    });
+    select.focus();
+  }
+
+  /**
+   * @param {HTMLElement} popup
+   * @param {InputOptionFlattened[]} inputOptions
+   * @param {SweetAlertOptions} params
+   */
+  function populateRadioOptions(popup, inputOptions, params) {
+    var radio = getDirectChildByClass(popup, swalClasses.radio);
+    if (!radio) {
+      return;
+    }
+    inputOptions.forEach(function (inputOption) {
+      var radioValue = inputOption[0];
+      var radioLabel = inputOption[1];
+      var radioInput = document.createElement('input');
+      var radioLabelElement = document.createElement('label');
+      radioInput.type = 'radio';
+      radioInput.name = swalClasses.radio;
+      radioInput.value = radioValue;
+      if (isSelected(radioValue, params.inputValue)) {
+        radioInput.checked = true;
+      }
+      var label = document.createElement('span');
+      setInnerHtml(label, radioLabel);
+      label.className = swalClasses.label;
+      radioLabelElement.appendChild(radioInput);
+      radioLabelElement.appendChild(label);
+      radio.appendChild(radioLabelElement);
+    });
+    var radios = radio.querySelectorAll('input');
+    if (radios.length) {
+      radios[0].focus();
+    }
+  }
+
+  /**
+   * Converts `inputOptions` into an array of `[value, label]`s
+   *
+   * @param {Record<string, any>} inputOptions
+   * @typedef {string[]} InputOptionFlattened
+   * @returns {InputOptionFlattened[]}
+   */
+  var _formatInputOptions = function formatInputOptions(inputOptions) {
+    /** @type {InputOptionFlattened[]} */
+    var result = [];
+    if (inputOptions instanceof Map) {
+      inputOptions.forEach(function (value, key) {
+        var valueFormatted = value;
+        if (_typeof(valueFormatted) === 'object') {
+          // case of <optgroup>
+          valueFormatted = _formatInputOptions(valueFormatted);
+        }
+        result.push([key, valueFormatted]);
+      });
+    } else {
+      Object.keys(inputOptions).forEach(function (key) {
+        var valueFormatted = inputOptions[key];
+        if (_typeof(valueFormatted) === 'object') {
+          // case of <optgroup>
+          valueFormatted = _formatInputOptions(valueFormatted);
+        }
+        result.push([key, valueFormatted]);
+      });
+    }
+    return result;
+  };
+
+  /**
+   * @param {string} optionValue
+   * @param {SweetAlertInputValue} inputValue
+   * @returns {boolean}
+   */
+  var isSelected = function isSelected(optionValue, inputValue) {
+    return !!inputValue && inputValue.toString() === optionValue.toString();
+  };
+
+  var _this = undefined;
+
+  /**
+   * @param {SweetAlert} instance
+   */
+  var handleConfirmButtonClick = function handleConfirmButtonClick(instance) {
+    var innerParams = privateProps.innerParams.get(instance);
+    instance.disableButtons();
+    if (innerParams.input) {
+      handleConfirmOrDenyWithInput(instance, 'confirm');
+    } else {
+      confirm(instance, true);
+    }
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   */
+  var handleDenyButtonClick = function handleDenyButtonClick(instance) {
+    var innerParams = privateProps.innerParams.get(instance);
+    instance.disableButtons();
+    if (innerParams.returnInputValueOnDeny) {
+      handleConfirmOrDenyWithInput(instance, 'deny');
+    } else {
+      deny(instance, false);
+    }
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {Function} dismissWith
+   */
+  var handleCancelButtonClick = function handleCancelButtonClick(instance, dismissWith) {
+    instance.disableButtons();
+    dismissWith(DismissReason.cancel);
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {'confirm' | 'deny'} type
+   */
+  var handleConfirmOrDenyWithInput = function handleConfirmOrDenyWithInput(instance, type) {
+    var innerParams = privateProps.innerParams.get(instance);
+    if (!innerParams.input) {
+      error("The \"input\" parameter is needed to be set when using returnInputValueOn".concat(capitalizeFirstLetter(type)));
+      return;
+    }
+    var input = instance.getInput();
+    var inputValue = getInputValue(instance, innerParams);
+    if (innerParams.inputValidator) {
+      handleInputValidator(instance, inputValue, type);
+    } else if (input && !input.checkValidity()) {
+      instance.enableButtons();
+      instance.showValidationMessage(innerParams.validationMessage || input.validationMessage);
+    } else if (type === 'deny') {
+      deny(instance, inputValue);
+    } else {
+      confirm(instance, inputValue);
+    }
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {SweetAlertInputValue} inputValue
+   * @param {'confirm' | 'deny'} type
+   */
+  var handleInputValidator = function handleInputValidator(instance, inputValue, type) {
+    var innerParams = privateProps.innerParams.get(instance);
+    instance.disableInput();
+    var validationPromise = Promise.resolve().then(function () {
+      return asPromise(innerParams.inputValidator(inputValue, innerParams.validationMessage));
+    });
+    validationPromise.then(function (validationMessage) {
+      instance.enableButtons();
+      instance.enableInput();
+      if (validationMessage) {
+        instance.showValidationMessage(validationMessage);
+      } else if (type === 'deny') {
+        deny(instance, inputValue);
+      } else {
+        confirm(instance, inputValue);
+      }
+    });
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {any} value
+   */
+  var deny = function deny(instance, value) {
+    var innerParams = privateProps.innerParams.get(instance || _this);
+    if (innerParams.showLoaderOnDeny) {
+      showLoading(getDenyButton());
+    }
+    if (innerParams.preDeny) {
+      instance.isAwaitingPromise = true; // Flagging the instance as awaiting a promise so it's own promise's reject/resolve methods doesn't get destroyed until the result from this preDeny's promise is received
+      var preDenyPromise = Promise.resolve().then(function () {
+        return asPromise(innerParams.preDeny(value, innerParams.validationMessage));
+      });
+      preDenyPromise.then(function (preDenyValue) {
+        if (preDenyValue === false) {
+          instance.hideLoading();
+          handleAwaitingPromise(instance);
+        } else {
+          instance.close({
+            isDenied: true,
+            value: typeof preDenyValue === 'undefined' ? value : preDenyValue
+          });
+        }
+      })["catch"](function (error) {
+        return rejectWith(instance || _this, error);
+      });
+    } else {
+      instance.close({
+        isDenied: true,
+        value: value
+      });
+    }
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {any} value
+   */
+  var succeedWith = function succeedWith(instance, value) {
+    instance.close({
+      isConfirmed: true,
+      value: value
+    });
+  };
+
+  /**
+   *
+   * @param {SweetAlert} instance
+   * @param {string} error
+   */
+  var rejectWith = function rejectWith(instance, error) {
+    instance.rejectPromise(error);
+  };
+
+  /**
+   *
+   * @param {SweetAlert} instance
+   * @param {any} value
+   */
+  var confirm = function confirm(instance, value) {
+    var innerParams = privateProps.innerParams.get(instance || _this);
+    if (innerParams.showLoaderOnConfirm) {
+      showLoading();
+    }
+    if (innerParams.preConfirm) {
+      instance.resetValidationMessage();
+      instance.isAwaitingPromise = true; // Flagging the instance as awaiting a promise so it's own promise's reject/resolve methods doesn't get destroyed until the result from this preConfirm's promise is received
+      var preConfirmPromise = Promise.resolve().then(function () {
+        return asPromise(innerParams.preConfirm(value, innerParams.validationMessage));
+      });
+      preConfirmPromise.then(function (preConfirmValue) {
+        if (isVisible$1(getValidationMessage()) || preConfirmValue === false) {
+          instance.hideLoading();
+          handleAwaitingPromise(instance);
+        } else {
+          succeedWith(instance, typeof preConfirmValue === 'undefined' ? value : preConfirmValue);
+        }
+      })["catch"](function (error) {
+        return rejectWith(instance || _this, error);
+      });
+    } else {
+      succeedWith(instance, value);
+    }
+  };
+
+  /**
+   * Hides loader and shows back the button which was hidden by .showLoading()
+   */
+  function hideLoading() {
+    // do nothing if popup is closed
+    var innerParams = privateProps.innerParams.get(this);
+    if (!innerParams) {
+      return;
+    }
+    var domCache = privateProps.domCache.get(this);
+    hide(domCache.loader);
+    if (isToast()) {
+      if (innerParams.icon) {
+        show(getIcon());
+      }
+    } else {
+      showRelatedButton(domCache);
+    }
+    removeClass([domCache.popup, domCache.actions], swalClasses.loading);
+    domCache.popup.removeAttribute('aria-busy');
+    domCache.popup.removeAttribute('data-loading');
+    domCache.confirmButton.disabled = false;
+    domCache.denyButton.disabled = false;
+    domCache.cancelButton.disabled = false;
+  }
+  var showRelatedButton = function showRelatedButton(domCache) {
+    var buttonToReplace = domCache.popup.getElementsByClassName(domCache.loader.getAttribute('data-button-to-replace'));
+    if (buttonToReplace.length) {
+      show(buttonToReplace[0], 'inline-block');
+    } else if (allButtonsAreHidden()) {
+      hide(domCache.actions);
+    }
+  };
+
+  /**
+   * Gets the input DOM node, this method works with input parameter.
+   *
+   * @returns {HTMLInputElement | null}
+   */
+  function getInput() {
+    var innerParams = privateProps.innerParams.get(this);
+    var domCache = privateProps.domCache.get(this);
+    if (!domCache) {
+      return null;
+    }
+    return getInput$1(domCache.popup, innerParams.input);
+  }
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {string[]} buttons
+   * @param {boolean} disabled
+   */
+  function setButtonsDisabled(instance, buttons, disabled) {
+    var domCache = privateProps.domCache.get(instance);
+    buttons.forEach(function (button) {
+      domCache[button].disabled = disabled;
+    });
+  }
+
+  /**
+   * @param {HTMLInputElement | null} input
+   * @param {boolean} disabled
+   */
+  function setInputDisabled(input, disabled) {
+    var popup = getPopup();
+    if (!popup || !input) {
+      return;
+    }
+    if (input.type === 'radio') {
+      /** @type {NodeListOf<HTMLInputElement>} */
+      var radios = popup.querySelectorAll("[name=\"".concat(swalClasses.radio, "\"]"));
+      for (var i = 0; i < radios.length; i++) {
+        radios[i].disabled = disabled;
+      }
+    } else {
+      input.disabled = disabled;
+    }
+  }
+
+  /**
+   * Enable all the buttons
+   * @this {SweetAlert}
+   */
+  function enableButtons() {
+    setButtonsDisabled(this, ['confirmButton', 'denyButton', 'cancelButton'], false);
+  }
+
+  /**
+   * Disable all the buttons
+   * @this {SweetAlert}
+   */
+  function disableButtons() {
+    setButtonsDisabled(this, ['confirmButton', 'denyButton', 'cancelButton'], true);
+  }
+
+  /**
+   * Enable the input field
+   * @this {SweetAlert}
+   */
+  function enableInput() {
+    setInputDisabled(this.getInput(), false);
+  }
+
+  /**
+   * Disable the input field
+   * @this {SweetAlert}
+   */
+  function disableInput() {
+    setInputDisabled(this.getInput(), true);
+  }
+
+  /**
+   * Show block with validation message
+   *
+   * @param {string} error
+   * @this {SweetAlert}
+   */
+  function showValidationMessage(error) {
+    var domCache = privateProps.domCache.get(this);
+    var params = privateProps.innerParams.get(this);
+    setInnerHtml(domCache.validationMessage, error);
+    domCache.validationMessage.className = swalClasses['validation-message'];
+    if (params.customClass && params.customClass.validationMessage) {
+      addClass(domCache.validationMessage, params.customClass.validationMessage);
+    }
+    show(domCache.validationMessage);
+    var input = this.getInput();
+    if (input) {
+      input.setAttribute('aria-invalid', 'true');
+      input.setAttribute('aria-describedby', swalClasses['validation-message']);
+      focusInput(input);
+      addClass(input, swalClasses.inputerror);
+    }
+  }
+
+  /**
+   * Hide block with validation message
+   *
+   * @this {SweetAlert}
+   */
+  function resetValidationMessage() {
+    var domCache = privateProps.domCache.get(this);
+    if (domCache.validationMessage) {
+      hide(domCache.validationMessage);
+    }
+    var input = this.getInput();
+    if (input) {
+      input.removeAttribute('aria-invalid');
+      input.removeAttribute('aria-describedby');
+      removeClass(input, swalClasses.inputerror);
+    }
+  }
+
+  var defaultParams = {
+    title: '',
+    titleText: '',
+    text: '',
+    html: '',
+    footer: '',
+    icon: undefined,
+    iconColor: undefined,
+    iconHtml: undefined,
+    template: undefined,
+    toast: false,
+    animation: true,
+    showClass: {
+      popup: 'swal2-show',
+      backdrop: 'swal2-backdrop-show',
+      icon: 'swal2-icon-show'
+    },
+    hideClass: {
+      popup: 'swal2-hide',
+      backdrop: 'swal2-backdrop-hide',
+      icon: 'swal2-icon-hide'
+    },
+    customClass: {},
+    target: 'body',
+    color: undefined,
+    backdrop: true,
+    heightAuto: true,
+    allowOutsideClick: true,
+    allowEscapeKey: true,
+    allowEnterKey: true,
+    stopKeydownPropagation: true,
+    keydownListenerCapture: false,
+    showConfirmButton: true,
+    showDenyButton: false,
+    showCancelButton: false,
+    preConfirm: undefined,
+    preDeny: undefined,
+    confirmButtonText: 'OK',
+    confirmButtonAriaLabel: '',
+    confirmButtonColor: undefined,
+    denyButtonText: 'No',
+    denyButtonAriaLabel: '',
+    denyButtonColor: undefined,
+    cancelButtonText: 'Cancel',
+    cancelButtonAriaLabel: '',
+    cancelButtonColor: undefined,
+    buttonsStyling: true,
+    reverseButtons: false,
+    focusConfirm: true,
+    focusDeny: false,
+    focusCancel: false,
+    returnFocus: true,
+    showCloseButton: false,
+    closeButtonHtml: '&times;',
+    closeButtonAriaLabel: 'Close this dialog',
+    loaderHtml: '',
+    showLoaderOnConfirm: false,
+    showLoaderOnDeny: false,
+    imageUrl: undefined,
+    imageWidth: undefined,
+    imageHeight: undefined,
+    imageAlt: '',
+    timer: undefined,
+    timerProgressBar: false,
+    width: undefined,
+    padding: undefined,
+    background: undefined,
+    input: undefined,
+    inputPlaceholder: '',
+    inputLabel: '',
+    inputValue: '',
+    inputOptions: {},
+    inputAutoFocus: true,
+    inputAutoTrim: true,
+    inputAttributes: {},
+    inputValidator: undefined,
+    returnInputValueOnDeny: false,
+    validationMessage: undefined,
+    grow: false,
+    position: 'center',
+    progressSteps: [],
+    currentProgressStep: undefined,
+    progressStepsDistance: undefined,
+    willOpen: undefined,
+    didOpen: undefined,
+    didRender: undefined,
+    willClose: undefined,
+    didClose: undefined,
+    didDestroy: undefined,
+    scrollbarPadding: true
+  };
+  var updatableParams = ['allowEscapeKey', 'allowOutsideClick', 'background', 'buttonsStyling', 'cancelButtonAriaLabel', 'cancelButtonColor', 'cancelButtonText', 'closeButtonAriaLabel', 'closeButtonHtml', 'color', 'confirmButtonAriaLabel', 'confirmButtonColor', 'confirmButtonText', 'currentProgressStep', 'customClass', 'denyButtonAriaLabel', 'denyButtonColor', 'denyButtonText', 'didClose', 'didDestroy', 'footer', 'hideClass', 'html', 'icon', 'iconColor', 'iconHtml', 'imageAlt', 'imageHeight', 'imageUrl', 'imageWidth', 'preConfirm', 'preDeny', 'progressSteps', 'returnFocus', 'reverseButtons', 'showCancelButton', 'showCloseButton', 'showConfirmButton', 'showDenyButton', 'text', 'title', 'titleText', 'willClose'];
+
+  /** @type {Record<string, string | undefined>} */
+  var deprecatedParams = {
+    allowEnterKey: undefined
+  };
+  var toastIncompatibleParams = ['allowOutsideClick', 'allowEnterKey', 'backdrop', 'focusConfirm', 'focusDeny', 'focusCancel', 'returnFocus', 'heightAuto', 'keydownListenerCapture'];
+
+  /**
+   * Is valid parameter
+   *
+   * @param {string} paramName
+   * @returns {boolean}
+   */
+  var isValidParameter = function isValidParameter(paramName) {
+    return Object.prototype.hasOwnProperty.call(defaultParams, paramName);
+  };
+
+  /**
+   * Is valid parameter for Swal.update() method
+   *
+   * @param {string} paramName
+   * @returns {boolean}
+   */
+  var isUpdatableParameter = function isUpdatableParameter(paramName) {
+    return updatableParams.indexOf(paramName) !== -1;
+  };
+
+  /**
+   * Is deprecated parameter
+   *
+   * @param {string} paramName
+   * @returns {string | undefined}
+   */
+  var isDeprecatedParameter = function isDeprecatedParameter(paramName) {
+    return deprecatedParams[paramName];
+  };
+
+  /**
+   * @param {string} param
+   */
+  var checkIfParamIsValid = function checkIfParamIsValid(param) {
+    if (!isValidParameter(param)) {
+      warn("Unknown parameter \"".concat(param, "\""));
+    }
+  };
+
+  /**
+   * @param {string} param
+   */
+  var checkIfToastParamIsValid = function checkIfToastParamIsValid(param) {
+    if (toastIncompatibleParams.includes(param)) {
+      warn("The parameter \"".concat(param, "\" is incompatible with toasts"));
+    }
+  };
+
+  /**
+   * @param {string} param
+   */
+  var checkIfParamIsDeprecated = function checkIfParamIsDeprecated(param) {
+    var isDeprecated = isDeprecatedParameter(param);
+    if (isDeprecated) {
+      warnAboutDeprecation(param, isDeprecated);
+    }
+  };
+
+  /**
+   * Show relevant warnings for given params
+   *
+   * @param {SweetAlertOptions} params
+   */
+  var showWarningsForParams = function showWarningsForParams(params) {
+    if (params.backdrop === false && params.allowOutsideClick) {
+      warn('"allowOutsideClick" parameter requires `backdrop` parameter to be set to `true`');
+    }
+    for (var param in params) {
+      checkIfParamIsValid(param);
+      if (params.toast) {
+        checkIfToastParamIsValid(param);
+      }
+      checkIfParamIsDeprecated(param);
+    }
+  };
+
+  /**
+   * Updates popup parameters.
+   *
+   * @param {SweetAlertOptions} params
+   */
+  function update(params) {
+    var popup = getPopup();
+    var innerParams = privateProps.innerParams.get(this);
+    if (!popup || hasClass(popup, innerParams.hideClass.popup)) {
+      warn("You're trying to update the closed or closing popup, that won't work. Use the update() method in preConfirm parameter or show a new popup.");
+      return;
+    }
+    var validUpdatableParams = filterValidParams(params);
+    var updatedParams = Object.assign({}, innerParams, validUpdatableParams);
+    render(this, updatedParams);
+    privateProps.innerParams.set(this, updatedParams);
+    Object.defineProperties(this, {
+      params: {
+        value: Object.assign({}, this.params, params),
+        writable: false,
+        enumerable: true
+      }
+    });
+  }
+
+  /**
+   * @param {SweetAlertOptions} params
+   * @returns {SweetAlertOptions}
+   */
+  var filterValidParams = function filterValidParams(params) {
+    var validUpdatableParams = {};
+    Object.keys(params).forEach(function (param) {
+      if (isUpdatableParameter(param)) {
+        validUpdatableParams[param] = params[param];
+      } else {
+        warn("Invalid parameter to update: ".concat(param));
+      }
+    });
+    return validUpdatableParams;
+  };
+
+  /**
+   * Dispose the current SweetAlert2 instance
+   */
+  function _destroy() {
+    var domCache = privateProps.domCache.get(this);
+    var innerParams = privateProps.innerParams.get(this);
+    if (!innerParams) {
+      disposeWeakMaps(this); // The WeakMaps might have been partly destroyed, we must recall it to dispose any remaining WeakMaps #2335
+      return; // This instance has already been destroyed
+    }
+
+    // Check if there is another Swal closing
+    if (domCache.popup && globalState.swalCloseEventFinishedCallback) {
+      globalState.swalCloseEventFinishedCallback();
+      delete globalState.swalCloseEventFinishedCallback;
+    }
+    if (typeof innerParams.didDestroy === 'function') {
+      innerParams.didDestroy();
+    }
+    disposeSwal(this);
+  }
+
+  /**
+   * @param {SweetAlert} instance
+   */
+  var disposeSwal = function disposeSwal(instance) {
+    disposeWeakMaps(instance);
+    // Unset this.params so GC will dispose it (#1569)
+    delete instance.params;
+    // Unset globalState props so GC will dispose globalState (#1569)
+    delete globalState.keydownHandler;
+    delete globalState.keydownTarget;
+    // Unset currentInstance
+    delete globalState.currentInstance;
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   */
+  var disposeWeakMaps = function disposeWeakMaps(instance) {
+    // If the current instance is awaiting a promise result, we keep the privateMethods to call them once the promise result is retrieved #2335
+    if (instance.isAwaitingPromise) {
+      unsetWeakMaps(privateProps, instance);
+      instance.isAwaitingPromise = true;
+    } else {
+      unsetWeakMaps(privateMethods, instance);
+      unsetWeakMaps(privateProps, instance);
+      delete instance.isAwaitingPromise;
+      // Unset instance methods
+      delete instance.disableButtons;
+      delete instance.enableButtons;
+      delete instance.getInput;
+      delete instance.disableInput;
+      delete instance.enableInput;
+      delete instance.hideLoading;
+      delete instance.disableLoading;
+      delete instance.showValidationMessage;
+      delete instance.resetValidationMessage;
+      delete instance.close;
+      delete instance.closePopup;
+      delete instance.closeModal;
+      delete instance.closeToast;
+      delete instance.rejectPromise;
+      delete instance.update;
+      delete instance._destroy;
+    }
+  };
+
+  /**
+   * @param {object} obj
+   * @param {SweetAlert} instance
+   */
+  var unsetWeakMaps = function unsetWeakMaps(obj, instance) {
+    for (var i in obj) {
+      obj[i]["delete"](instance);
+    }
+  };
+
+  var instanceMethods = /*#__PURE__*/Object.freeze({
+    __proto__: null,
+    _destroy: _destroy,
+    close: close,
+    closeModal: close,
+    closePopup: close,
+    closeToast: close,
+    disableButtons: disableButtons,
+    disableInput: disableInput,
+    disableLoading: hideLoading,
+    enableButtons: enableButtons,
+    enableInput: enableInput,
+    getInput: getInput,
+    handleAwaitingPromise: handleAwaitingPromise,
+    hideLoading: hideLoading,
+    rejectPromise: rejectPromise,
+    resetValidationMessage: resetValidationMessage,
+    showValidationMessage: showValidationMessage,
+    update: update
+  });
+
+  /**
+   * @param {SweetAlertOptions} innerParams
+   * @param {DomCache} domCache
+   * @param {Function} dismissWith
+   */
+  var handlePopupClick = function handlePopupClick(innerParams, domCache, dismissWith) {
+    if (innerParams.toast) {
+      handleToastClick(innerParams, domCache, dismissWith);
+    } else {
+      // Ignore click events that had mousedown on the popup but mouseup on the container
+      // This can happen when the user drags a slider
+      handleModalMousedown(domCache);
+
+      // Ignore click events that had mousedown on the container but mouseup on the popup
+      handleContainerMousedown(domCache);
+      handleModalClick(innerParams, domCache, dismissWith);
+    }
+  };
+
+  /**
+   * @param {SweetAlertOptions} innerParams
+   * @param {DomCache} domCache
+   * @param {Function} dismissWith
+   */
+  var handleToastClick = function handleToastClick(innerParams, domCache, dismissWith) {
+    // Closing toast by internal click
+    domCache.popup.onclick = function () {
+      if (innerParams && (isAnyButtonShown(innerParams) || innerParams.timer || innerParams.input)) {
+        return;
+      }
+      dismissWith(DismissReason.close);
+    };
+  };
+
+  /**
+   * @param {SweetAlertOptions} innerParams
+   * @returns {boolean}
+   */
+  var isAnyButtonShown = function isAnyButtonShown(innerParams) {
+    return !!(innerParams.showConfirmButton || innerParams.showDenyButton || innerParams.showCancelButton || innerParams.showCloseButton);
+  };
+  var ignoreOutsideClick = false;
+
+  /**
+   * @param {DomCache} domCache
+   */
+  var handleModalMousedown = function handleModalMousedown(domCache) {
+    domCache.popup.onmousedown = function () {
+      domCache.container.onmouseup = function (e) {
+        domCache.container.onmouseup = function () {};
+        // We only check if the mouseup target is the container because usually it doesn't
+        // have any other direct children aside of the popup
+        if (e.target === domCache.container) {
+          ignoreOutsideClick = true;
+        }
+      };
+    };
+  };
+
+  /**
+   * @param {DomCache} domCache
+   */
+  var handleContainerMousedown = function handleContainerMousedown(domCache) {
+    domCache.container.onmousedown = function (e) {
+      // prevent the modal text from being selected on double click on the container (allowOutsideClick: false)
+      if (e.target === domCache.container) {
+        e.preventDefault();
+      }
+      domCache.popup.onmouseup = function (e) {
+        domCache.popup.onmouseup = function () {};
+        // We also need to check if the mouseup target is a child of the popup
+        if (e.target === domCache.popup || e.target instanceof HTMLElement && domCache.popup.contains(e.target)) {
+          ignoreOutsideClick = true;
+        }
+      };
+    };
+  };
+
+  /**
+   * @param {SweetAlertOptions} innerParams
+   * @param {DomCache} domCache
+   * @param {Function} dismissWith
+   */
+  var handleModalClick = function handleModalClick(innerParams, domCache, dismissWith) {
+    domCache.container.onclick = function (e) {
+      if (ignoreOutsideClick) {
+        ignoreOutsideClick = false;
+        return;
+      }
+      if (e.target === domCache.container && callIfFunction(innerParams.allowOutsideClick)) {
+        dismissWith(DismissReason.backdrop);
+      }
+    };
+  };
+
+  var isJqueryElement = function isJqueryElement(elem) {
+    return _typeof(elem) === 'object' && elem.jquery;
+  };
+  var isElement = function isElement(elem) {
+    return elem instanceof Element || isJqueryElement(elem);
+  };
+  var argsToParams = function argsToParams(args) {
+    var params = {};
+    if (_typeof(args[0]) === 'object' && !isElement(args[0])) {
+      Object.assign(params, args[0]);
+    } else {
+      ['title', 'html', 'icon'].forEach(function (name, index) {
+        var arg = args[index];
+        if (typeof arg === 'string' || isElement(arg)) {
+          params[name] = arg;
+        } else if (arg !== undefined) {
+          error("Unexpected type of ".concat(name, "! Expected \"string\" or \"Element\", got ").concat(_typeof(arg)));
+        }
+      });
+    }
+    return params;
+  };
+
+  /**
+   * Main method to create a new SweetAlert2 popup
+   *
+   * @param  {...SweetAlertOptions} args
+   * @returns {Promise<SweetAlertResult>}
+   */
+  function fire() {
+    for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
+      args[_key] = arguments[_key];
+    }
+    return _construct(this, args);
+  }
+
+  /**
+   * Returns an extended version of `Swal` containing `params` as defaults.
+   * Useful for reusing Swal configuration.
+   *
+   * For example:
+   *
+   * Before:
+   * const textPromptOptions = { input: 'text', showCancelButton: true }
+   * const {value: firstName} = await Swal.fire({ ...textPromptOptions, title: 'What is your first name?' })
+   * const {value: lastName} = await Swal.fire({ ...textPromptOptions, title: 'What is your last name?' })
+   *
+   * After:
+   * const TextPrompt = Swal.mixin({ input: 'text', showCancelButton: true })
+   * const {value: firstName} = await TextPrompt('What is your first name?')
+   * const {value: lastName} = await TextPrompt('What is your last name?')
+   *
+   * @param {SweetAlertOptions} mixinParams
+   * @returns {SweetAlert}
+   */
+  function mixin(mixinParams) {
+    var MixinSwal = /*#__PURE__*/function (_this) {
+      function MixinSwal() {
+        _classCallCheck(this, MixinSwal);
+        return _callSuper(this, MixinSwal, arguments);
+      }
+      _inherits(MixinSwal, _this);
+      return _createClass(MixinSwal, [{
+        key: "_main",
+        value: function _main(params, priorityMixinParams) {
+          return _superPropGet(MixinSwal, "_main", this)([params, Object.assign({}, mixinParams, priorityMixinParams)]);
+        }
+      }]);
+    }(this); // @ts-ignore
+    return MixinSwal;
+  }
+
+  /**
+   * If `timer` parameter is set, returns number of milliseconds of timer remained.
+   * Otherwise, returns undefined.
+   *
+   * @returns {number | undefined}
+   */
+  var getTimerLeft = function getTimerLeft() {
+    return globalState.timeout && globalState.timeout.getTimerLeft();
+  };
+
+  /**
+   * Stop timer. Returns number of milliseconds of timer remained.
+   * If `timer` parameter isn't set, returns undefined.
+   *
+   * @returns {number | undefined}
+   */
+  var stopTimer = function stopTimer() {
+    if (globalState.timeout) {
+      stopTimerProgressBar();
+      return globalState.timeout.stop();
+    }
+  };
+
+  /**
+   * Resume timer. Returns number of milliseconds of timer remained.
+   * If `timer` parameter isn't set, returns undefined.
+   *
+   * @returns {number | undefined}
+   */
+  var resumeTimer = function resumeTimer() {
+    if (globalState.timeout) {
+      var remaining = globalState.timeout.start();
+      animateTimerProgressBar(remaining);
+      return remaining;
+    }
+  };
+
+  /**
+   * Resume timer. Returns number of milliseconds of timer remained.
+   * If `timer` parameter isn't set, returns undefined.
+   *
+   * @returns {number | undefined}
+   */
+  var toggleTimer = function toggleTimer() {
+    var timer = globalState.timeout;
+    return timer && (timer.running ? stopTimer() : resumeTimer());
+  };
+
+  /**
+   * Increase timer. Returns number of milliseconds of an updated timer.
+   * If `timer` parameter isn't set, returns undefined.
+   *
+   * @param {number} ms
+   * @returns {number | undefined}
+   */
+  var increaseTimer = function increaseTimer(ms) {
+    if (globalState.timeout) {
+      var remaining = globalState.timeout.increase(ms);
+      animateTimerProgressBar(remaining, true);
+      return remaining;
+    }
+  };
+
+  /**
+   * Check if timer is running. Returns true if timer is running
+   * or false if timer is paused or stopped.
+   * If `timer` parameter isn't set, returns undefined
+   *
+   * @returns {boolean}
+   */
+  var isTimerRunning = function isTimerRunning() {
+    return !!(globalState.timeout && globalState.timeout.isRunning());
+  };
+
+  var bodyClickListenerAdded = false;
+  var clickHandlers = {};
+
+  /**
+   * @param {string} attr
+   */
+  function bindClickHandler() {
+    var attr = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 'data-swal-template';
+    clickHandlers[attr] = this;
+    if (!bodyClickListenerAdded) {
+      document.body.addEventListener('click', bodyClickListener);
+      bodyClickListenerAdded = true;
+    }
+  }
+  var bodyClickListener = function bodyClickListener(event) {
+    for (var el = event.target; el && el !== document; el = el.parentNode) {
+      for (var attr in clickHandlers) {
+        var template = el.getAttribute(attr);
+        if (template) {
+          clickHandlers[attr].fire({
+            template: template
+          });
+          return;
+        }
+      }
+    }
+  };
+
+  var staticMethods = /*#__PURE__*/Object.freeze({
+    __proto__: null,
+    argsToParams: argsToParams,
+    bindClickHandler: bindClickHandler,
+    clickCancel: clickCancel,
+    clickConfirm: clickConfirm,
+    clickDeny: clickDeny,
+    enableLoading: showLoading,
+    fire: fire,
+    getActions: getActions,
+    getCancelButton: getCancelButton,
+    getCloseButton: getCloseButton,
+    getConfirmButton: getConfirmButton,
+    getContainer: getContainer,
+    getDenyButton: getDenyButton,
+    getFocusableElements: getFocusableElements,
+    getFooter: getFooter,
+    getHtmlContainer: getHtmlContainer,
+    getIcon: getIcon,
+    getIconContent: getIconContent,
+    getImage: getImage,
+    getInputLabel: getInputLabel,
+    getLoader: getLoader,
+    getPopup: getPopup,
+    getProgressSteps: getProgressSteps,
+    getTimerLeft: getTimerLeft,
+    getTimerProgressBar: getTimerProgressBar,
+    getTitle: getTitle,
+    getValidationMessage: getValidationMessage,
+    increaseTimer: increaseTimer,
+    isDeprecatedParameter: isDeprecatedParameter,
+    isLoading: isLoading,
+    isTimerRunning: isTimerRunning,
+    isUpdatableParameter: isUpdatableParameter,
+    isValidParameter: isValidParameter,
+    isVisible: isVisible,
+    mixin: mixin,
+    resumeTimer: resumeTimer,
+    showLoading: showLoading,
+    stopTimer: stopTimer,
+    toggleTimer: toggleTimer
+  });
+
+  var Timer = /*#__PURE__*/function () {
+    /**
+     * @param {Function} callback
+     * @param {number} delay
+     */
+    function Timer(callback, delay) {
+      _classCallCheck(this, Timer);
+      this.callback = callback;
+      this.remaining = delay;
+      this.running = false;
+      this.start();
+    }
+
+    /**
+     * @returns {number}
+     */
+    return _createClass(Timer, [{
+      key: "start",
+      value: function start() {
+        if (!this.running) {
+          this.running = true;
+          this.started = new Date();
+          this.id = setTimeout(this.callback, this.remaining);
+        }
+        return this.remaining;
+      }
+
+      /**
+       * @returns {number}
+       */
+    }, {
+      key: "stop",
+      value: function stop() {
+        if (this.started && this.running) {
+          this.running = false;
+          clearTimeout(this.id);
+          this.remaining -= new Date().getTime() - this.started.getTime();
+        }
+        return this.remaining;
+      }
+
+      /**
+       * @param {number} n
+       * @returns {number}
+       */
+    }, {
+      key: "increase",
+      value: function increase(n) {
+        var running = this.running;
+        if (running) {
+          this.stop();
+        }
+        this.remaining += n;
+        if (running) {
+          this.start();
+        }
+        return this.remaining;
+      }
+
+      /**
+       * @returns {number}
+       */
+    }, {
+      key: "getTimerLeft",
+      value: function getTimerLeft() {
+        if (this.running) {
+          this.stop();
+          this.start();
+        }
+        return this.remaining;
+      }
+
+      /**
+       * @returns {boolean}
+       */
+    }, {
+      key: "isRunning",
+      value: function isRunning() {
+        return this.running;
+      }
+    }]);
+  }();
+
+  var swalStringParams = ['swal-title', 'swal-html', 'swal-footer'];
+
+  /**
+   * @param {SweetAlertOptions} params
+   * @returns {SweetAlertOptions}
+   */
+  var getTemplateParams = function getTemplateParams(params) {
+    var template = typeof params.template === 'string' ? ( /** @type {HTMLTemplateElement} */document.querySelector(params.template)) : params.template;
+    if (!template) {
+      return {};
+    }
+    /** @type {DocumentFragment} */
+    var templateContent = template.content;
+    showWarningsForElements(templateContent);
+    var result = Object.assign(getSwalParams(templateContent), getSwalFunctionParams(templateContent), getSwalButtons(templateContent), getSwalImage(templateContent), getSwalIcon(templateContent), getSwalInput(templateContent), getSwalStringParams(templateContent, swalStringParams));
+    return result;
+  };
+
+  /**
+   * @param {DocumentFragment} templateContent
+   * @returns {Record<string, any>}
+   */
+  var getSwalParams = function getSwalParams(templateContent) {
+    /** @type {Record<string, any>} */
+    var result = {};
+    /** @type {HTMLElement[]} */
+    var swalParams = Array.from(templateContent.querySelectorAll('swal-param'));
+    swalParams.forEach(function (param) {
+      showWarningsForAttributes(param, ['name', 'value']);
+      var paramName = /** @type {keyof SweetAlertOptions} */param.getAttribute('name');
+      var value = param.getAttribute('value');
+      if (!paramName || !value) {
+        return;
+      }
+      if (typeof defaultParams[paramName] === 'boolean') {
+        result[paramName] = value !== 'false';
+      } else if (_typeof(defaultParams[paramName]) === 'object') {
+        result[paramName] = JSON.parse(value);
+      } else {
+        result[paramName] = value;
+      }
+    });
+    return result;
+  };
+
+  /**
+   * @param {DocumentFragment} templateContent
+   * @returns {Record<string, any>}
+   */
+  var getSwalFunctionParams = function getSwalFunctionParams(templateContent) {
+    /** @type {Record<string, any>} */
+    var result = {};
+    /** @type {HTMLElement[]} */
+    var swalFunctions = Array.from(templateContent.querySelectorAll('swal-function-param'));
+    swalFunctions.forEach(function (param) {
+      var paramName = /** @type {keyof SweetAlertOptions} */param.getAttribute('name');
+      var value = param.getAttribute('value');
+      if (!paramName || !value) {
+        return;
+      }
+      result[paramName] = new Function("return ".concat(value))();
+    });
+    return result;
+  };
+
+  /**
+   * @param {DocumentFragment} templateContent
+   * @returns {Record<string, any>}
+   */
+  var getSwalButtons = function getSwalButtons(templateContent) {
+    /** @type {Record<string, any>} */
+    var result = {};
+    /** @type {HTMLElement[]} */
+    var swalButtons = Array.from(templateContent.querySelectorAll('swal-button'));
+    swalButtons.forEach(function (button) {
+      showWarningsForAttributes(button, ['type', 'color', 'aria-label']);
+      var type = button.getAttribute('type');
+      if (!type || !['confirm', 'cancel', 'deny'].includes(type)) {
+        return;
+      }
+      result["".concat(type, "ButtonText")] = button.innerHTML;
+      result["show".concat(capitalizeFirstLetter(type), "Button")] = true;
+      if (button.hasAttribute('color')) {
+        result["".concat(type, "ButtonColor")] = button.getAttribute('color');
+      }
+      if (button.hasAttribute('aria-label')) {
+        result["".concat(type, "ButtonAriaLabel")] = button.getAttribute('aria-label');
+      }
+    });
+    return result;
+  };
+
+  /**
+   * @param {DocumentFragment} templateContent
+   * @returns {Pick<SweetAlertOptions, 'imageUrl' | 'imageWidth' | 'imageHeight' | 'imageAlt'>}
+   */
+  var getSwalImage = function getSwalImage(templateContent) {
+    var result = {};
+    /** @type {HTMLElement | null} */
+    var image = templateContent.querySelector('swal-image');
+    if (image) {
+      showWarningsForAttributes(image, ['src', 'width', 'height', 'alt']);
+      if (image.hasAttribute('src')) {
+        result.imageUrl = image.getAttribute('src') || undefined;
+      }
+      if (image.hasAttribute('width')) {
+        result.imageWidth = image.getAttribute('width') || undefined;
+      }
+      if (image.hasAttribute('height')) {
+        result.imageHeight = image.getAttribute('height') || undefined;
+      }
+      if (image.hasAttribute('alt')) {
+        result.imageAlt = image.getAttribute('alt') || undefined;
+      }
+    }
+    return result;
+  };
+
+  /**
+   * @param {DocumentFragment} templateContent
+   * @returns {Record<string, any>}
+   */
+  var getSwalIcon = function getSwalIcon(templateContent) {
+    var result = {};
+    /** @type {HTMLElement | null} */
+    var icon = templateContent.querySelector('swal-icon');
+    if (icon) {
+      showWarningsForAttributes(icon, ['type', 'color']);
+      if (icon.hasAttribute('type')) {
+        result.icon = icon.getAttribute('type');
+      }
+      if (icon.hasAttribute('color')) {
+        result.iconColor = icon.getAttribute('color');
+      }
+      result.iconHtml = icon.innerHTML;
+    }
+    return result;
+  };
+
+  /**
+   * @param {DocumentFragment} templateContent
+   * @returns {Record<string, any>}
+   */
+  var getSwalInput = function getSwalInput(templateContent) {
+    /** @type {Record<string, any>} */
+    var result = {};
+    /** @type {HTMLElement | null} */
+    var input = templateContent.querySelector('swal-input');
+    if (input) {
+      showWarningsForAttributes(input, ['type', 'label', 'placeholder', 'value']);
+      result.input = input.getAttribute('type') || 'text';
+      if (input.hasAttribute('label')) {
+        result.inputLabel = input.getAttribute('label');
+      }
+      if (input.hasAttribute('placeholder')) {
+        result.inputPlaceholder = input.getAttribute('placeholder');
+      }
+      if (input.hasAttribute('value')) {
+        result.inputValue = input.getAttribute('value');
+      }
+    }
+    /** @type {HTMLElement[]} */
+    var inputOptions = Array.from(templateContent.querySelectorAll('swal-input-option'));
+    if (inputOptions.length) {
+      result.inputOptions = {};
+      inputOptions.forEach(function (option) {
+        showWarningsForAttributes(option, ['value']);
+        var optionValue = option.getAttribute('value');
+        if (!optionValue) {
+          return;
+        }
+        var optionName = option.innerHTML;
+        result.inputOptions[optionValue] = optionName;
+      });
+    }
+    return result;
+  };
+
+  /**
+   * @param {DocumentFragment} templateContent
+   * @param {string[]} paramNames
+   * @returns {Record<string, any>}
+   */
+  var getSwalStringParams = function getSwalStringParams(templateContent, paramNames) {
+    /** @type {Record<string, any>} */
+    var result = {};
+    for (var i in paramNames) {
+      var paramName = paramNames[i];
+      /** @type {HTMLElement | null} */
+      var tag = templateContent.querySelector(paramName);
+      if (tag) {
+        showWarningsForAttributes(tag, []);
+        result[paramName.replace(/^swal-/, '')] = tag.innerHTML.trim();
+      }
+    }
+    return result;
+  };
+
+  /**
+   * @param {DocumentFragment} templateContent
+   */
+  var showWarningsForElements = function showWarningsForElements(templateContent) {
+    var allowedElements = swalStringParams.concat(['swal-param', 'swal-function-param', 'swal-button', 'swal-image', 'swal-icon', 'swal-input', 'swal-input-option']);
+    Array.from(templateContent.children).forEach(function (el) {
+      var tagName = el.tagName.toLowerCase();
+      if (!allowedElements.includes(tagName)) {
+        warn("Unrecognized element <".concat(tagName, ">"));
+      }
+    });
+  };
+
+  /**
+   * @param {HTMLElement} el
+   * @param {string[]} allowedAttributes
+   */
+  var showWarningsForAttributes = function showWarningsForAttributes(el, allowedAttributes) {
+    Array.from(el.attributes).forEach(function (attribute) {
+      if (allowedAttributes.indexOf(attribute.name) === -1) {
+        warn(["Unrecognized attribute \"".concat(attribute.name, "\" on <").concat(el.tagName.toLowerCase(), ">."), "".concat(allowedAttributes.length ? "Allowed attributes are: ".concat(allowedAttributes.join(', ')) : 'To set the value, use HTML within the element.')]);
+      }
+    });
+  };
+
+  var SHOW_CLASS_TIMEOUT = 10;
+
+  /**
+   * Open popup, add necessary classes and styles, fix scrollbar
+   *
+   * @param {SweetAlertOptions} params
+   */
+  var openPopup = function openPopup(params) {
+    var container = getContainer();
+    var popup = getPopup();
+    if (typeof params.willOpen === 'function') {
+      params.willOpen(popup);
+    }
+    var bodyStyles = window.getComputedStyle(document.body);
+    var initialBodyOverflow = bodyStyles.overflowY;
+    addClasses(container, popup, params);
+
+    // scrolling is 'hidden' until animation is done, after that 'auto'
+    setTimeout(function () {
+      setScrollingVisibility(container, popup);
+    }, SHOW_CLASS_TIMEOUT);
+    if (isModal()) {
+      fixScrollContainer(container, params.scrollbarPadding, initialBodyOverflow);
+      setAriaHidden();
+    }
+    if (!isToast() && !globalState.previousActiveElement) {
+      globalState.previousActiveElement = document.activeElement;
+    }
+    if (typeof params.didOpen === 'function') {
+      setTimeout(function () {
+        return params.didOpen(popup);
+      });
+    }
+    removeClass(container, swalClasses['no-transition']);
+  };
+
+  /**
+   * @param {AnimationEvent} event
+   */
+  var _swalOpenAnimationFinished = function swalOpenAnimationFinished(event) {
+    var popup = getPopup();
+    if (event.target !== popup || !animationEndEvent) {
+      return;
+    }
+    var container = getContainer();
+    popup.removeEventListener(animationEndEvent, _swalOpenAnimationFinished);
+    container.style.overflowY = 'auto';
+  };
+
+  /**
+   * @param {HTMLElement} container
+   * @param {HTMLElement} popup
+   */
+  var setScrollingVisibility = function setScrollingVisibility(container, popup) {
+    if (animationEndEvent && hasCssAnimation(popup)) {
+      container.style.overflowY = 'hidden';
+      popup.addEventListener(animationEndEvent, _swalOpenAnimationFinished);
+    } else {
+      container.style.overflowY = 'auto';
+    }
+  };
+
+  /**
+   * @param {HTMLElement} container
+   * @param {boolean} scrollbarPadding
+   * @param {string} initialBodyOverflow
+   */
+  var fixScrollContainer = function fixScrollContainer(container, scrollbarPadding, initialBodyOverflow) {
+    iOSfix();
+    if (scrollbarPadding && initialBodyOverflow !== 'hidden') {
+      replaceScrollbarWithPadding(initialBodyOverflow);
+    }
+
+    // sweetalert2/issues/1247
+    setTimeout(function () {
+      container.scrollTop = 0;
+    });
+  };
+
+  /**
+   * @param {HTMLElement} container
+   * @param {HTMLElement} popup
+   * @param {SweetAlertOptions} params
+   */
+  var addClasses = function addClasses(container, popup, params) {
+    addClass(container, params.showClass.backdrop);
+    if (params.animation) {
+      // this workaround with opacity is needed for https://github.com/sweetalert2/sweetalert2/issues/2059
+      popup.style.setProperty('opacity', '0', 'important');
+      show(popup, 'grid');
+      setTimeout(function () {
+        // Animate popup right after showing it
+        addClass(popup, params.showClass.popup);
+        // and remove the opacity workaround
+        popup.style.removeProperty('opacity');
+      }, SHOW_CLASS_TIMEOUT); // 10ms in order to fix #2062
+    } else {
+      show(popup, 'grid');
+    }
+    addClass([document.documentElement, document.body], swalClasses.shown);
+    if (params.heightAuto && params.backdrop && !params.toast) {
+      addClass([document.documentElement, document.body], swalClasses['height-auto']);
+    }
+  };
+
+  var defaultInputValidators = {
+    /**
+     * @param {string} string
+     * @param {string} [validationMessage]
+     * @returns {Promise<string | void>}
+     */
+    email: function email(string, validationMessage) {
+      return /^[a-zA-Z0-9.+_'-]+@[a-zA-Z0-9.-]+\.[a-zA-Z0-9-]+$/.test(string) ? Promise.resolve() : Promise.resolve(validationMessage || 'Invalid email address');
+    },
+    /**
+     * @param {string} string
+     * @param {string} [validationMessage]
+     * @returns {Promise<string | void>}
+     */
+    url: function url(string, validationMessage) {
+      // taken from https://stackoverflow.com/a/3809435 with a small change from #1306 and #2013
+      return /^https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-z]{2,63}\b([-a-zA-Z0-9@:%_+.~#?&/=]*)$/.test(string) ? Promise.resolve() : Promise.resolve(validationMessage || 'Invalid URL');
+    }
+  };
+
+  /**
+   * @param {SweetAlertOptions} params
+   */
+  function setDefaultInputValidators(params) {
+    // Use default `inputValidator` for supported input types if not provided
+    if (params.inputValidator) {
+      return;
+    }
+    if (params.input === 'email') {
+      params.inputValidator = defaultInputValidators['email'];
+    }
+    if (params.input === 'url') {
+      params.inputValidator = defaultInputValidators['url'];
+    }
+  }
+
+  /**
+   * @param {SweetAlertOptions} params
+   */
+  function validateCustomTargetElement(params) {
+    // Determine if the custom target element is valid
+    if (!params.target || typeof params.target === 'string' && !document.querySelector(params.target) || typeof params.target !== 'string' && !params.target.appendChild) {
+      warn('Target parameter is not valid, defaulting to "body"');
+      params.target = 'body';
+    }
+  }
+
+  /**
+   * Set type, text and actions on popup
+   *
+   * @param {SweetAlertOptions} params
+   */
+  function setParameters(params) {
+    setDefaultInputValidators(params);
+
+    // showLoaderOnConfirm && preConfirm
+    if (params.showLoaderOnConfirm && !params.preConfirm) {
+      warn('showLoaderOnConfirm is set to true, but preConfirm is not defined.\n' + 'showLoaderOnConfirm should be used together with preConfirm, see usage example:\n' + 'https://sweetalert2.github.io/#ajax-request');
+    }
+    validateCustomTargetElement(params);
+
+    // Replace newlines with <br> in title
+    if (typeof params.title === 'string') {
+      params.title = params.title.split('\n').join('<br />');
+    }
+    init(params);
+  }
+
+  /** @type {SweetAlert} */
+  var currentInstance;
+  var _promise = /*#__PURE__*/new WeakMap();
+  var SweetAlert = /*#__PURE__*/function () {
+    /**
+     * @param {...any} args
+     * @this {SweetAlert}
+     */
+    function SweetAlert() {
+      _classCallCheck(this, SweetAlert);
+      /**
+       * @type {Promise<SweetAlertResult>}
+       */
+      _classPrivateFieldInitSpec(this, _promise, void 0);
+      // Prevent run in Node env
+      if (typeof window === 'undefined') {
+        return;
+      }
+      currentInstance = this;
+
+      // @ts-ignore
+      for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
+        args[_key] = arguments[_key];
+      }
+      var outerParams = Object.freeze(this.constructor.argsToParams(args));
+
+      /** @type {Readonly<SweetAlertOptions>} */
+      this.params = outerParams;
+
+      /** @type {boolean} */
+      this.isAwaitingPromise = false;
+      _classPrivateFieldSet2(_promise, this, this._main(currentInstance.params));
+    }
+    return _createClass(SweetAlert, [{
+      key: "_main",
+      value: function _main(userParams) {
+        var mixinParams = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : {};
+        showWarningsForParams(Object.assign({}, mixinParams, userParams));
+        if (globalState.currentInstance) {
+          var swalPromiseResolve = privateMethods.swalPromiseResolve.get(globalState.currentInstance);
+          var isAwaitingPromise = globalState.currentInstance.isAwaitingPromise;
+          globalState.currentInstance._destroy();
+          if (!isAwaitingPromise) {
+            swalPromiseResolve({
+              isDismissed: true
+            });
+          }
+          if (isModal()) {
+            unsetAriaHidden();
+          }
+        }
+        globalState.currentInstance = currentInstance;
+        var innerParams = prepareParams(userParams, mixinParams);
+        setParameters(innerParams);
+        Object.freeze(innerParams);
+
+        // clear the previous timer
+        if (globalState.timeout) {
+          globalState.timeout.stop();
+          delete globalState.timeout;
+        }
+
+        // clear the restore focus timeout
+        clearTimeout(globalState.restoreFocusTimeout);
+        var domCache = populateDomCache(currentInstance);
+        render(currentInstance, innerParams);
+        privateProps.innerParams.set(currentInstance, innerParams);
+        return swalPromise(currentInstance, domCache, innerParams);
+      }
+
+      // `catch` cannot be the name of a module export, so we define our thenable methods here instead
+    }, {
+      key: "then",
+      value: function then(onFulfilled) {
+        return _classPrivateFieldGet2(_promise, this).then(onFulfilled);
+      }
+    }, {
+      key: "finally",
+      value: function _finally(onFinally) {
+        return _classPrivateFieldGet2(_promise, this)["finally"](onFinally);
+      }
+    }]);
+  }();
+
+  /**
+   * @param {SweetAlert} instance
+   * @param {DomCache} domCache
+   * @param {SweetAlertOptions} innerParams
+   * @returns {Promise}
+   */
+  var swalPromise = function swalPromise(instance, domCache, innerParams) {
+    return new Promise(function (resolve, reject) {
+      // functions to handle all closings/dismissals
+      /**
+       * @param {DismissReason} dismiss
+       */
+      var dismissWith = function dismissWith(dismiss) {
+        instance.close({
+          isDismissed: true,
+          dismiss: dismiss
+        });
+      };
+      privateMethods.swalPromiseResolve.set(instance, resolve);
+      privateMethods.swalPromiseReject.set(instance, reject);
+      domCache.confirmButton.onclick = function () {
+        handleConfirmButtonClick(instance);
+      };
+      domCache.denyButton.onclick = function () {
+        handleDenyButtonClick(instance);
+      };
+      domCache.cancelButton.onclick = function () {
+        handleCancelButtonClick(instance, dismissWith);
+      };
+      domCache.closeButton.onclick = function () {
+        dismissWith(DismissReason.close);
+      };
+      handlePopupClick(innerParams, domCache, dismissWith);
+      addKeydownHandler(globalState, innerParams, dismissWith);
+      handleInputOptionsAndValue(instance, innerParams);
+      openPopup(innerParams);
+      setupTimer(globalState, innerParams, dismissWith);
+      initFocus(domCache, innerParams);
+
+      // Scroll container to top on open (#1247, #1946)
+      setTimeout(function () {
+        domCache.container.scrollTop = 0;
+      });
+    });
+  };
+
+  /**
+   * @param {SweetAlertOptions} userParams
+   * @param {SweetAlertOptions} mixinParams
+   * @returns {SweetAlertOptions}
+   */
+  var prepareParams = function prepareParams(userParams, mixinParams) {
+    var templateParams = getTemplateParams(userParams);
+    var params = Object.assign({}, defaultParams, mixinParams, templateParams, userParams); // precedence is described in #2131
+    params.showClass = Object.assign({}, defaultParams.showClass, params.showClass);
+    params.hideClass = Object.assign({}, defaultParams.hideClass, params.hideClass);
+    if (params.animation === false) {
+      params.showClass = {
+        backdrop: 'swal2-noanimation'
+      };
+      params.hideClass = {};
+    }
+    return params;
+  };
+
+  /**
+   * @param {SweetAlert} instance
+   * @returns {DomCache}
+   */
+  var populateDomCache = function populateDomCache(instance) {
+    var domCache = {
+      popup: getPopup(),
+      container: getContainer(),
+      actions: getActions(),
+      confirmButton: getConfirmButton(),
+      denyButton: getDenyButton(),
+      cancelButton: getCancelButton(),
+      loader: getLoader(),
+      closeButton: getCloseButton(),
+      validationMessage: getValidationMessage(),
+      progressSteps: getProgressSteps()
+    };
+    privateProps.domCache.set(instance, domCache);
+    return domCache;
+  };
+
+  /**
+   * @param {GlobalState} globalState
+   * @param {SweetAlertOptions} innerParams
+   * @param {Function} dismissWith
+   */
+  var setupTimer = function setupTimer(globalState, innerParams, dismissWith) {
+    var timerProgressBar = getTimerProgressBar();
+    hide(timerProgressBar);
+    if (innerParams.timer) {
+      globalState.timeout = new Timer(function () {
+        dismissWith('timer');
+        delete globalState.timeout;
+      }, innerParams.timer);
+      if (innerParams.timerProgressBar) {
+        show(timerProgressBar);
+        applyCustomClass(timerProgressBar, innerParams, 'timerProgressBar');
+        setTimeout(function () {
+          if (globalState.timeout && globalState.timeout.running) {
+            // timer can be already stopped or unset at this point
+            animateTimerProgressBar(innerParams.timer);
+          }
+        });
+      }
+    }
+  };
+
+  /**
+   * Initialize focus in the popup:
+   *
+   * 1. If `toast` is `true`, don't steal focus from the document.
+   * 2. Else if there is an [autofocus] element, focus it.
+   * 3. Else if `focusConfirm` is `true` and confirm button is visible, focus it.
+   * 4. Else if `focusDeny` is `true` and deny button is visible, focus it.
+   * 5. Else if `focusCancel` is `true` and cancel button is visible, focus it.
+   * 6. Else focus the first focusable element in a popup (if any).
+   *
+   * @param {DomCache} domCache
+   * @param {SweetAlertOptions} innerParams
+   */
+  var initFocus = function initFocus(domCache, innerParams) {
+    if (innerParams.toast) {
+      return;
+    }
+    // TODO: this is dumb, remove `allowEnterKey` param in the next major version
+    if (!callIfFunction(innerParams.allowEnterKey)) {
+      warnAboutDeprecation('allowEnterKey');
+      blurActiveElement();
+      return;
+    }
+    if (focusAutofocus(domCache)) {
+      return;
+    }
+    if (focusButton(domCache, innerParams)) {
+      return;
+    }
+    setFocus(-1, 1);
+  };
+
+  /**
+   * @param {DomCache} domCache
+   * @returns {boolean}
+   */
+  var focusAutofocus = function focusAutofocus(domCache) {
+    var autofocusElements = domCache.popup.querySelectorAll('[autofocus]');
+    var _iterator = _createForOfIteratorHelper(autofocusElements),
+      _step;
+    try {
+      for (_iterator.s(); !(_step = _iterator.n()).done;) {
+        var autofocusElement = _step.value;
+        if (autofocusElement instanceof HTMLElement && isVisible$1(autofocusElement)) {
+          autofocusElement.focus();
+          return true;
+        }
+      }
+    } catch (err) {
+      _iterator.e(err);
+    } finally {
+      _iterator.f();
+    }
+    return false;
+  };
+
+  /**
+   * @param {DomCache} domCache
+   * @param {SweetAlertOptions} innerParams
+   * @returns {boolean}
+   */
+  var focusButton = function focusButton(domCache, innerParams) {
+    if (innerParams.focusDeny && isVisible$1(domCache.denyButton)) {
+      domCache.denyButton.focus();
+      return true;
+    }
+    if (innerParams.focusCancel && isVisible$1(domCache.cancelButton)) {
+      domCache.cancelButton.focus();
+      return true;
+    }
+    if (innerParams.focusConfirm && isVisible$1(domCache.confirmButton)) {
+      domCache.confirmButton.focus();
+      return true;
+    }
+    return false;
+  };
+  var blurActiveElement = function blurActiveElement() {
+    if (document.activeElement instanceof HTMLElement && typeof document.activeElement.blur === 'function') {
+      document.activeElement.blur();
+    }
+  };
+
+  // Dear russian users visiting russian sites. Let's have fun.
+  if (typeof window !== 'undefined' && /^ru\b/.test(navigator.language) && location.host.match(/\.(ru|su|by|xn--p1ai)$/)) {
+    var now = new Date();
+    var initiationDate = localStorage.getItem('swal-initiation');
+    if (!initiationDate) {
+      localStorage.setItem('swal-initiation', "".concat(now));
+    } else if ((now.getTime() - Date.parse(initiationDate)) / (1000 * 60 * 60 * 24) > 3) {
+      setTimeout(function () {
+        document.body.style.pointerEvents = 'none';
+        var ukrainianAnthem = document.createElement('audio');
+        ukrainianAnthem.src = 'https://flag-gimn.ru/wp-content/uploads/2021/09/Ukraina.mp3';
+        ukrainianAnthem.loop = true;
+        document.body.appendChild(ukrainianAnthem);
+        setTimeout(function () {
+          ukrainianAnthem.play()["catch"](function () {
+            // ignore
+          });
+        }, 2500);
+      }, 500);
+    }
+  }
+
+  // Assign instance methods from src/instanceMethods/*.js to prototype
+  SweetAlert.prototype.disableButtons = disableButtons;
+  SweetAlert.prototype.enableButtons = enableButtons;
+  SweetAlert.prototype.getInput = getInput;
+  SweetAlert.prototype.disableInput = disableInput;
+  SweetAlert.prototype.enableInput = enableInput;
+  SweetAlert.prototype.hideLoading = hideLoading;
+  SweetAlert.prototype.disableLoading = hideLoading;
+  SweetAlert.prototype.showValidationMessage = showValidationMessage;
+  SweetAlert.prototype.resetValidationMessage = resetValidationMessage;
+  SweetAlert.prototype.close = close;
+  SweetAlert.prototype.closePopup = close;
+  SweetAlert.prototype.closeModal = close;
+  SweetAlert.prototype.closeToast = close;
+  SweetAlert.prototype.rejectPromise = rejectPromise;
+  SweetAlert.prototype.update = update;
+  SweetAlert.prototype._destroy = _destroy;
+
+  // Assign static methods from src/staticMethods/*.js to constructor
+  Object.assign(SweetAlert, staticMethods);
+
+  // Proxy to instance methods to constructor, for now, for backwards compatibility
+  Object.keys(instanceMethods).forEach(function (key) {
+    /**
+     * @param {...any} args
+     * @returns {any | undefined}
+     */
+    SweetAlert[key] = function () {
+      if (currentInstance && currentInstance[key]) {
+        var _currentInstance;
+        return (_currentInstance = currentInstance)[key].apply(_currentInstance, arguments);
+      }
+      return null;
+    };
+  });
+  SweetAlert.DismissReason = DismissReason;
+  SweetAlert.version = '11.12.4';
+
+  var Swal = SweetAlert;
+  // @ts-ignore
+  Swal["default"] = Swal;
+
+  return Swal;
+
+}));
+if (typeof this !== 'undefined' && this.Sweetalert2){this.swal = this.sweetAlert = this.Swal = this.SweetAlert = this.Sweetalert2}

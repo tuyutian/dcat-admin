@@ -1,21 +1,27 @@
 
-import Swal from '../sweetalert/sweetalert2'
+import SwalPlugin from '../sweetalert/sweetalert2'
 
 let w = window;
 
 export default class SweetAlert2 {
     constructor(Dcat) {
-        let _this = this;
+        // Ensure Dcat exists
+        if (!Dcat) {
+            console.error('Dcat object is required');
+            return;
+        }
 
-        Swal.success = _this.success.bind(_this);
-        Swal.error = _this.error.bind(_this);
-        Swal.info = _this.info.bind(_this);
-        Swal.warning = _this.warning.bind(_this);
-        Swal.confirm = _this.confirm.bind(_this);
-
-        w.swal = w.Swal = _this.swal = Dcat.swal = Swal;
-        
-        Dcat.confirm = Swal.confirm;
+        // Bind methods to this instance
+        SwalPlugin.success = this.success.bind(this);
+        SwalPlugin.error = this.error.bind(this);
+        SwalPlugin.info = this.info.bind(this);
+        SwalPlugin.warning = this.warning.bind(this);
+        SwalPlugin.confirm = this.confirm.bind(this);
+        console.log(SwalPlugin)
+        // Assign SweetAlert2 instance
+        w.swal = w.Swal = Dcat.swal = SwalPlugin;
+        // Optionally assign confirm method to Dcat
+        Dcat.confirm = SwalPlugin.confirm;
     }
 
     success(title, message, options) {
