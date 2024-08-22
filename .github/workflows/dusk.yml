@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: shivammathur/setup-php@b7d1d9c9a92d8d8463ce36d7f60da34d461724f8
         with:
-          php-version: '7.2'
+          php-version: '8.2'
 
       - uses: actions/checkout@v2
 
@@ -28,17 +28,17 @@ jobs:
           # Version of MySQL to use
           mysql version: 5.7
           # MYSQL_ROOT_PASSWORD - root superuser password
-          mysql root password: 123456
+          mysql root password: maxotm
           # MYSQL_DATABASE - name for the default database that is created
           mysql database: laravel
           # MYSQL_USER - create the specified user with superuser power for created database
           mysql user: root
           # MYSQL_PASSWORD - specified superuser password which user is power for created database
-          mysql password: 123456
+          mysql password: maxotm
 
       - name: Install Dependencies
         run: |
-          composer create-project --prefer-dist laravel/laravel laravel-tests 5.*
+          composer create-project --prefer-dist laravel/laravel laravel-tests 11.*
           sh ./tests/bin/install-dep.sh
 
       - name: Install Admin

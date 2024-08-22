@@ -15,5 +15,5 @@ cp -f ./phpunit.dusk.xml ./laravel-tests
 cp -f ./.env.testing ./laravel-tests/.env
 cd ./laravel-tests
 php artisan admin:composer-config
-composer require dcat/laravel-admin:*@dev
+composer require tuyutian/dcat-admin:dev-master
 composer require "laravel/dusk:*" --dev # --ignore-platform-reqs
